@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "a746194488a91ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b873777ba0844a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1e9f75a9646bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f896354aebc7ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "96a5b068fffc93ca",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9fef859732de1e9b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "afae95e57d813619",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "217cf15f08a5fea4",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b9f50b1c8b73584b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d84306fccde795d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MCO.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9dc9268a323cee8a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "MCO.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0fcdccd15864cea7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "MCO.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8f1e9f75a9646bf7",
+  "lastOpenFiles": [
+    "Cours.md",
+    "Sans titre 1.md",
+    "K.md"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "ef212a11d6938e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c5af957abe04ef8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MCO.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "63f613e0b9fe7e18"
+      },
+      {
+        "id": "f532e57475be4e47",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "MCO.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224431,
+              "close": false
+            }
+          }
+        },
+        "group": "63f613e0b9fe7e18"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1a7c26c537ea549",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2145d422a72dc9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b0c6652c49bcbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2755ca832ed2f0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7479e252db210d2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1497714a2fd6702",
+    "type": "split",
+    "children": [
+      {
+        "id": "96659945b39373e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc3fc7f07b55a4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MCO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a659168c0b68dba4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MCO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1238834b630f4abc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7b919424b10363e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MCO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c5af957abe04ef8",
+  "lastOpenFiles": [
+    "En économie.md",
+    "Trois types de modèles.md",
+    "Hypothèses.md",
+    "MCO.md",
+    "Variable endogène.md",
+    "Modèle des moindres carrés ordinaires.md",
+    "Variables exogènes.md",
+    "[Variables exogènes.md",
+    "Econométrie.md",
+    "Cours.md"
+  ]
+}
