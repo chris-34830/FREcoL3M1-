@@ -11,144 +11,96 @@
             "id": "0dbffb22bd3456b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "18fc3baf9f006628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alpha.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8ef0f03b284cb0e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tester signification de la pente (pas IA).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "93c620348da8a356",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variance du résidu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "ce4a86f7940f57fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variance Beta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "36403658e0b22989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variance alpha.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "3850efffc9a60515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tester signification constante (IA).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "abccfaaadc495771",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test hypothèse résidu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "89fd778c11342404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Somme des carrés expliquées.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d49f930d451e2dee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Somme des carrés résiduelles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c4290db3206da40e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sommes des carrés totaux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "02903b52023dc8d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analyse de la variance.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -163,12 +115,8 @@
             "id": "6bfcbae67d446b48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coefficient de détermination.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -183,16 +131,24 @@
             "id": "f30212023f5887eb",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c095e0b7c07a1c5d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Variance alpha.md",
+                "file": "Tester signification de la pente (pas IA).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -258,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variance alpha.md",
+                "file": "Tester signification de la pente (pas IA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variance alpha.md",
+                "file": "Tester signification de la pente (pas IA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variance alpha.md"
+                "file": "Tester signification de la pente (pas IA).md"
               }
             }
           }
@@ -312,17 +268,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f30212023f5887eb",
+  "active": "c095e0b7c07a1c5d",
   "lastOpenFiles": [
-    "Intervalle de prévision.md",
-    "Coefficient de détermination.md",
-    "Analyse de la variance.md",
-    "Notations.md",
-    "Variance alpha.md",
+    "Trois types de modèles.md",
     "Variance Beta.md",
-    "Variance du résidu.md",
-    "Tester signification de la pente (pas IA).md",
-    "Beta.md",
-    "Tester signification constante (IA).md"
+    "Econométrie/Variance alpha.md",
+    "Econométrie/Variance Beta.md",
+    "Econométrie/Tester signification constante (IA).md",
+    "Econométrie/Test hypothèse résidu.md",
+    "Econométrie/Beta.md",
+    "Econométrie/Econométrie.md",
+    "Econométrie/Cours.md",
+    "Econométrie/En économie.md"
   ]
 }
