@@ -1,4 +1,6 @@
-[[Coefficient de détermination]][[Variance alpha]][[Variance Beta]][[Variance du résidu]][[Somme des carrés expliquées]][[Sommes des carrés totaux]][[Somme des carrés résiduelles]][[Econométrie]][[Modèle des moindres carrés ordinaires]]
+
+[[Modèle des moindres carrés ordinaires]][[Somme des carrés expliquées]][[Sommes des carrés totaux]][[Somme des carrés résiduelles]]
+
 
 | Source de la variance | Somme des carrées | Degrès de libertés |
 | --------------------- | ----------------- | ------------------ |

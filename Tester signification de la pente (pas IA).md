@@ -1,5 +1,5 @@
-[[Econométrie]][[Modèle des moindres carrés ordinaires]]
-[[Beta]][[Variable endogène]][[Variance Beta]][[Variance du résidu]]
+
+[[Variance Beta]]
 Hypothèses : 
 $H_0 : \beta=0$
 $H_1 : \beta \neq 0$

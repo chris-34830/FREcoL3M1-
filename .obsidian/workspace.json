@@ -139,16 +139,36 @@
             "id": "c095e0b7c07a1c5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tester signification de la pente (pas IA).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5924c9ae7db08517",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b97cac881bb0f6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "92fdddda0e01cc63",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -167,7 +187,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -214,7 +234,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tester signification de la pente (pas IA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tester signification de la pente (pas IA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,9 +271,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tester signification de la pente (pas IA).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -268,17 +284,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c095e0b7c07a1c5d",
+  "active": "92fdddda0e01cc63",
   "lastOpenFiles": [
-    "Trois types de modèles.md",
-    "Variance Beta.md",
-    "Econométrie/Variance alpha.md",
-    "Econométrie/Variance Beta.md",
-    "Econométrie/Tester signification constante (IA).md",
-    "Econométrie/Test hypothèse résidu.md",
-    "Econométrie/Beta.md",
-    "Econométrie/Econométrie.md",
-    "Econométrie/Cours.md",
-    "Econométrie/En économie.md"
+    "Organisation industrielle.md",
+    "Coefficient de détermination.md",
+    "Sommes des carrés totaux.md",
+    "Somme des carrés résiduelles.md",
+    "Analyse de la variance.md",
+    "Somme des carrés expliquées.md",
+    "Résidu.md",
+    "Tester signification de la pente (pas IA).md",
+    "Tester signification constante (IA).md",
+    "Beta.md"
   ]
 }

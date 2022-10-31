@@ -1,4 +1,4 @@
-[[Econométrie]][[Modèle des moindres carrés ordinaires]][]
+[[Econométrie]]
 
 - Différence entre $y_t$ et $Y_t$ : 
 $Y_t$ = variable endogène du modèle

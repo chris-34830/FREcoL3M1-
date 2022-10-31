@@ -1,4 +1,4 @@
-[[Test hypothèse résidu]][[Tester signification constante (IA)]][[Tester signification de la pente (pas IA)]][[Econométrie]][[Modèle des moindres carrés ordinaires]]
+[[Modèle des moindres carrés ordinaires]]
 
 Hypothèses : 
 $H_0 : \hat{\sigma^2_\epsilon} =K$

@@ -1,7 +1,4 @@
-[[Variables exogènes]]
-[[Variables exogènes]]
-[[Econométrie]]
-
+[[Modèle des moindres carrés ordinaires]]
 
 **4hypothèses** :
 - X est une variable _contrôlée_, indépendante de l'aléa $\epsilon$

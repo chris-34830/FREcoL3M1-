@@ -1,4 +1,4 @@
-[[Alpha]][[Variance alpha]][[Variables exogènes]][[Variance du résidu]][[Econométrie]][[Modèle des moindres carrés ordinaires]]
+[[Variance alpha]]
 Hypothèses : 
 $H_0 : \alpha=0$
 $H_1 : \alpha \neq 0$
