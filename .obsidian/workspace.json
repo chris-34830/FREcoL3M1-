@@ -4,171 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9df1dac66d7249",
+        "id": "61c624dcea94fa8c",
         "type": "tabs",
         "children": [
           {
-            "id": "0dbffb22bd3456b0",
+            "id": "7cf5795f8d7f97e1",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "18fc3baf9f006628",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ef0f03b284cb0e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "93c620348da8a356",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ce4a86f7940f57fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "36403658e0b22989",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3850efffc9a60515",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "abccfaaadc495771",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "89fd778c11342404",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d49f930d451e2dee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c4290db3206da40e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "02903b52023dc8d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e1c7370c6e6f6e60",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bfcbae67d446b48",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "357ee921b49d7618",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f30212023f5887eb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c095e0b7c07a1c5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5924c9ae7db08517",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b97cac881bb0f6b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "92fdddda0e01cc63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,28 +120,36 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "45f612cc2b6563ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "92fdddda0e01cc63",
+  "active": "7cf5795f8d7f97e1",
   "lastOpenFiles": [
-    "Organisation industrielle.md",
     "Coefficient de détermination.md",
+    "Sans titre.md",
     "Sommes des carrés totaux.md",
+    "En économie.md",
+    "Econométrie.md",
+    "Cours.md",
+    "Organisation industrielle.md",
     "Somme des carrés résiduelles.md",
     "Analyse de la variance.md",
-    "Somme des carrés expliquées.md",
-    "Résidu.md",
-    "Tester signification de la pente (pas IA).md",
-    "Tester signification constante (IA).md",
-    "Beta.md"
+    "Somme des carrés expliquées.md"
   ]
 }
