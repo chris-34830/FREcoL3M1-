@@ -1,31 +1,52 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(Econométrie)",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "Cours",
+      "query": "path:\"FAC/2 Théorie des jeux\"",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Organisation industriel",
+      "query": "path:\"FAC/3 Econométrie MOC\"",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"FAC/4 Economie de la croissance\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"FAC/5 Optimisation\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"FAC/1 Microéconomie\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:FAC",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -35,10 +56,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1.478125,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.375,
+  "repelStrength": 13.4375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0000000000000095,
-  "close": false
+  "scale": 1.0000000000000238,
+  "close": true
 }
