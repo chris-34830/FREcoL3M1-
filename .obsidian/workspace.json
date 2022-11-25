@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.2 Les causes de la croissance.md",
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.4 Le capital humain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f609f3056a55facb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/Baisse épargne SS.png"
+              }
+            }
+          },
+          {
+            "id": "f2a37835532343b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.4 Le capital humain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.2 Les causes de la croissance.md"
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/Baisse épargne SS.png"
               }
             }
           }
@@ -95,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.2 Les causes de la croissance.md",
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/Baisse épargne SS.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.2 Les causes de la croissance.md",
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/Baisse épargne SS.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +167,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "e37186df18df1186",
+  "active": "f609f3056a55facb",
   "lastOpenFiles": [
-    "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.1 Le modèle de malthus.md",
     "FAC/4 Economie de la croissance/4.1 Cours/4.1.3 Population et croissance économique.md",
-    "FAC/4 Economie de la croissance/4.1 Cours/4.1.2 Le modèle de Solow.md",
-    "FAC/4 Economie de la croissance/4.1 Cours/4.1.1 Le capital physique.md",
+    "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.1 Le modèle de malthus.md",
     "FAC/4 Economie de la croissance/4.1 Cours/4.1.3.2 Les causes de la croissance.md",
-    "FAC/4 Economie de la croissance/4.1 Cours/Solow + démographie.png",
-    "FAC/4 Economie de la croissance/4.1 Cours/Malthus contrainte morale.png",
-    "FAC/4 Economie de la croissance/4.1 Cours/Malthus augmentation prod.png",
-    "FAC/4 Economie de la croissance/4.1 Cours/Malthus augmenter y.png",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.1 Introduction organisation industrielle.md"
+    "FAC/4 Economie de la croissance/4.1 Cours/4.1.4 Le capital humain.md",
+    "Les modèles de l'accumulation du capital humain.md",
+    "FAC/4 Economie de la croissance/4.1 Cours/4.1.2 Le modèle de Solow.md",
+    "4.1.3 Population et croissance économique^.md",
+    "FAC/4 Economie de la croissance/4.1 Cours/4.1.1 Le capital physique.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.1 Introduction & rappel.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3 Paradoxe de Bertrand.md"
   ]
 }
