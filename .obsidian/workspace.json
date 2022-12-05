@@ -23,28 +23,12 @@
             "id": "9840207162225d56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Concentration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33cbbd8476c84607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.6 Fusion horizontal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.6 Fusion horizontal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.6 Fusion horizontal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.6 Fusion horizontal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +149,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "9840207162225d56",
   "lastOpenFiles": [
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Concentration.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.1 Bertrand Model.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.2 Bertrand vs Cournot.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3 Oligopole.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.1.2.1 Préférence consommateur et demande.md",
-    "FAC/4 Economie de la croissance/4.1 Cours/4.1.1 Le capital physique.md",
-    "FAC/1 Microéconomie/1.1 Cours/Graphique élasticité.png",
-    "FAC/1 Microéconomie/1.1 Cours/Le principe d'équilibre.md",
-    "FAC/1 Microéconomie/1.1 Cours/Le principe d'optimisation.md"
+    "FAC/4 Economie de la croissance/Economie de la croissance MOC.md",
+    "FAC/3 Econométrie MOC/Econométrie MOC.md",
+    "FAC/5 Optimisation/Optimisation MOC.md",
+    "FAC/3 Econométrie MOC/Cours/3.1.1 Introduction.md",
+    "FAC/1 Microéconomie/Microéconomie MOC.md",
+    "FAC/MOC.md",
+    "FAC/3 Econométrie MOC/Cours/3.1.2 Modèle de régression linéaire.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2 Organisation industrielle.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.1 Introduction organisation industrielle.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3 Oligopole.md"
   ]
 }

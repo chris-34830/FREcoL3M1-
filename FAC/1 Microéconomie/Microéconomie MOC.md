@@ -1,8 +1,8 @@
 
 
 # Cours
-## [[1.1.1 Introduction & rappel]]
-## [[1.1.2 Organisation industrielle]]
+### [[1.1.1 Introduction & rappel]]
+### [[1.1.2 Organisation industrielle]]
 
 
 
