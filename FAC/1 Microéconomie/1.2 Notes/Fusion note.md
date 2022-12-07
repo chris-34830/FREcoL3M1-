@@ -4,7 +4,8 @@ Soit un marché avec N firmes possédant toutes le même coût marginal. Supposo
 Les entreprises se faisant concurrence à la cournot, leur profit s'écrit : 
 $\pi_i= \frac{(a-nc_i+\sum_{j\neq i} c_j)^2}{n+1}-F_i$ qui, pour chaque firme, devient $\pi_1=\pi_2=\pi_3=\frac{(a-c)^2}{4}-F$. 
 Après la fusion, le profit de la fusion devient : $\pi^{in}=\frac{(a+c-2c^{in})^2}{3}-F^{in}$.
-Pour connaitre le changement combinée de profit, nous soustrayons :
+
+Pour connaitre le changement combinée de profit, nous soustrayons:
 $\pi^{in}-(\pi_1+\pi_2) = (2F-F^{in})+\frac{(a+c-2c^{in})^2}{3}-2\frac{(a-c)^2}{4}$ 
 - Economie de cout fixe de tel sorte $F^{in}< 2F$ 
 - Si $c^{in}<c$ alors $a+c-2c^{in}>a-c$. Plus on est efficace, plus le profit augmente.
@@ -19,4 +20,3 @@ Impact sur les outsides :
 Impact sur le surplus consommateur :
 - Si il y a de grand cost efficiency, le consommateur est gagnant. 
 - Sinon, il est perdant.
-- 

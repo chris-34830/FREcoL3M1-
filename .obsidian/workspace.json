@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+                "file": "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md"
+                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md"
               }
             }
           }
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +156,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "0ebc6ef1682f14e9",
+  "active": "54a757f4648ca0dc",
   "lastOpenFiles": [
-    "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
     "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+    "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
     "FAC/1 Microéconomie/1.1 Cours/Le principe d'optimisation.md",
+    "FAC/1 Microéconomie/1.1 Cours/modèles.md",
     "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.1 Bertrand Model.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.6 Fusion horizontal.md",
     "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.2 Bertrand vs Cournot.md",
-    "FAC/3 Econométrie MOC/Econométrie MOC.md",
-    "FAC/1 Microéconomie/Microéconomie MOC.md",
-    "FAC/4 Economie de la croissance/Economie de la croissance MOC.md"
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3 Oligopole.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.1.3 L'élasticité.md",
+    "FAC/1 Microéconomie/1.1 Cours/Paradigme SCP.md",
+    "FAC/1 Microéconomie/1.1 Cours/Le principe d'équilibre.md"
   ]
 }
