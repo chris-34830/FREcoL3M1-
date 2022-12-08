@@ -2,5 +2,6 @@
   "things-style@@h1-color": "#31A3FF",
   "things-style@@h5-color": "#A56EEA",
   "things-style@@h2-color": "#71D687",
-  "things-style@@h3-color": "#FF6868"
+  "things-style@@h3-color": "#FF6868",
+  "things-style@@em-color": "#82FFA4"
 }

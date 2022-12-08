@@ -1,8 +1,8 @@
 En partant de l'exercice 7 du TD 3 :
 
 Soit un marché avec N firmes possédant toutes le même coût marginal. Supposons une fusion entre de deux firmes de telle sorte que la fonction de coût de l'entreprise fusionné (noté in) : $C=F^{in}+c^{in}q$ avec $c^{in}<c$.
-Les entreprises se faisant concurrence à la cournot, leur profit s'écrit : 
-$\pi_i= \frac{(a-nc_i+\sum_{j\neq i} c_j)^2}{n+1}-F_i$ qui, pour chaque firme, devient $\pi_1=\pi_2=\pi_3=\frac{(a-c)^2}{4}-F$. 
+Les entreprises se faisant concurrence à la cournot, leur profit s'écrit :
+$\textcolor{Melon}{\pi_i= \frac{(a-nc_i+\sum_{j\neq i} c_j)^2}{n+1}-F_i}$ qui, pour chaque firme, devient $\pi_1=\pi_2=\pi_3=\frac{(a-c)^2}{4}-F$. 
 Après la fusion, le profit de la fusion devient : $\pi^{in}=\frac{(a+c-2c^{in})^2}{3}-F^{in}$.
 
 Pour connaitre le changement combinée de profit, nous soustrayons:
