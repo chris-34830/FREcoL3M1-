@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
+                "file": "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4652c0ae0b3a4368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,15 +35,44 @@
             "id": "0ebc6ef1682f14e9",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png"
+              }
+            }
+          },
+          {
+            "id": "5462bf093541732e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png"
+              }
+            }
+          },
+          {
+            "id": "29d648482efccf96",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
+                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.4.1 Les modèles de l'accumulation du capital humain.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a23ffb6c444c9637",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,17 +193,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "54a757f4648ca0dc",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+    "FAC/4 Economie de la croissance/4.1 Cours/4.1.4.1 Les modèles de l'accumulation du capital humain.md",
+    "FAC/2 Théorie des jeux/Théorie des jeux MOC.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
+    "FAC/MOC.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Pasted image 20221208020819.png",
     "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
-    "FAC/1 Microéconomie/1.1 Cours/Le principe d'optimisation.md",
-    "FAC/1 Microéconomie/1.1 Cours/modèles.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.1 Bertrand Model.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.2 Bertrand vs Cournot.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3 Oligopole.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.1.3 L'élasticité.md",
-    "FAC/1 Microéconomie/1.1 Cours/Paradigme SCP.md",
-    "FAC/1 Microéconomie/1.1 Cours/Le principe d'équilibre.md"
+    "FAC/1 Microéconomie/Microéconomie MOC.md"
   ]
 }
