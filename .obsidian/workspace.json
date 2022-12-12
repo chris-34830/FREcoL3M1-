@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
+                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md"
+                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
+                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
+                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,15 +227,15 @@
   },
   "active": "29d648482efccf96",
   "lastOpenFiles": [
+    "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
+    "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.2 Bertrand vs Cournot.md",
+    "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
     "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
+    "FAC/1 Microéconomie/1.1 Cours/Le principe d'équilibre.md",
+    "FAC/1 Microéconomie/1.1 Cours/Graphique couts moyen.png",
+    "FAC/1 Microéconomie/1.1 Cours/Graphique cournot.png",
     "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
-    "FAC/3 Econométrie MOC/Cours/3.1.2.1 Hypothèse du modèle.md",
-    "FAC/3 Econométrie MOC/Cours/3.1.2 Modèle de régression linéaire.md",
-    "FAC/3 Econométrie MOC/Cours/3.1.1 Introduction.md",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md"
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png"
   ]
 }

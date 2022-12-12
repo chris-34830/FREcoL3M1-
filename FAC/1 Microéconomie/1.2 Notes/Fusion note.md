@@ -1,4 +1,4 @@
-En partant de l'exercice 7 du TD 3 :
+En partant des [[Cournot note]]:
 
 Soit un marché avec N firmes possédant toutes le même coût marginal. Supposons une fusion entre de deux firmes de telle sorte que la fonction de coût de l'entreprise fusionné (noté in) : $C=F^{in}+c^{in}q$ avec $c^{in}<c$.
 Les entreprises se faisant concurrence à la cournot, leur profit s'écrit :
