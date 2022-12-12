@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
+                "file": "FAC/5 Optimisation/5.1 Cours/5.1.1.2 Optimisation libre.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,11 +83,9 @@
             "id": "29d648482efccf96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.4.1 Les modèles de l'accumulation du capital humain.md",
-                "mode": "source",
-                "source": false
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png"
               }
             }
           },
@@ -100,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md"
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png"
               }
             }
           }
@@ -176,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
+                "file": "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,17 +223,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "29d648482efccf96",
   "lastOpenFiles": [
-    "FAC/4 Economie de la croissance/4.1 Cours/4.1.5 Modèle de Schumpeter.md",
-    "FAC/5 Optimisation/Optimisation MOC.md",
-    "FAC/MOC.md",
-    "Pasted image 20221208205602.png.md",
-    "FAC/5 Optimisation/5.1 Cours/5.1.1.1 Fonction, élèment de base.md",
-    "FAC/5 Optimisation/5.1 Cours/5.1.1.1.2 Fonction de deux variables.md",
-    "FAC/5 Optimisation/5.1 Cours/5.1.1.3 Optimisation sous contrainte.md",
-    "FAC/5 Optimisation/5.1 Cours/5.1.1.2 Optimisation libre.md",
-    "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
+    "FAC/3 Econométrie MOC/Cours/3.1.2.1 Hypothèse du modèle.md",
+    "FAC/3 Econométrie MOC/Cours/3.1.2 Modèle de régression linéaire.md",
+    "FAC/3 Econométrie MOC/Cours/3.1.1 Introduction.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
+    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
     "FAC/1 Microéconomie/1.2 Notes/Fusion note.md"
   ]
 }
