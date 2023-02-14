@@ -33,4 +33,4 @@ Normalement vous devez voir ceci :
 
 ## Mise à jour automatique
 Se référer à la documentation lié au plugin déjà installé dans le .git "Obsidian Git".
-(Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)![[Pasted image 20230214235502.png]]
+(Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)
