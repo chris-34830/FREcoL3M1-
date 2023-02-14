@@ -17,8 +17,11 @@ Exemple template :
   
 \begin{document}  
 \begin{markdown}  
+^Cours copié coller  
+\end{markdown}  
+\end{document  
  
-## Utilisation avec Obsidian  
+## Utilisation avec Obsidian.md  
 Créer une vault   
 Télécharger le git   
 Mettre la gib à la place de votre vault  
