@@ -2,18 +2,17 @@
 Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word. 
 
 ## Support overleaf / LaTeX   
-Ajouter les packages \usepackage{xcolor} -permet de passer outre les couleurs utilisés dans le plaintext \usepackage[hybrid]{markdown} permet d'éviter l'utilisation conjointe du Markdown et du LaTeX et ouvrir l'environnement markdown \begin{markdown} (Ne pas oublier de le refermer à la fin du document \end{markdown}  
 Exemple initialisation document LaTeX :  
 \documentclass{article}  
-\usepackage[utf8]{inputenc}  
-\usepackage{amsmath}  
-\usepackage{amssymb}  
-\usepackage{amsfonts}  
-\usepackage{ragged2e}  
-\usepackage{diffcoeff,amssymb}  
-\usepackage{xcolor}  
-\usepackage[hybrid]{markdown}  
-  
+\usepackage{lmodern} %Permet d'avoir une police vectorielle qui, autrement, n'est pas conservé lors du chargement de fontenc.
+\usepackage[francais]{babel} 
+\usepackage[utf8]{inputenc} %inputenc car utilisation d'accent et l'encodage se fait automatiquement    
+\usepackage[T1]{fontenc} %Permet de régler le problème de césure lié à l'utilisation d'accent et du package inputenc
+\usepackage{amsmath,amsfonts,amssymb} %maths
+\usepackage{ragged2e} %Sur overleaf, le texte est répartie uniformément entre les marges en tout temps ce qui empêche d'aligner avec la marge de gauche. 
+\usepackage{diffcoeff}  %equation différentielle
+\usepackage{xcolor} %permet de passer outre les couleurs utilisés dans le plaintext
+\usepackage[hybrid]{markdown} %permet l'utilisation conjointe du Markdown et du LaTeX
   
 \begin{document}  
 \begin{markdown}  
