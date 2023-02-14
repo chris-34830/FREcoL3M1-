@@ -16,9 +16,9 @@ Exemple initialisation document LaTeX :
   
 \begin{document}  
 \begin{markdown}  
-^Cours copié collé
+^Cours copié collé  
 \end{markdown}  
-\end{document  
+\end{document}  
  
 ## Utilisation avec Obsidian.md  
 Créer une vault   
