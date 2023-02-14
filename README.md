@@ -1,6 +1,9 @@
 # FacS6
 Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word tout en activant le support Markodwn (référer internet), ne fonctionne pas pour les cours d'analyse de donnée & du S5 ces éditeurs de texte supportent mal le LaTeX.
 
+## Si problème de lecture / faute dans le cours
+M'envoyer un message whatsapp
+
 ## Support overleaf / LaTeX   
 Exemple initialisation document LaTeX :  
 \documentclass{article}  
@@ -34,3 +37,4 @@ Normalement vous devez voir ceci :
 ## Mise à jour automatique
 Se référer à la documentation lié au plugin déjà installé dans le .git "Obsidian Git".
 (Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)
+
