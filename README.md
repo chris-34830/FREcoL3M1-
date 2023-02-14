@@ -1,5 +1,5 @@
 # FacS6
-Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word. 
+Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word tout en activant le support Markodwn (référer internet), ne fonctionne pas pour les cours d'analyse de donnée & du S5 ces éditeurs de texte supportent mal le LaTeX.
 
 ## Support overleaf / LaTeX   
 Exemple initialisation document LaTeX :  
@@ -16,7 +16,7 @@ Exemple initialisation document LaTeX :
   
 \begin{document}  
 \begin{markdown}  
-^Cours copié coller  
+^Cours copié collé
 \end{markdown}  
 \end{document  
  
