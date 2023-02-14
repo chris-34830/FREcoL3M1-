@@ -37,4 +37,5 @@ Normalement vous devez voir ceci :
 ## Mise à jour automatique
 Se référer à la documentation lié au plugin déjà installé dans le .git "Obsidian Git".
 (Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)
+Il y a 1minutes de battement entre la dernière modification effectuée en locale et le moment ou elle est disponible sur le répertoiregi
 
