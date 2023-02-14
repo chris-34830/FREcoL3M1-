@@ -159,27 +159,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Create new canvas": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "afa5824e7026602a",
   "lastOpenFiles": [
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+    "README.md",
     "Dessin/Dessin BDD modèle Hierarchique.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/Sans titre.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
-    "associations.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf"
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf"
   ]
 }
