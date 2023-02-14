@@ -1,5 +1,5 @@
 # FacS6
-Pour voir la mise en page, installer : https://obsidian.md/, sinon allez copier le cours dont vous avez besoin dans la page correspondante (Ne fonctionne pas pour les cours du S5 + Analyse de donnée, obsidian.md est obligatoire pour lire les dossiers)
+Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word (Ne fonctionne ni pour les cours du S5, ni pour Analyse de donnée)
 
 Créer une vault 
 
