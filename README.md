@@ -23,7 +23,7 @@ Exemple initialisation document LaTeX :
 ## Utilisation avec Obsidian.md  
 Créer une vault   
 Télécharger le git   
-Mettre la gib à la place de votre vault  
+Mettre la git à la place de votre vault  
 Relancer Obsidian  
 Accepter les plug-ins  
 Normalement vous devez voir ceci :   
