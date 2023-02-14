@@ -4,103 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "2b18f079ac81b03c",
+        "id": "f917aafeddb2d3e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5462bf093541732e",
+            "id": "c6214fcc3aed62b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "549d5cf533536a4d",
+            "id": "6511377594e46d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
+                "file": "S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac64db201fad9b8f",
+            "id": "5c063539efc5f730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAC/5 Optimisation/5.1 Cours/5.1.1.2 Optimisation libre.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "02bccc95a2d16443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/5 Optimisation/5.1 Cours/5.1.1.1 Fonction, élèment de base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ae82dd810dfb10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/4 Economie de la croissance/4.1 Cours/4.1.5 Modèle de Schumpeter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b51cbe5febd64381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/5 Optimisation/5.1 Cours/5.1.1.2 Optimisation libre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29d648482efccf96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23ffb6c444c9637",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md"
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md"
               }
             }
           }
@@ -176,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,17 +168,29 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "29d648482efccf96",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "c6214fcc3aed62b3",
   "lastOpenFiles": [
-    "FAC/1 Microéconomie/1.2 Notes/Fusion note.md",
-    "FAC/1 Microéconomie/1.2 Notes/Cournot note.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.3.2 Bertrand vs Cournot.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.4 Collusion.md",
-    "FAC/1 Microéconomie/1.1 Cours/1.1.2.5 Fusion & Concentration.md",
-    "FAC/1 Microéconomie/1.1 Cours/Le principe d'équilibre.md",
-    "FAC/1 Microéconomie/1.1 Cours/Graphique couts moyen.png",
-    "FAC/1 Microéconomie/1.1 Cours/Graphique cournot.png",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
-    "FAC/1 Microéconomie/1.4 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png"
+    "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
+    "Sans titre.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances PDN-P.md",
+    "S5/5.MOC.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Cours/Sans titre.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/Sans titre.md",
+    "S5/5.1 Microéconomie/Microéconomie MOC.md",
+    "S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
+    "S6/6.MOC.md"
   ]
 }
