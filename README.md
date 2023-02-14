@@ -4,15 +4,15 @@ Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le La
 ## Support overleaf / LaTeX   
 Exemple initialisation document LaTeX :  
 \documentclass{article}  
-\usepackage{lmodern} %Permet d'avoir une police vectorielle qui, autrement, n'est pas conservé lors du chargement de fontenc.
+\usepackage{lmodern} %Permet d'avoir une police vectorielle qui, autrement, n'est pas conservé lors du chargement de fontenc.  
 \usepackage[francais]{babel} 
 \usepackage[utf8]{inputenc} %inputenc car utilisation d'accent et l'encodage se fait automatiquement    
-\usepackage[T1]{fontenc} %Permet de régler le problème de césure lié à l'utilisation d'accent et du package inputenc
-\usepackage{amsmath,amsfonts,amssymb} %maths
-\usepackage{ragged2e} %Sur overleaf, le texte est répartie uniformément entre les marges en tout temps ce qui empêche d'aligner avec la marge de gauche. 
-\usepackage{diffcoeff}  %equation différentielle
-\usepackage{xcolor} %permet de passer outre les couleurs utilisés dans le plaintext
-\usepackage[hybrid]{markdown} %permet l'utilisation conjointe du Markdown et du LaTeX
+\usepackage[T1]{fontenc} %Permet de régler le problème de césure lié à l'utilisation d'accent et du package inputenc  
+\usepackage{amsmath,amsfonts,amssymb} %maths  
+\usepackage{ragged2e} %Sur overleaf, le texte est répartie uniformément entre les marges en tout temps ce qui empêche d'aligner avec la marge de gauche.   
+\usepackage{diffcoeff}  %equation différentielle  
+\usepackage{xcolor} %permet de passer outre les couleurs utilisés dans le plaintext  
+\usepackage[hybrid]{markdown} %permet l'utilisation conjointe du Markdown et du LaTeX  
   
 \begin{document}  
 \begin{markdown}  
