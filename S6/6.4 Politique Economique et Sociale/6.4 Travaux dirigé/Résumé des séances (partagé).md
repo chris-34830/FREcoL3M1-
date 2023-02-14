@@ -165,7 +165,7 @@ L
 
 ## TD 3
 
-Pour plus de détail, se référer au résumé envoyé sur whatsapp.
+Pour plus de détail, se référer au [[PES_SyntheseSerie3.pdf|résumé envoyé sur whatsapp]].
 
 #### Ministère de l'éducation nationale et de la jeunesse
 - Budget : 60mds €

@@ -3,5 +3,8 @@
   "things-style@@h5-color": "#A56EEA",
   "things-style@@h2-color": "#71D687",
   "things-style@@h3-color": "#FF6868",
-  "things-style@@em-color": "#82FFA4"
+  "things-style@@em-color": "#82FFA4",
+  "things-style@@floating-button-off": false,
+  "things-style@@code-normal": "#FFFFFF",
+  "things-style@@code-color-d": "#FFFFFF"
 }

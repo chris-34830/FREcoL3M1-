@@ -4,46 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f917aafeddb2d3e9",
+        "id": "f80fe17bbe9471e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6214fcc3aed62b3",
+            "id": "9d9ec5ae48cd6a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
+                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6511377594e46d9d",
+            "id": "6fe135aa814d2c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c063539efc5f730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -119,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,17 +161,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c6214fcc3aed62b3",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
-    "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
-    "Sans titre.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances PDN-P.md",
-    "S5/5.MOC.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.3 Base de Donnée/6.3 Cours/cours complet 2017-1.pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/Sans titre.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/Sans titre.md",
-    "S5/5.1 Microéconomie/Microéconomie MOC.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
-    "S6/6.MOC.md"
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances PDN-P.md",
+    "Dessin/Dessin BDD relation donnée.md",
+    "Dessin/Dessin BDD relation.md",
+    "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md"
   ]
 }

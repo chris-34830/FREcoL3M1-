@@ -22,11 +22,6 @@
 ### [[Fusion note]]
 
 
-# TD corrigé
-
-
-
-
 
 # Partiel fait non corrigé
 ### [[1.4.1 Partiel OI 2020-2021]]
