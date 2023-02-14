@@ -33,9 +33,8 @@ Normalement vous devez voir ceci :
 ![image](https://user-images.githubusercontent.com/115942285/218880631-6af1a44e-3e93-4492-8984-b8280f8873f9.png)
 
 
-
 ## Mise à jour automatique
 Se référer à la documentation lié au plugin déjà installé dans le .git "Obsidian Git".
-(Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)
-Il y a 1minutes de battement entre la dernière modification effectuée en locale et le moment ou elle est disponible sur le répertoiregi
+(Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)  
+Il y a 1minutes de battement entre la dernière modification effectuée en locale et le moment ou elle est disponible sur le répertoire git.
 
