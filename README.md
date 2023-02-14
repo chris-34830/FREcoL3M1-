@@ -2,8 +2,8 @@
 Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word. 
 
 ## Support overleaf / LaTeX   
-Ajouter les packages \usepackage{xcolor} -permet de passer outre les couleurs utilisés dans le plaintext \usepackage[hybrid]{markdown} permet d'éviter l'utilisation conjointe du Markdown et du LaTeX et ouvrir l'environnement markdown \begin{markdown} (Ne pas oublier de le refermer à la fin du document \end{markdown}
-Exemple template :  
+Ajouter les packages \usepackage{xcolor} -permet de passer outre les couleurs utilisés dans le plaintext \usepackage[hybrid]{markdown} permet d'éviter l'utilisation conjointe du Markdown et du LaTeX et ouvrir l'environnement markdown \begin{markdown} (Ne pas oublier de le refermer à la fin du document \end{markdown}  
+Exemple initialisation document LaTeX :  
 \documentclass{article}  
 \usepackage[utf8]{inputenc}  
 \usepackage{amsmath}  
