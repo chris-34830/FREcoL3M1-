@@ -1,5 +1,6 @@
 # FacS6
-Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word (Ne fonctionne ni pour les cours du S5, ni pour Analyse de donnée)
+Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word. Les cours du S5 et analyse de donnée demande l'utilisation de Obsidian ou Notion ou tout autre logiciel supportant le .md et le LaTeX sans les problèmes de compatibilité.
+
 
 Créer une vault 
 
