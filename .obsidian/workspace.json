@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d99ca04342758cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "README.md"
               }
             }
           }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d99ca04342758cb4",
+  "active": "afa5824e7026602a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "README.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
@@ -191,7 +180,6 @@
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3.md",
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/Sans titre.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf"
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md"
   ]
 }
