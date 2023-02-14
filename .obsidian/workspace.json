@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d99ca04342758cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afa5824e7026602a",
+  "active": "d99ca04342758cb4",
   "lastOpenFiles": [
+    "README.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
-    "README.md",
     "Dessin/Dessin BDD modèle Hierarchique.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3.md",
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
