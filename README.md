@@ -27,6 +27,7 @@ Mettre la gib à la place de votre vault
 Relancer Obsidian  
 Accepter les plug-ins  
 Normalement vous devez voir ceci :   
+![image](https://user-images.githubusercontent.com/115942285/218880631-6af1a44e-3e93-4492-8984-b8280f8873f9.png)
 
 
 
