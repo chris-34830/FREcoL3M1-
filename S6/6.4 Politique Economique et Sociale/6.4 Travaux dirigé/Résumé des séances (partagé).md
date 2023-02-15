@@ -1,7 +1,6 @@
 
 
 Tout les économistes ne seront pas mit dans [[Résumé des séances (partagé)#^ca2f92|TD 2]] (Les plus connus y sont pas)
-L
 
 ## TD 1
 
@@ -206,7 +205,7 @@ Prise de note lors de la présentation faite par un groupe en TD :
 - Jean Tirole
 
 #### Réchauffement climatique : 
-- Problème depuis 50ans[[]]
+- Problème depuis 50ans
 - Problème douloureux car demande une action concrète de tout les agents économiques, quitte à impacter leur besoins.
 - Solution envisageable : Solution keynésienne -> Instauration d'une taxe pigouvienne pour inciter aux changements de comportement.
 
@@ -214,7 +213,7 @@ Prise de note lors de la présentation faite par un groupe en TD :
 - Voir au-delà de la pandémie de la COVID.
 - Les français interpréteraient mal inégalités mais elles existent toujours et se creusent. 
 - Solution : 
-	- Impot sur succession - donation (progressif)
+	- Impôts sur succession - donation (progressif)
 	- Mettre l'accent sur les emplois de qualité
 	- Perfectionner l'ascenseur social à l'école en renforçant les moyens des enseignants et des lycées.
 
