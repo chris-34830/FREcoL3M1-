@@ -111,8 +111,6 @@ Tout les économistes ne seront pas mit dans [[Résumé des séances (partagé)#
 - Il ne faut pas réguler mais corriger avec des politiques structurelles.
 
 
-
-
 ## TD 2
 
 ^ca2f92
