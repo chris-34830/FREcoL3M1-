@@ -143,7 +143,7 @@ Tout les économistes ne seront pas mit dans [[Résumé des séances (partagé)#
 
 #### Agnès Bénassy-Quéré 
 - Macroéconomiste spécialisé en économie monétaire 
-- Chef-économiste du Trésor de juin 2020 à février 2023
+- Cheffe-économiste du Trésor de juin 2020 à février 2023
 
 #### Oliver Blanchard 
 - Chef économiste au FMI
