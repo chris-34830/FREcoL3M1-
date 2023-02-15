@@ -61,7 +61,7 @@ Tout les économistes ne seront pas mit dans [[Résumé des séances (partagé)#
 
 #### Saint-Simons, qui doit diriger un pays ?
 - Nécessaire de donner la gouvernance du pays aux chefs d'entreprise
-	Ils seraient "apte" à contrÖler le pays car ils ont été "apte" à contrôler une entreprise et générer du capital.
+	Ils seraient "apte" à contrôler le pays car ils ont été "apte" à contrôler une entreprise et générer du capital.
 
 
 #### Jean-Baptiste Say, les débouchés
