@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md"
+                "file": "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,13 +160,13 @@
   "lastOpenFiles": [
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+    "S6/6.MOC.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Cours/Sans titre.md",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.4 Collusion.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.5 Fusion & Concentration.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Fusion note.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
-    "S5/5.1 Microéconomie/5.1 Notes/modèles.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Le principe d'optimisation.md"
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md"
   ]
 }
