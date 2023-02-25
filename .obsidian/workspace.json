@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +159,17 @@
   },
   "active": "9b62d1ca7ce0f467",
   "lastOpenFiles": [
+    "2023-02-25.md",
+    "S6/Pasted image 20230225155233.png",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/Pasted image 20230225155048.png",
+    "S6/Pasted image 20230225155137.png",
+    "S6/Pasted image 20230214235502.png",
+    "A LIRE.md",
+    "S6/Pasted image 20230225155006.png",
+    "S6/6.1 Analyse Financière/6.1 Cours/Pasted image 20230225154935.png",
     "S6/6.1 Analyse Financière/6.1 Cours/index 1.html",
     "S6/6.MOC.md",
-    "S6/Pasted image 20230214235502.png",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Cours/index.html",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
@@ -171,8 +179,6 @@
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
-    "2023-02-25.md",
-    "A LIRE.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "Excalidraw/Drawing 2023-02-25 14.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-02-25 14.36.08.excalidraw.md",
