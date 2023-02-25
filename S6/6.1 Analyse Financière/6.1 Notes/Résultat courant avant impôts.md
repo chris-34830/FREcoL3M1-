@@ -38,7 +38,7 @@
 			 </td>
 			</tr>
 			<tr><tr>
-				<th colspan="2"> = Résultat courant avant impôts (RCAI) 
+				<th colspan="3"> = Résultat courant avant impôts (RCAI) 
 	 </th>				<td></td>
 				</tr>
 				

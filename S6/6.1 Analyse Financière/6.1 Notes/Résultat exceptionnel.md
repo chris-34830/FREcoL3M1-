@@ -35,7 +35,7 @@
 			</tr>
 			<tr></tr>
 			<tr>
-				<th colspan="2">= Résultat exceptionnel </th>
+				<th colspan="3">= Résultat exceptionnel </th>
 				<td></td>
 			</tr>
 				

@@ -41,7 +41,7 @@
 			 </td>
 			</tr>
 			<tr><tr>
-				<th colspan="2"> = Résultat Net (RN) </th>				<td></td>
+				<th colspan="3"> = Résultat Net (RN) </th>				<td></td>
 				</tr>
 				
 		</table>

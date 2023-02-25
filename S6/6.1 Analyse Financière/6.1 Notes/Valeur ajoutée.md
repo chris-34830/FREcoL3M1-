@@ -42,7 +42,7 @@
 			 </td>
 			</tr>
 			<tr><tr>
-				<th colspan="2"> = Valeur ajoutée </th>
+				<th colspan="3"> = Valeur ajoutée </th>
 				<td></td>
 			</tr>
 		</table>
@@ -51,8 +51,6 @@
 
 ##### La méthode additive
 - Permet de mesurer la part de la Va réservée à la rémunération des facteurs de production et celle consacrée à l'autofinancement.
-
-
 <table>
 <tbody>
 <tr>

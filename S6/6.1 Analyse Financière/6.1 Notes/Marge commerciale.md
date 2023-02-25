@@ -34,7 +34,7 @@
 			</tr>
 			<tr></tr>
 			<tr>
-				<th colspan="2">= Marge commerciale </th>
+				<th colspan="3">= Marge commerciale </th>
 				<td></td>
 			</tr>
 		</table>

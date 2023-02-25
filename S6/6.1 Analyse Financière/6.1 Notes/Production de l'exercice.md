@@ -36,7 +36,7 @@
 			</tr>
 			<tr>
 			<tr>
-				<th colspan="2">= Production de l'Exercice </th>
+				<th colspan="3">= Production de l'Exercice </th>
 				<td></td>
 			</tr>
 		</table>
