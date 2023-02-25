@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d95fa22241e2cac3",
+        "id": "c50e1038f7b1f444",
         "type": "tabs",
         "children": [
           {
-            "id": "e845ac742a0b4e72",
+            "id": "4c4553a46e293f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +155,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "4c4553a46e293f0a",
   "lastOpenFiles": [
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
