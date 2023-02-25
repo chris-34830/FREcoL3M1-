@@ -30,7 +30,7 @@
 					<span style="visibility: hidden;">***</span>-
 				</td>
 				<td rowspan="2">Vente de marchandise <br>Couts d'achat des marchandises vendues </td>
-				<td rowspan="2">en produit d'exploitation <br>Achat de marchandise + variation stocks de marchandises </td>
+				<td rowspan="2">en produit d'exploitation <br>= Achat de marchandise + variation stocks de marchandises </td>
 			</tr>
 			<tr></tr>
 			<tr>

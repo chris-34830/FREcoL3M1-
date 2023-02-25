@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17861da9964f9196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Résultat exceptionnel.md",
+                "file": "Résultat Net.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Résultat exceptionnel.md"
+                "file": "Résultat Net.md"
               }
             }
           }
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Résultat exceptionnel.md",
+                "file": "Résultat Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Résultat exceptionnel.md",
+                "file": "Résultat Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,19 +156,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17861da9964f9196",
+  "active": "db8a7093cae2b2e4",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "Résultat exceptionnel.md",
-    "Résultat Net.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-    "2023-02-25.md",
-    "A LIRE.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "Résultat Net.md",
+    "2023-02-25.md",
+    "A LIRE.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "Excalidraw/Drawing 2023-02-25 14.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-02-25 14.36.08.excalidraw.md",
