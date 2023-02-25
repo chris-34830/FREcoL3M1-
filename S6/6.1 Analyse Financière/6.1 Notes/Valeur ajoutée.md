@@ -51,4 +51,24 @@
 
 ##### La méthode additive
 - Permet de mesurer la part de la Va réservée à la rémunération des facteurs de production et celle consacrée à l'autofinancement.
-- 
+
+
+<table>
+<tbody>
+<tr>
+	<th colspan ="2"> Méthode additive de la valeur ajoutée
+	</th>
+	<tr>
+				<td> <br>
+					<span style="visibility: hidden;">***</span>+
+					<br>
+					<span style="visibility: hidden;">***</span>+<br>
+					<span style="visibility: hidden;">***</span>+
+				</td>
+    <td>(Impôts, taxes et versements assimilés - subventions d'exploitations) <br> Charges de personnel <br> (Autres charges d'exploitations - Autres produits d'exploitations) <br> Résultat d'exploitation</td>
+  </tr>
+  <tr>
+    <th colspan="2">= valeur ajoutée</th>
+  </tr>
+</tbody>
+</table>

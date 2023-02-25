@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d19a4003c4d008",
+        "id": "4903684ccecf4c62",
         "type": "tabs",
         "children": [
           {
-            "id": "d5fbdd0ea4f550a4",
+            "id": "9b62d1ca7ce0f467",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5fbdd0ea4f550a4",
+  "active": "9b62d1ca7ce0f467",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
