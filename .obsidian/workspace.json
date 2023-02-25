@@ -11,9 +11,11 @@
             "id": "9b62d1ca7ce0f467",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +159,7 @@
   },
   "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat courant avant impôts.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Excédent brut d'exploitation.png",
@@ -168,10 +171,9 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.1.1 Analyse de l'activité.png",
     "README.md",
-    "S6/Pasted image 20230214235502.png",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/Thème 1.md",
-    "S6/6.5 Microéconomie appliquée/6.5 Cours/Introduction.md",
+    "S6/6.4 Politique Economique et Sociale/6.4Cours/Thème 1.md",
+    "S6/6.5 Microéconomie appliquée/6.5Cours/Introduction.md",
     "S6/6.MOC.md",
     "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
     "conflict-files-obsidian-git.md",
