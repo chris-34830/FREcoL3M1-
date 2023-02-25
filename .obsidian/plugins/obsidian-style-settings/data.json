@@ -6,5 +6,6 @@
   "things-style@@em-color": "#82FFA4",
   "things-style@@floating-button-off": false,
   "things-style@@code-normal": "#FFFFFF",
-  "things-style@@code-color-d": "#FFFFFF"
+  "things-style@@code-color-d": "#FFFFFF",
+  "things-style@@default-font-color": false
 }
