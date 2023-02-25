@@ -147,12 +147,5 @@
       "key": "ArrowRight"
     }
   ],
-  "table-editor-obsidian:center-align-column": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "*"
-    }
-  ]
+  "table-editor-obsidian:center-align-column": []
 }
