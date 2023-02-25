@@ -1,5 +1,5 @@
 - Différence entre produits exceptionnels et charges exceptionnels
-- Résultat des opérations non courantes de l'entreprise
+- **Résultat des opérations non courantes de l'entreprise**
 - Reflète la politique d'investissement de l'entreprise si les cessions d'immobilisations sont significatives
 
 <html>

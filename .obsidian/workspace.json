@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4903684ccecf4c62",
+        "id": "5a13db5e106747f3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b62d1ca7ce0f467",
+            "id": "cfc08d4807439974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,19 +157,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "cfc08d4807439974",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat courant avant impôts.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exploitation.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Excédent brut d'exploitation.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Production de l'exercice.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Marge commerciale.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat Net.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Valeur ajoutée.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Composant SIG.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Tableau SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/10.Résultat d'exceptionnel.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/11.Résultat Net.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/3.Composant SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/8.Résultat d'exploitation.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.1.1 Analyse de l'activité.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
+    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "README.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
     "S6/6.4 Politique Economique et Sociale/6.4Cours/Thème 1.md",
@@ -188,15 +191,12 @@
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
     "Readme.md",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle",
-    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Cours/index 1.html",
     "S6/6.1 Analyse Financière/6.1 Cours/index.html",

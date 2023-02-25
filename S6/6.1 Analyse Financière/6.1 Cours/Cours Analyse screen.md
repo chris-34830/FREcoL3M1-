@@ -1,5 +1,5 @@
 ![[6.1.1 Analyse de l'activité.png]]
 
-![[Tableau SIG.png]]![[Composant SIG.png]]![[Marge commerciale.png]]
-![[Production de l'exercice.png]]![[Valeur ajoutée.png]]![[Excédent brut d'exploitation.png]]![[Résultat d'exploitation.png]]![[Résultat courant avant impôts.png]]![[Résultat d'exceptionnel.png]]
-![[Résultat Net.png]]
+![[2.Tableau SIG.png]]![[3.Composant SIG.png]]![[4.Marge commerciale.png]]
+![[5.Production de l'exercice.png]]![[6.Valeur ajoutée.png]]![[7.Excédent brut d'exploitation.png]]![[8.Résultat d'exploitation.png]]![[9.Résultat courant avant impôts.png]]![[10.Résultat d'exceptionnel.png]]
+![[11.Résultat Net.png]]
