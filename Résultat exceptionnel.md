@@ -1,0 +1,3 @@
+- Différence entre produits exceptionnels et charges exceptionnels
+- Résultat des opérations non courantes de l'entreprise
+- 

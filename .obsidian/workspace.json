@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17861da9964f9196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Résultat exceptionnel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "Résultat exceptionnel.md"
               }
             }
           }
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "Résultat exceptionnel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "Résultat exceptionnel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db8a7093cae2b2e4",
+  "active": "17861da9964f9196",
   "lastOpenFiles": [
-    "Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "Résultat exceptionnel.md",
+    "Résultat Net.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
     "2023-02-25.md",
     "A LIRE.md",
-    "Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
@@ -186,8 +201,6 @@
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
