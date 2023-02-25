@@ -11,9 +11,11 @@
             "id": "9b62d1ca7ce0f467",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "S6/Pasted image 20230225155233.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/Pasted image 20230225155233.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/Pasted image 20230225155233.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/Pasted image 20230225155233.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,26 +159,30 @@
   },
   "active": "9b62d1ca7ce0f467",
   "lastOpenFiles": [
-    "S6/Pasted image 20230225155137.png",
-    "S6/Pasted image 20230225155048.png",
-    "S6/Pasted image 20230214235502.png",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/Pasted image 20230225155813.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
+    "S6/Pasted image 20230225155746.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
+    "S6/Pasted image 20230225155731.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "S6/Pasted image 20230225155653.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
+    "S6/Pasted image 20230225155630.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
+    "S6/Pasted image 20230225155612.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
+    "S6/Pasted image 20230225155602.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
+    "S6/Pasted image 20230225155550.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/Pasted image 20230225155233.png",
+    "S6/Pasted image 20230225155137.png",
     "A LIRE.md",
-    "S6/Pasted image 20230225155006.png",
-    "S6/6.1 Analyse Financière/6.1 Cours/Pasted image 20230225154935.png",
     "S6/6.1 Analyse Financière/6.1 Cours/index 1.html",
     "S6/6.MOC.md",
     "S6/6.1 Analyse Financière/6.1 Cours/index.html",
-    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "Excalidraw/Drawing 2023-02-25 14.36.09.excalidraw.md",
     "Excalidraw/Drawing 2023-02-25 14.36.08.excalidraw.md",
@@ -194,9 +200,6 @@
     "S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
-    "S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
-    "S5/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
-    "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "S6/6.1 Analyse Financière/6.1 Cours/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf"
   ]
 }
