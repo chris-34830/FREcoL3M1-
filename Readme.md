@@ -1,8 +1,7 @@
 # FacS6
-Nécessite l'utilisation de obsidian.md (ou tout autre logiciel supportant le LaTeX & le Markdown) https://obsidian.md/, sinon allez copier le cours dont vous avez besoin et coller le sur google doc ou Word tout en activant le support Markodwn (référer internet), ne fonctionne pas pour les cours d'analyse de donnée & du S5 ces éditeurs de texte supportent mal le LaTeX.
-
-## Si problème de lecture / faute dans le cours
-M'envoyer un message whatsapp
+Nécessite l'utilisation de obsidian.md ou tout autre logiciel supportant les langages utilisés( LaTeX - Markdown - CSS - Html) https://obsidian.md/.
+Pour les cours de PES vous pouvez simplement copier-coller le cours sur word ou google docs tout en activant le support Markdown. 
+Pour analyse de donnée & Analyse financière, utilisez obsidian (ou se référer au capture d'écran)
 
 ## Support overleaf / LaTeX   
 Exemple initialisation document LaTeX :  
@@ -34,8 +33,6 @@ Normalement vous devez voir ceci :
 
 
 ## Mise à jour automatique
-Se référer à la documentation lié au plugin déjà installé dans le .git "Obsidian Git".
-(Si problème malgré avoir suivi la documentation, changer la clef HTTPS en SSH)  
-Il y a 1minutes de battement entre la dernière modification effectuée en locale et le moment ou elle est disponible sur le répertoire git.
+Tout ce que j'écris sur le document originel est envoyé ici mais vous aurez besoin de retélécharger manuellement les changemenst - ou d'utiliser le plugin obsidian git -
 
 
