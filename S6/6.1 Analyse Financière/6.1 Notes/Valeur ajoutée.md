@@ -48,3 +48,7 @@
 		</table>
 	</body>
 </html>
+
+##### La méthode additive
+- Permet de mesurer la part de la Va réservée à la rémunération des facteurs de production et celle consacrée à l'autofinancement.
+- 
