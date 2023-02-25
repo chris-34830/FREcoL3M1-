@@ -26,7 +26,7 @@
   "blue-topaz-theme@@toggle-divider-lines": false,
   "blue-topaz-theme@@paragraph-spacing": 1.4,
   "blue-topaz-theme@@letter-space-main": 0.7,
-  "blue-topaz-theme@@text-indentation-two-em": true,
+  "blue-topaz-theme@@text-indentation-two-em": false,
   "blue-topaz-theme@@hr-for-pagination": false,
   "blue-topaz-theme@@all-dark": true,
   "blue-topaz-theme@@tab-head-style": "default-tab",
@@ -36,5 +36,6 @@
   "blue-topaz-theme@@hide-embed-banner": true,
   "blue-topaz-theme@@embed-hover": false,
   "blue-topaz-theme@@embed-hd": true,
-  "blue-topaz-theme@@naked-embed": true
+  "blue-topaz-theme@@naked-embed": true,
+  "blue-topaz-theme@@justify-align": true
 }
