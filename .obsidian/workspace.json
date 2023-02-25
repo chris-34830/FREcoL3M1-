@@ -11,11 +11,9 @@
             "id": "9b62d1ca7ce0f467",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png"
               }
             }
           }
@@ -71,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png"
               }
             }
           }
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exceptionnel.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +155,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b62d1ca7ce0f467",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat courant avant impôts.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat d'exploitation.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Excédent brut d'exploitation.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Production de l'exercice.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Marge commerciale.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Résultat Net.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Valeur ajoutée.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Composant SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Tableau SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/6.1.1 Analyse de l'activité.png",
+    "README.md",
     "S6/Pasted image 20230214235502.png",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/Thème 1.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/Introduction.md",
     "S6/6.MOC.md",
     "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "S5/Nouveau Document texte.txt",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
@@ -180,16 +188,7 @@
     "Readme.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155048.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155813.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155137.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155233.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155550.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155602.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155612.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155630.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Pasted image 20230225155653.png",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
