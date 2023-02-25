@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "accentColor": "#bd4ce6",
   "baseFontSize": 18,
   "nativeMenus": true,
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Arial Black",
-  "theme": "obsidian"
+  "theme": "system"
 }
