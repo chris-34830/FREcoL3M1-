@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44eda72246498d77",
+  "active": "0c995577c4964e36",
   "lastOpenFiles": [
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
