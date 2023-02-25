@@ -1,0 +1,4 @@
+- S'obtient par la différence entre les ventes de marchandises et le cout d'achats des marchandises
+- Concerne uniquement les entreprises commerciales ou ayant un activité commerciale
+- Mesure les ressources d'exploitation de l'entreprise.
+- 
