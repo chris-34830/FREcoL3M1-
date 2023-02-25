@@ -1,3 +1,0 @@
-.gitignore
-
-Non visible
