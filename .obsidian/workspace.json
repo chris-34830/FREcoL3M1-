@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png"
               }
             }
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png"
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +157,17 @@
   },
   "active": "cfc08d4807439974",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/10.Résultat d'exceptionnel.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/11.Résultat Net.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/91.Résultat d'exceptionnel.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/3.Composant SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/8.Résultat d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
