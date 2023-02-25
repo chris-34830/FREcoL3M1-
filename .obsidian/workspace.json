@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "402d8c306bf3a68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Corrigé.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Corrigé.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Corrigé.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "402d8c306bf3a68c",
   "lastOpenFiles": [
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Corrigé.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "S5/Nouveau Document texte.txt",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Non visible.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/Non visible.md",
@@ -181,7 +196,6 @@
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Corrigé.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas",
@@ -216,8 +230,6 @@
     "VA.md",
     "Excalidraw",
     "Sans titre.md",
-    "S6/6.1 Analyse Financière/6.1 Notes",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.5 Fusion & Concentration.md",
-    "S6/6.1 Analyse Financière/6.1 Cours/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf"
+    "S6/6.1 Analyse Financière/6.1 Notes"
   ]
 }
