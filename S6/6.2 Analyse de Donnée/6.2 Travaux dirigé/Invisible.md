@@ -1,3 +1,1 @@
-.gitignore
-
-Non visible
+Non disponible
