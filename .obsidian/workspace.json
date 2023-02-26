@@ -11,9 +11,11 @@
             "id": "cfc08d4807439974",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +159,12 @@
   },
   "active": "cfc08d4807439974",
   "lastOpenFiles": [
+    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/91.Résultat d'exceptionnel.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/3.Composant SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/8.Résultat d'exploitation.png",
@@ -194,7 +197,6 @@
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Cours/index 1.html",
     "S6/6.1 Analyse Financière/6.1 Cours/index.html",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
