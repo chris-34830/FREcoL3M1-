@@ -18,53 +18,28 @@
 - Activité exceptionnelles :
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Tableau HTML</title>
-	<style>
-		table {
-			border-collapse: collapse;
-			width: 100%;
-		}
-		th, td {
-			border: 1px solid black;
-			padding: 8px;
-			text-align: center;
-		}
-		th {
-			background-color: #f2f2f2;
-		}
-		.subcol {
-			display: inline-block;
-			width: 50%;
-			text-align: left;
-		}
-	</style>
-</head>
-<body>
-
 <table>
-	<thead>
-		<tr>
-			<th>Colonne 1</th>
-			<th>Colonne 2</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Ligne 1, Cellule 1</td>
-			<td rowspan="2">
-				<div class="subcol">Ligne 1, sous-colonne 1</div>
-				<div class="subcol">Ligne 1, sous-colonne 2</div>
-			</td>
-		</tr>
-		<tr>
-			<td>Ligne 2, Cellule 1</td>
-		</tr>
-	</tbody>
+  <tr>
+    <th>Titre de la colonne 1</th>
+    <th>Titre de la colonne 2</th>
+  </tr>
+  <tr>
+    <td>Donnée de la colonne 1, ligne 1</td>
+    <td>
+      <table>
+        <tr>
+          <td>Donnée de la première colonne de la ligne 1 de la colonne 2</td>
+          <td>Donnée de la deuxième colonne de la ligne 1 de la colonne 2</td>
+        </tr>
+        <tr>
+          <td>Donnée de la première colonne de la ligne 2 de la colonne 2</td>
+          <td>Donnée de la deuxième colonne de la ligne 2 de la colonne 2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>Donnée de la colonne 1, ligne 2</td>
+    <td>Donnée de la colonne 2, ligne 2</td>
+  </tr>
 </table>
-
-</body>
-</html>
