@@ -18,28 +18,40 @@
 - Activité exceptionnelles :
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
-<table>
-  <tr>
-    <th>Titre de la colonne 1</th>
-    <th>Titre de la colonne 2</th>
-  </tr>
-  <tr>
-    <td>Donnée de la colonne 1, ligne 1</td>
-    <td>
-      <table>
-        <tr>
-          <td>Donnée de la première colonne de la ligne 1 de la colonne 2</td>
-          <td>Donnée de la deuxième colonne de la ligne 1 de la colonne 2</td>
-        </tr>
-        <tr>
-          <td>Donnée de la première colonne de la ligne 2 de la colonne 2</td>
-          <td>Donnée de la deuxième colonne de la ligne 2 de la colonne 2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>Donnée de la colonne 1, ligne 2</td>
-    <td>Donnée de la colonne 2, ligne 2</td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      th, td {
+        text-align: left;
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+      }
+      
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Charges</th>
+        <th>Exercice N</th>
+      </tr>
+      <tr>
+        <td>Charge 1</td>
+        <td>Montant</td>
+      </tr>
+      <tr>
+        <td>Charge 2</td>
+        <td>Montant</td>
+      </tr>
+    </table>
+  </body>
+</html>
