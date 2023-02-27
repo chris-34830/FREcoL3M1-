@@ -34,15 +34,16 @@
   <tbody>
     <tr>
       <td rowspan="4">
-        <strong> Charges d'exploitation </strong> :
+        <strong>Charges d'exploitation</strong>:
         <br>
         Coût d'achat des marchandises vendues dans l'exercice
         <br>
-        <p style="margin-top: 0; margin-bottom: 0; text-indent: 1em;"> Achats de marchandises </p>
-        <p style="margin-top: 0; margin-bottom: 0;"> variation des stocks de marchandises </p>
-        <p style="margin-top: 0; margin-bottom: 0; text-indent: 1em;"> Consommation de l'exercice en provenance de tiers </p>
+        <p style="text-indent: 1em;">Achats de marchandises</p>
+        <p style="text-indent: 1em;">variation des stocks de marchandises</p>
+        <br>
+        Consommation de l'exercice en provenance de tiers
       </td>
-      <td colspan="3" rowspan="4"> xxx </td>
+      <td colspan ="3" rowspan="4">xxx</td>
     </tr>
   </tbody>
 </table>
