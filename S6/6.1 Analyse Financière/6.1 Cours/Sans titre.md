@@ -18,40 +18,43 @@
 - Activité exceptionnelles :
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
-<!DOCTYPE html>
+
 <html>
   <head>
+    <meta charset="UTF-8">
+    <title>Tableau Charges/Exercice N</title>
     <style>
-      table {
+      table, th, td {
+        border: 1px solid black;
         border-collapse: collapse;
-        width: 100%;
       }
-      
       th, td {
+        padding: 5px;
         text-align: left;
-        padding: 8px;
-        border-bottom: 1px solid #ddd;
       }
-      
       th {
-        background-color: #f2f2f2;
+        background-color: #ddd;
       }
     </style>
   </head>
   <body>
     <table>
       <tr>
+        <th colspan="2">Charges / Exercice N</th>
+      </tr>
+      <tr>
         <th>Charges</th>
         <th>Exercice N</th>
       </tr>
       <tr>
-        <td>Charge 1</td>
-        <td>Montant</td>
+        <td>Loyer</td>
+        <td>1000 €</td>
       </tr>
       <tr>
-        <td>Charge 2</td>
-        <td>Montant</td>
+        <td>Assurance</td>
+        <td>200 €</td>
       </tr>
     </table>
   </body>
 </html>
+
