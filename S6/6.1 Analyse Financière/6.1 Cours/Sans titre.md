@@ -23,24 +23,17 @@
     <tr>
       <th rowspan="2">Charges</th>
       <th colspan="2">Exercice N</th>
-      <th>Exercice N-1</th>
+      <th colspan="1">Exercice N-1</th>
     </tr>
     <tr>
+      <th></th>
       <th>Totaux partiels</th>
-      <th>% du CA</th>
       <th>Totaux partiels</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><strong>Charges d'exploitation</strong></td>
-      <td><strong>Achats de marchandises</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Coût d'achat des marchandises vendues dans l'exercice</td>
+      <td rowspan="4"><strong>Charges d'exploitation</strong><br>      <td>Achats de marchandises</td>
       <td>xxx</td>
       <td>yyy</td>
       <td></td>
@@ -58,80 +51,28 @@
       <td></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>Charges de personnel</strong></td>
-      <td>Salaire brut et charges sociales</td>
-      <td>xxx</td>
-      <td>yyy</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Autres charges de personnel</td>
-      <td>xxx</td>
-      <td>yyy</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dotations aux amortissements et aux provisions</td>
-      <td>xxx</td>
-      <td>yyy</td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>Total des charges d'exploitation</strong></td>
       <td>xxx</td>
       <td>yyy</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td><strong>Résultat d'exploitation</strong></td>
-      <td></td>
-      <td></td>
-      <td>xxx</td>
-      <td>yyy</td>
-    </tr>
-    <tr>
-      <td><strong>Charges financières</strong></td>
-      <td>Frais financiers</td>
+      <td rowspan="2"><strong>Charges financières</strong></td>
+      <td>Intérêts et charges assimilées</td>
       <td>xxx</td>
       <td>yyy</td>
       <td></td>
     </tr>
     <tr>
-      <td><strong>Produits financiers</strong></td>
-      <td>Produits financiers</td>
+      <td><strong>Total des charges financières</strong></td>
       <td>xxx</td>
       <td>yyy</td>
       <td></td>
     </tr>
     <tr>
-      <td><strong>Résultat financier</strong></td>
-      <td></td>
-      <td></td>
-      <td>xxx</td>
-      <td>yyy</td>
-       </tr>
-    <tr>
-      <td><strong>Résultat courant avant impôt</strong></td>
-      <td></td>
-      <td></td>
-      <td>xxx</td>
-      <td>yyy</td>
-    </tr>
-    <tr>
-      <td><strong>Impôt sur les bénéfices</strong></td>
-      <td>Impôts sur les bénéfices</td>
-      <td>xxx</td>
-      <td>yyy</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Résultat net</strong></td>
-      <td></td>
-      <td></td>
-      <td>xxx</td>
-      <td>yyy</td>
-    </tr>
+      <td rowspan="2"><strong>Charges exceptionnelles</strong></td>
+      <td>Dotations aux amortissements et provisions</td
+</tr>
   </tbody>
 </table>
 
