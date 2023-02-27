@@ -11,16 +11,6 @@
             "id": "cfc08d4807439974",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
-              }
-            }
-          },
-          {
-            "id": "f6379cb7cbe10122",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6379cb7cbe10122",
+  "active": "cfc08d4807439974",
   "lastOpenFiles": [
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",

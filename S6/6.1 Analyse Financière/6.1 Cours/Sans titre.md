@@ -33,7 +33,8 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+      <td rowspan="4"> <strong> Charges d'exploitation </strong> : <br> <p style="text-indent: 1em;">Coût d'achat des marchandises vendues dans l'exercice</p> <b> <p style="text-indent: 2em;"> Achats de marchandises <br> <p style="text-indent: 2em;"> variation des stocks de marchandises
+ </td>
       <td colspan ="3" rowspan="4"> xxx    </tr>
   </tbody>
 </table>
