@@ -19,70 +19,34 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Tableau HTML + CSS</title>
-	<style>
-		table {
-			border-collapse: collapse;
-			width: 100%;
-		}
-		th, td {
-			border: 1px solid black;
-			padding: 8px;
-			text-align: left;
-		}
-		th {
-			background-color: #f2f2f2;
-		}
-	</style>
-</head>
-<body>
-	<table>
-		<tr>
-			<th>Charges</th>
-			<th>Exercice N</th>
-		</tr>
-		<tr>
-			<td>Ligne 1</td>
-			<td>
-				<table>
-					<tr>
-						<th></th>
-						<th>Totaux partiels</th>
-					</tr>
-					<tr>
-						<td>Sous-ligne 1</td>
-						<td>1000</td>
-					</tr>
-					<tr>
-						<td>Sous-ligne 2</td>
-						<td>2000</td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-		<tr>
-			<td>Ligne 2</td>
-			<td>
-				<table>
-					<tr>
-						<th></th>
-						<th>Totaux partiels</th>
-					</tr>
-					<tr>
-						<td>Sous-ligne 1</td>
-						<td>1500</td>
-					</tr>
-					<tr>
-						<td>Sous-ligne 2</td>
-						<td>2500</td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-</body>
-</html>
+<table>
+  <thead>
+    <tr>
+      <th>Charges</th>
+      <th colspan="2">Exercice N</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Totaux partiels</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ligne 1 - Charge 1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ligne 2 - Charge 2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ligne 3 - Charge 3</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
