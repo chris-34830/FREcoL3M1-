@@ -23,30 +23,26 @@
   <thead> 
     <tr> 
       <th rowspan="2">Charges</th> 
-      <th></th>
-      <th colspan="1">Exercice N-1</th> 
       <th colspan="2">Exercice N</th> 
+      <th colspan="1">Exercice N-1</th> 
     </tr> 
     <tr> 
+      <th></th> 
       <th>Totaux partiels</th> 
-      <th></th> 
-      <th></th> 
+      <th>Totaux partiels</th> 
     </tr> 
   </thead> 
   <tbody> 
     <tr> 
-      <td rowspan="4"><strong> Charges d'exploitation </strong> :</td> 
-      <td>Coût d'achat des marchandises vendues dans l'exercice</td>
-      <td colspan="2" rowspan="4">xxx</td>
-    </tr>
-    <tr> 
-      <td><p style="margin-left: 10px; text-indent: 1em; line-height: 1;">Consommation de l'exercice en provenance de tiers</p></td> 
-    </tr>
-    <tr> 
-      <td><p style="margin-left: 10px; text-indent: 1em; line-height: 1;">Variation des stocks de marchandises</p></td> 
-    </tr>
-    <tr> 
-      <td><p style="margin-left: 10px; text-indent: 1em; line-height: 1;">Achats de marchandises</p></td> 
+      <td rowspan="4"><strong> Charges d'exploitation </strong> : <br> 
+  <p style="margin-left: 10px; text-indent: 1em; line-height: 1;">Coût d'achat des marchandises vendues dans l'exercice<span style="visibility: hidden;">aze aze aze aze aze aze aze aze aze</span> </p>
+  <b> <p style="text-indent: 2em;line-height: 0.5;"> Achats de marchandises <br> 
+  <p style="text-indent: 2em;line-height: 0.5;"> variation des stocks de marchandises <br> 
+  <p style="text-indent: 1em;"> Consommation de l'exercice en provenance de tiers </td>
+
+      <td colspan ="2" rowspan="4">xxx</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
+
