@@ -19,4 +19,3 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 
-
