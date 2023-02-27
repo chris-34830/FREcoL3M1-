@@ -19,3 +19,52 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tableau HTML</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 8px;
+			text-align: center;
+		}
+		th {
+			background-color: #f2f2f2;
+		}
+		.subcol {
+			display: inline-block;
+			width: 50%;
+			text-align: left;
+		}
+	</style>
+</head>
+<body>
+
+<table>
+	<thead>
+		<tr>
+			<th>Colonne 1</th>
+			<th>Colonne 2</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Ligne 1, Cellule 1</td>
+			<td rowspan="2">
+				<div class="subcol">Ligne 1, sous-colonne 1</div>
+				<div class="subcol">Ligne 1, sous-colonne 2</div>
+			</td>
+		</tr>
+		<tr>
+			<td>Ligne 2, Cellule 1</td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
