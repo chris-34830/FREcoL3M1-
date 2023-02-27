@@ -19,25 +19,10 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 <table>
-  <thead>
-    <tr>
-      <th rowspan="2">Charges</th>
-      <th colspan="2">Exercice N</th>
-      <th colspan="1">Exercice N-1</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Totaux partiels</th>
-      <th>Totaux partiels</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="4">
-<td rowspan="4"> <strong> Charges d'exploitation </strong> : <br> 
-  <p style="margin-bottom: 10px; text-indent: 1em;">Coût d'achat des marchandises vendues dans l'exercice</p> 
-  <b> <p style="text-indent: 2em;"> Achats de marchandises <br> 
-  <p style="text-indent: 2em;"> variation des stocks de marchandises <br> 
+  <thead> <tr> <th rowspan="2">Charges</th> <th colspan="2">Exercice N</th> <th colspan="1">Exercice N-1</th> </tr> <tr> <th></th> <th>Totaux partiels</th> <th>Totaux partiels</th> </tr> </thead> <tbody> <tr> <td rowspan="4"><strong> Charges d'exploitation </strong> : <br> 
+  <p style="margin-left: 10px; text-indent; line-height: 1;">Coût d'achat des marchandises vendues dans l'exercice<span style="visibility: hidden;">aze aze aze aze aze aze aze aze aze</span> </p><p style="margin-left; line-height: 0.1"> </p>
+  <b> <p style="text-indent: 2em;line-height: 0.5;"> Achats de marchandises <br> 
+  <p style="text-indent: 2em;line-height: 0.5;"> variation des stocks de marchandises <br> 
   <p style="text-indent: 1em;"> Consommation de l'exercice en provenance de tiers </td>
 
       </td>
