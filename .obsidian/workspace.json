@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b32f5272cd1f4a2",
+        "id": "85718c2afd342ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0323000eab96883",
+            "id": "d10ef5da8f5170aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0323000eab96883",
+  "active": "d10ef5da8f5170aa",
   "lastOpenFiles": [
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",

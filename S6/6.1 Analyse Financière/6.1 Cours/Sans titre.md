@@ -19,14 +19,120 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 <table>
-  <thead> <tr> <th rowspan="2">Charges</th> <th colspan="2">Exercice N</th> <th colspan="1">Exercice N-1</th> </tr> <tr> <th></th> <th>Totaux partiels</th> <th>Totaux partiels</th> </tr> </thead> <tbody> <tr> <td rowspan="4"><strong> Charges d'exploitation </strong> : <br> 
-  <p style="margin-left: 10px; text-indent: 1em; line-height: 1;">Coût d'achat des marchandises vendues dans l'exercice<span style="visibility: hidden;">aze aze aze aze aze aze aze aze aze</span> </p>
-  <b> <p style="text-indent: 2em;line-height: 0.5;"> Achats de marchandises <br> 
-  <p style="text-indent: 2em;line-height: 0.5;"> variation des stocks de marchandises <br> 
-  <p style="text-indent: 1em;"> Consommation de l'exercice en provenance de tiers </td>
-
-      </td>
-      <td colspan ="3" rowspan="4">xxx</td>
+  <thead>
+    <tr>
+      <th rowspan="2">Charges</th>
+      <th colspan="2">Exercice N</th>
+      <th>Exercice N-1</th>
+    </tr>
+    <tr>
+      <th>Totaux partiels</th>
+      <th>% du CA</th>
+      <th>Totaux partiels</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4"><strong>Charges d'exploitation</strong></td>
+      <td><strong>Achats de marchandises</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Coût d'achat des marchandises vendues dans l'exercice</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Variation des stocks de marchandises</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consommation de l'exercice en provenance de tiers</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>Charges de personnel</strong></td>
+      <td>Salaire brut et charges sociales</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Autres charges de personnel</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dotations aux amortissements et aux provisions</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Total des charges d'exploitation</strong></td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Résultat d'exploitation</strong></td>
+      <td></td>
+      <td></td>
+      <td>xxx</td>
+      <td>yyy</td>
+    </tr>
+    <tr>
+      <td><strong>Charges financières</strong></td>
+      <td>Frais financiers</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Produits financiers</strong></td>
+      <td>Produits financiers</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Résultat financier</strong></td>
+      <td></td>
+      <td></td>
+      <td>xxx</td>
+      <td>yyy</td>
+       </tr>
+    <tr>
+      <td><strong>Résultat courant avant impôt</strong></td>
+      <td></td>
+      <td></td>
+      <td>xxx</td>
+      <td>yyy</td>
+    </tr>
+    <tr>
+      <td><strong>Impôt sur les bénéfices</strong></td>
+      <td>Impôts sur les bénéfices</td>
+      <td>xxx</td>
+      <td>yyy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Résultat net</strong></td>
+      <td></td>
+      <td></td>
+      <td>xxx</td>
+      <td>yyy</td>
     </tr>
   </tbody>
 </table>
+
+
