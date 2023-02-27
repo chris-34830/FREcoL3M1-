@@ -11,15 +11,26 @@
             "id": "cfc08d4807439974",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
+              }
+            }
+          },
+          {
+            "id": "f6379cb7cbe10122",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md"
               }
             }
           }
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,21 +168,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfc08d4807439974",
+  "active": "f6379cb7cbe10122",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
+    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
+    "Excalidraw/Drawing 2023-02-26 22.29.00.excalidraw.md",
     "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
+    "Excalidraw",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
+    "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S6/6.5 Microéconomie appliquée/6.5Cours/Introduction.md",
     "S6/6.4 Politique Economique et Sociale/6.4Cours/Thème 1.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
-    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/91.Résultat d'exceptionnel.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
@@ -179,7 +195,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/8.Résultat d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "README.md",
@@ -200,11 +215,6 @@
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
     "S6/6.1 Analyse Financière/6.1 Cours/index 1.html",
-    "S6/6.1 Analyse Financière/6.1 Cours/index.html",
-    "Excalidraw/Drawing 2023-02-25 14.36.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-25 14.36.08.excalidraw.md",
-    "VA.md",
-    "Excalidraw",
-    "S6/6.1 Analyse Financière/6.1 Notes"
+    "Excalidraw/Drawing 2023-02-25 14.36.09.excalidraw.md"
   ]
 }
