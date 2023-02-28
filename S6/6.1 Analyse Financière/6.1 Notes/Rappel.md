@@ -34,4 +34,13 @@
 	- Ils représentent l'utilisation des fonds - emplois ou besoin de financement
 
 
-
+### Fond de roulement net global
+- Représente une ressource durable - structurelle - mise à la disposition de l'entreprise pour financer ses besoins du cycle d'exploitation ayant un caractère permanent
+- Est une marge de sécurité financière destinée à financer une partie de l'actif circulant
+- Calcul :
+	Par le haut du bilan : Ressources stables - Actif stable.
+	Mesure la part de ressources durables consacrée au financement de l'actif circulant
+	Par le bas : Actif circulant - Passif circulant. Calcul la part de l'actif circulant non financé par le passif circulant
+- Le FRNG 
+	Peut être négatif
+	Ressource d'exploitation - besoin d'exploitation peut dégager des ressources à la place du BFR
