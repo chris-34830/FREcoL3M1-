@@ -19,4 +19,17 @@
 	Charges exceptionnelles : Couts non liés à l'activités normal (amendes, perte de patrimoine)
 	Produits exceptionnels : Produits en dehors de l'activité normale de l'entreprise (produit de cession d'actif)
 
+#### Le bilan 
+- L'état à une date donnée de ses éléments actifs, passifs et capitaux propres.
+- S'établit à partir des soldes des comptes de bilan 
+	Classe 1 : compte de capitaux
+	Classe 2 : compte d'immobilisation
+	Classe 3 : compte Stocks et en-cours
+	Classe 4 : compte de tiers
+	Classe 5 : compte financiers
 
+##### Structure globale du Bilan
+- Il décrit, à une date donnée, la situation financière de l'entreprise 
+	- Ils constituent l'origines des fonds - ressources ou moyens de financement
+	- Ils représentent l'utilisation des fonds - emplois ou besoin de financement
+- 
