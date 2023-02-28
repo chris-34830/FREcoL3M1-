@@ -11,9 +11,11 @@
             "id": "fcdb9523dc2cd16e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +159,10 @@
   },
   "active": "fcdb9523dc2cd16e",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Cours/Sans titre.md",
-    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
@@ -183,14 +186,12 @@
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "Excalidraw/Drawing 2023-02-26 22.29.00.excalidraw.md",
     "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
     "Excalidraw",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "S6/6.1 Analyse Financière/6.1 Poubelle/92.Résultat Net.png",
