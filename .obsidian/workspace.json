@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f84c8de86e214d10",
+        "id": "4a5a2719501ac927",
         "type": "tabs",
         "children": [
           {
-            "id": "fcdb9523dc2cd16e",
+            "id": "aa728aeaf69ece62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcdb9523dc2cd16e",
+  "active": "aa728aeaf69ece62",
   "lastOpenFiles": [
-    "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
+    "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
@@ -185,12 +189,9 @@
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
-    "Excalidraw/Drawing 2023-02-26 22.29.00.excalidraw.md",
-    "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
     "Excalidraw",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
