@@ -32,4 +32,6 @@
 - Il décrit, à une date donnée, la situation financière de l'entreprise selon une approche patrimoniale 
 	- Ils constituent l'origines des fonds - ressources ou moyens de financement
 	- Ils représentent l'utilisation des fonds - emplois ou besoin de financement
-- 
+
+
+
