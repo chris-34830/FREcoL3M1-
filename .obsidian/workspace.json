@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.MOC.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa728aeaf69ece62",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
