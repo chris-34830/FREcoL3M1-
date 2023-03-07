@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md"
+                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,9 @@
   "lastOpenFiles": [
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+    "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD modèle Hierarchique.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
     "S6/6.4 Politique Economique et Sociale/6.4Cours/Thème 1.md",
     "S6/6.5 Microéconomie appliquée/6.5Cours/Introduction.md",
@@ -193,18 +196,14 @@
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
     "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
     "Invisible/5.1 Microéconomie/5.1 Notes/Cournot note.md",
-    "Invisible/5.1 Microéconomie/5.1 Notes/Fusion note.md",
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
-    "Invisible/5.1 Microéconomie/5.1 Notes/Le principe d'équilibre.md",
-    "Invisible/5.1 Microéconomie/5.1 Notes/Le principe d'optimisation.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
     "Excalidraw",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S5/Nouveau Document texte.txt",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas",
-    "S6/6.1 Analyse Financière/6.1 Poubelle",
-    "S6/6.1 Analyse Financière/6.1 Cours/index 1.html"
+    "S6/6.1 Analyse Financière/6.1 Poubelle"
   ]
 }
