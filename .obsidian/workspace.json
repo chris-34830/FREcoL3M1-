@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4ad6f6a5734fcc7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md"
+                "file": "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md"
               }
             }
           }
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+                "file": "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+                "file": "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa728aeaf69ece62",
+  "active": "e4ad6f6a5734fcc7",
   "lastOpenFiles": [
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
+    "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md",
+    "Excalidraw",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD modèle Hierarchique.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
@@ -199,7 +212,6 @@
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
-    "Excalidraw",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S5/Nouveau Document texte.txt",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
