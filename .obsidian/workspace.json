@@ -11,9 +11,11 @@
             "id": "4aedef24d4d3a0c6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf"
+                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf"
+                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +159,19 @@
   },
   "active": "4aedef24d4d3a0c6",
   "lastOpenFiles": [
+    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
+    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
+    "Invisible/5.5 Optimisation/Optimisation MOC.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "Excalidraw/Drawing 2023-03-07 17.41.04.excalidraw.md",
     "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md",
     "Excalidraw",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD modèle Hierarchique.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
     "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
@@ -172,7 +181,6 @@
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Résumé des séances (partagé).md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
     "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
@@ -180,7 +188,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/3.Composant SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
@@ -191,11 +198,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "Invisible/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
