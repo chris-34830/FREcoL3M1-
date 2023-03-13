@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+                "file": "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md"
+                "file": "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+                "file": "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+                "file": "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aedef24d4d3a0c6",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
-    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
-    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "Invisible/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
-    "Invisible/5.5 Optimisation/Optimisation MOC.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
+    "S5/5.5 Optimisation/Optimisation MOC.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
-    "Invisible/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "Excalidraw/Drawing 2023-03-07 17.41.04.excalidraw.md",
@@ -198,8 +198,8 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-    "Invisible/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
-    "Invisible/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
+    "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
+    "S5/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S5/Nouveau Document texte.txt",
