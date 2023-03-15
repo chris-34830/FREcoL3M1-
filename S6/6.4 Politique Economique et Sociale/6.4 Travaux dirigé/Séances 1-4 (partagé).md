@@ -1,6 +1,6 @@
 
 
-Tout les économistes ne seront pas mit dans [[Résumé des séances (partagé)#^ca2f92|TD 2]] (Les plus connus y sont pas)
+Tout les économistes ne seront pas mit dans [[Séances 1-4 (partagé)#^ca2f92|TD 2]] (Les plus connus y sont pas)
 
 ## TD 1
 
