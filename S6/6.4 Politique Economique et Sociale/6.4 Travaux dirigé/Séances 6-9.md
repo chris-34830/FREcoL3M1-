@@ -40,4 +40,12 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
 	- Equivaut à 2977€/habitants
 	- 8.7 du PIB (-0.1 par rapport à 2016)
 	- Hausse de 1.3% par rapport à 2016
-	- Les soins de ville premier facteur de cr
+	- Les soins de ville premier facteur de croissance de la CSBM
+	- La sécurité sociale finance 77,8% en 2017 (77,5% en 2016)
+	- Equivaut à 155,1mds.
+	- Prestations versés aux invalides de guerre, soins urgents, aide médicale de l'Etat et organisme de base pour les soins titulaires de la couverture maladie universelle complémentaire : 1.5% de la CSBM
+	- Part des organismes complémentaires baisse de 0.2pts en 2017 (13.2% soit 26,3mds)
+		- -> Réforme des contrats sur la prise en charge des soins de médecin et de l'optique
+	- Reste à charge diminue : 7.5% en 2017 contre 9.4% en 2008
+		- 14.9mds€ soit 223€/hab
+- Avec une DCSi (Dépense courante de santé au sens international) égal à 17% les US sont le premier pays de l'OCDE. (contre 12% pour la FR et la SW)
