@@ -34,21 +34,126 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
 - Tzamourani (2021) :  Variation de revenus net d'intérêt sont de moindre ampleur que les gains/pertes en capital découlant de l'augmentation/diminution du prix des actifs.
 
 ## TD 8 Les dépenses de santé
-### En 2017 
-- La CSBM 
-	- est évaluée à 199,3mds d'euros.
-	- Equivaut à 2977€/habitants
-	- 8.7% du PIB (-0.1 par rapport à 2016)
-	- Hausse de 1.3% par rapport à 2016
-	- Les soins de ville premier facteur de croissance de la CSBM
-	- La sécurité sociale finance 77,8% en 2017 (77,5% en 2016)
-	- Equivaut à 155,1mds.
-	- Prestations versés aux invalides de guerre, soins urgents, aide médicale de l'Etat et organisme de base pour les soins titulaires de la couverture maladie universelle complémentaire : 1.5% de la CSBM
-	- Part des organismes complémentaires baisse de 0.2pts en 2017 (13.2% soit 26,3mds)
-		- -> Réforme des contrats sur la prise en charge des soins de médecin et de l'optique
-	- Reste à charge diminue : 7.5% en 2017 contre 9.4% en 2008
-		- 14.9mds€ soit 223€/hab
-- Avec une DCSi (Dépense courante de santé au sens international) égal à 17% les US sont le premier pays de l'OCDE. (contre 12% pour la FR et la SW)
-	- Les dépenses courantes de santé, remise au PPA, est deux fois plus élevée aux US qu'en France.
-### En 2021
-- La CSBM
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>2017</th>
+      <th>2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CSBM montant</td>
+      <td>199,3 mds €</td>
+      <td>209,2 mds €</td>
+    </tr>
+    <tr>
+      <td>Variation de la CSBM</td>
+      <td>+1,3% par rapport à 2016</td>
+      <td>+0,4% par rapport à 2019</td>
+    </tr>
+    <tr>
+      <td>CSBM/habitant</td>
+      <td>2977€</td>
+      <td>3100€</td>
+    </tr>
+    <tr>
+      <td>CSBM en part de PIB</td>
+      <td>8,7%</td>
+      <td>9,1%</td>
+    </tr>
+    <tr>
+      <td>Premier facteur de croissance</td>
+      <td>Soins de ville</td>
+      <td>Soins de ville</td>
+    </tr>
+    <tr>
+      <td>Part financé par la sécurité sociale en %</td>
+      <td>77,8%</td>
+      <td>79,8% (+1.9pts)</td>
+    </tr>
+    <tr>
+      <td>Part financé par la sécurité sociale en €</td>
+      <td>155,1 mds €</td>
+      <td>166,9 mds €</td>
+    </tr>
+    <tr>
+      <td>Reste à charge</td>
+      <td>7,5%</td>
+      <td>6,5%</td>
+    </tr>
+    <tr>
+      <td>Reste à charge par habitant</td>
+      <td>223€/hab</td>
+      <td>0.9% du revenu disponible des ménages</td>
+    </tr>
+    <tr>
+      <td>C2S (Ex CMU-C)</td>
+      <td>1,5% des dépenses de santé</td>
+      <td>1,4% des dépenses de santé</td>
+    </tr>
+    <tr>
+      <td>Part des organismes complémentaires</td>
+      <td>13,2%</td>
+      <td>12,3%</td>
+    </tr>
+  </tbody>
+</table>
+
+### En 2017, les raisons
+- Les composantes de la CSBM progressent moins vite qu'en 2016 (sauf les médicaments qui sont stables)
+	Les soins de villes deviennent le premier facteur de croissance de la CSBM après un ralentissement marqué des soins hospitaliers.
+- Diminution de la part des organismes complémentaires causés par le plafonnement des soins de médecins et d'optique
+- Baisse du reste à charge lié à la forte progression des effets de personnes exonérées de ticket modérateur.
+- En 2017, selon les dépense courante de santé au sens internationale, les Etats unis sont premières avec 17% de leur PIB. (12% pour la CH et FR)
+	En PPA, les USA dépensent 2x plus que la France.
+
+### En 2021, les raisons
+- Croissance la plus faible jamais observé causée par la crise sanitaire
+	La consommation de soins hospitaliers du secteur public augmente de 5.6% en 2020. (Majoritairement lié aux rémunération des personnels & primes exceptionnelles)
+- Les soins de ville :
+	- Augmentation de 37,4% des dépenses auprès des laboratoire d'analyse 
+	- Soins infirmiers +7,2% lié au test PCR
+	- +5,8% sage-femmes avec la libéralisation de la profession
+- Baisse de tout les autres secteurs de consommations
+	- -15,4% ortophonistes
+	- -11,9% kiné
+	- -8,9% dentistes
+	- médecine spécialisée et générale -5,6% et -4,2%
+	- -2,4% hopital privé
+
+
+## TD 9 L'immigration
+### Résumé vidéo Le Monde
+- Pour l'INSEE, est un immigré une personne avec une nationalité étrangère née à l'étranger. (Reste immigré même si obtention de la nationalité FR)
+- Trois périodes d'immigration
+	- La première guerre mondiale
+	- Les Trente glorieuses
+	- Depuis les années 200 à aujourd'hui
+- Représente 10% de la population, soit 7m d'individus.
+	- 1% d'immigré en situation irrégulière (600-700k personnes)
+- Pour Eurostat, est un immigré une personne née à l'étranger. (Reste immigré même si née avec nationalité française)
+	- En prenant Eurostat on passe à 12,7% (12,2% pour la moyenne UE)
+- Selon l'INSEE
+	- La seconde génération = 21,4%
+	- La troisième génération = 30~35%
+- Flux migratoire 
+	- En 2017, 261 000entrées sur le territoire mais 122 000 sorties (mort ou départ du territoire) soit une augmentation de seulement +139 000 personnes en FR
+- Origine des immigrées
+	- 47% d'Afrique 
+	- 32% Europe
+	- 14% Asie
+	- 6% Amérique et Océanie
+- Répartition des immigrés en France non homogène
+	- 40% des immigrés installés en IDF
+	- 3% d'immigré en Manche
+- Augmentation probable de la part des immigrés dans la population pour deux raisons
+	- Baisse de la croissance de la population non immigrée
+		Croissance de plus en plus faible de la population non immigrées. 
+		Fécondité des immigrés plus élevés que des non immigrés. (Représente 10% de la pop mais 19% des naissances)
+	- Croissance probable de l'immigration
+		La population d'Afrique augmente et le continent se développe économiquement
+- Seulement 15% des immigrés venant d'Afrique s'installe en Europe. 
+
+
