@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5a2719501ac927",
+        "id": "75df6b84bdfed3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "4aedef24d4d3a0c6",
+            "id": "dd4d28af5816c6f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "847f95cb0f104d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d039e86c8f76fd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md"
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md"
               }
             }
           }
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,34 +173,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aedef24d4d3a0c6",
+  "active": "8d039e86c8f76fd7",
   "lastOpenFiles": [
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.4 Collusion.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
+    "S5/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "Invisible/Sans titre.md",
     "Invisible",
-    "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
-    "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
     "S5/5.5 Optimisation/Optimisation MOC.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
     "Excalidraw/Drawing 2023-03-07 17.41.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-07 17.30.07.excalidraw.md",
     "Excalidraw",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3.2 Les modèles.md",
-    "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD modèle Hierarchique.md",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
-    "S6/6.3 Base de Donnée/6.3 Notes/6.3 Définition.md",
-    "S6/6.4 Politique Economique et Sociale/6.4Cours/Thème 1.md",
-    "S6/6.5 Microéconomie appliquée/6.5Cours/Introduction.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Invisible.md",
-    "S6/6.2 Analyse de Donnée/6.2 Cours/6.2.1 ACP.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
@@ -192,19 +214,12 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/3.Composant SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
-    "S6/6.1 Analyse Financière/6.1 Cours/Cours Analyse screen.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
-    "S6/6.MOC.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
     "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
     "S5/Nouveau Document texte.txt",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas"
   ]
 }
