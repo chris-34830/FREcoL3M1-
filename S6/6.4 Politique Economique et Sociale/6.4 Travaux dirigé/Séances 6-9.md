@@ -157,3 +157,45 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
 - Seulement 15% des immigrés venant d'Afrique s'installe en Europe. 
 
 
+
+### Résumé article IMF
+- 270m d'immigré en 2019
+- +120m d'immmigrés depuis 1990
+- Proportion d'**immigré** :
+	- Dans la **population mondiale** : **stable à 3%** depuis 60ans
+	- Dans les **pays avancés** : **passé de 7 à 12%** de la population totale
+	- **Stable à 2%** dans pays en **développement ou émergent**
+- **Immigration** majoritairement **intra-régional**
+	Mais un part considérable se déroule sur de longues distances des pays émergents / en développement vers avancés
+- Immigration des **réfugiés** local
+	Population vulnérable quittant avec peu de ressource pour se déplacer vers un lieu source proche de leur pays d'origine
+- **Pays émergent & en développement source principale et destination principale des réfugiés**
+- **Cout de l'immigration** expliquent les variations de flux migratoires
+	- **Barrières géographique**
+	- **Linguistiques**
+	- **Coûts de déplacement**
+- **Différences de revenus** entre pays d'origine et de destinations = Une des **raisons de migration**.
+	Pays riche attire les populations immigrés jeunes
+	Si revenu/habitant <7000€, ressortissant émigrant moins vers pays avancés. Population bloqué dans la pauvreté
+- **Guerre = Principale raison d'immigration entre pays émergents & pays en développement**
+- Les populations immigrés **augmentent la productivité à CT** des pays avancés. **+1% d'afflux de migrants** = **+1% de productivité la cinquième année**
+	Raison : Diversification des compétences.
+	Conséquence : Effet positif sur les revenus moyens des autochtones
+	**N'est pas le cas pour les pays d'accueil émergent ou en développement**
+- Dans le futur :
+	- **Augmentation de la pressions migratoire selon les routes migratoires** (entre Afrique et M-O vers l'Europe) entre 2020-2050. Lié à l'**augmentation de la population respective**
+	- Pression migratoire **toujours stable à 3%** de la pop mondiale
+	- **Autre pressions** futurs le **changement climatique** : 
+		- **Augmentation flux interne & régionale**
+		- **Augmentation des populations bloqués dans la pauvreté sans moyen de migrer**
+- **Nécessité d'aligner les politiques budgétaires & monétaire** pour **limiter les impacts négatifs** passagers sur **la répartition de revenu** des autochtones
+- Nécessité d'**intégrer les immigrés dans le marché du travail** (cours de langue, validation des qualifications perso)
+- **Coordination internationale** nécessaire sur **l'immigration des réfugiés** : partager les coûts liés à l'accueil et promouvoir l'intégration dans les pays émergent & en développement
+
+
+
+
+### Résumé focus CAE
+Hypothèse aimant-social :
+- Existence de différences significatives dans la probabilité de recevoir des prestations sociales entre autochtones & immigrés.
+- 
