@@ -32,11 +32,20 @@ Soit la matrice des coefficients de corrélation linéaire donnée par $R = \fra
 Il faut commencer par calculer $Z^T = \begin{pmatrix} \sqrt(2) & \frac{\sqrt(2)}{2} & 0 & \frac{-\sqrt(2)}{2} & -\sqrt(2)\\ \frac{\sqrt(2)}{2} & \frac{-\sqrt(2)}{2} & -\sqrt(2) & \sqrt(2) & 0 \\ -\sqrt(2) & \frac{-\sqrt(2)}{2} & 0 & \frac{\sqrt(2)}{2} & \sqrt(2) \\ \end{pmatrix}$ 
 
 Rappel produit matriciel : $c_{i,j} = \sum_{k} a_{i,k} b_{k,j}$
+
+Ainsi, $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix}$. 
 ##### Que contient-elle ? Quelles propriétés en découlent ?
 La matrice R contient les variances-covariances, permettant ainsi de résumer la structure de dépendance linéaire.
-Les propriétés en découlant est la présence unique de 1 sur la diagonale. La covariance d'une variable envers elle-même étant égale à sa variance. La variance étant cependant standardisé, elle est égal à 1
+Les propriétés en découlant est :
+- la présence unique de 1 sur la diagonale. La covariance d'une variable envers elle-même étant égale à sa variance. La variance étant cependant standardisé, elle est égal à 1
+- Symétrie des valeurs, la covariance est commutatitve. Cov(A,B) = Cov(B,A)
+
+##### Quel est l'objectif de cette opération ? L'ACP est-elle réalisable ?
+L'objectif de l'opération est d'identifier une corrélation entre plusieurs variables afin de réduire nos axes a étudier. Dans l'exercice, nous observons très clairement une dépendance entre $\large{\vec{x_1}}$ et $\large{\vec{x_2}}$. Les deux vecteurs sont linéairement dépendantes au sens opposé. Nous pourrons donc en supprimer l'un des deux pour notre étude en ACP.
+
+## Question 4 :
+##### Calculer les valeurs propres $\lambda_j$ associées à la matrice R. Que représentent-elles dans le contexte de l'ACP ? Quelles propriétés doivent-elles vérifier ?
 
 
-Ainsi, $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix}$. On observe très clairement une relation linéaire entre $\large{\vec{x_1}}$ et $\large{\vec{x_2}}$, l'un étant simplement l'inverse de l'autre.
 
 
