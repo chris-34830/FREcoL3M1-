@@ -1,4 +1,4 @@
-
+ 
 
 ## Question 1 :
 ##### Justifier le choix de réaliser une analyse en composantes principales sur le tableau des données brutes.
@@ -89,3 +89,23 @@ Ils représentent les vecteurs directeurs des axes factoriels et doivent être o
 #### Calculer la matrice de dispersion des individus V
 -
 
+#### A quoi correspond-elle ? Quelles sont ses propriétés ?
+Propriété : 
+- Symétrique (donc carrée)
+Correspond :
+- Dispersion des individus
+
+
+
+
+#### A quoi correspond-elle ? Quelles sont ses propriétés ?
+$\lambda_{Ri} = \lambda_{Vi}$
+
+
+## Question 6 :
+#### Déterminer les coordonnées des individus dans le nouvel espace constitué par les deux premiers axes factoriels (F1 et F2).
+La matrice des coordonnés des individus n'est autre que le produit de la matrice des données centrées-réduites Z et l'espace normé du changement de base.
+$C = \begin{pmatrix} \sqrt(2) & \frac{\sqrt(2)}{2} & -\sqrt(2) \\ \frac{\sqrt(2)}{2} & \frac{- \sqrt(2)}{2} & \frac{-\sqrt(2)}{2} \\ 0 & -\sqrt(2) & 0 \\ \frac{-\sqrt(2)}{2} & \sqrt(2) & \frac{\sqrt(2)}{2} \\ -\sqrt(2) & 0 & \sqrt(2)\\ \end{pmatrix} \times \begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix} = \begin{pmatrix} 1.88 & 0.97  \\ 1.09 & -0.56 \\ 0.2 & -1.4 \\ -1.19 & 1.26 \\ -1.98 & -0.27 \end{pmatrix}$
+
+#### Calculer les contributions absolues et contributions relatives des individus (CTA et CTR). Que représentent-elles ? En quoi sont-elles utiles ?
+Les contributions absolues (CTA) mesurent l'importance des individus dans l'apparition de l'axe factoriel considéré. Plus le CTA est élevée, plus il contribue à faire apparaitre l'axe. Elle se calcul comme suit : CTA$_{i,r}\frac{(c_i^r)^2}{n\lambda_r}$. 
