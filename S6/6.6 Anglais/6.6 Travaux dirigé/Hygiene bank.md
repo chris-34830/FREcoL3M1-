@@ -18,7 +18,7 @@ Hygiene poverty in UK :
 	- 11% of younger ppl (18-34)
 	- 11% of those from an ethnic minority background
 	- 5% of adults who are working
-
+ 
 ### Impact of hygiene poverty
 - 3 in five ppl have experienced a negative impact on their mental health due to hygiene poverty
 - 50% of ppl experiencing hygiene poverty feels anxious/depressed
