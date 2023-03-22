@@ -41,7 +41,7 @@ Les propriétés en découlant est :
 - Symétrie des valeurs, la covariance est commutatitve. Cov(A,B) = Cov(B,A)
 
  #### Quel est l'objectif de cette opération ? L'ACP est-elle réalisable ?
-L'objectif de l'opération est d'identifier une corrélation entre plusieurs variables afin de réduire nos axes a étudier. Dans l'exercice, nous observons très clairement une dépendance entre $\large{\vec{x_1}}$ et $\large{\vec{x_2}}$. Les deux vecteurs sont linéairement dépendantes au sens opposé. Nous pourrons donc en supprimer l'un des deux pour notre étude en ACP.
+L'objectif de l'opération est d'identifier une corrélation entre plusieurs variables afin de réduire nos axes a étudier. Dans l'exercice, nous observons très clairement une dépendance entre $\large{\vec{x_1}}$ et $\large{\vec{x_3}}$. Les deux vecteurs sont linéairement dépendantes au sens opposé. Nous pourrons donc en supprimer l'un des deux pour notre étude en ACP.
 
 ## Question 4 :
 #### Calculer les valeurs propres $\lambda_j$ associées à la matrice R. Que représentent-elles dans le contexte de l'ACP ? Quelles propriétés doivent-elles vérifier ?
@@ -66,4 +66,26 @@ La seconde partie se simplifie comme suit ; $(-0.1)(0.1)(-1)+(-1)(-0.1)(0.1) - (
 En ajoutant la première partie à la seconde on trouve $1-3\lambda+3\lambda^2 + 1.02\lambda -1 =-1.98\lambda+3\lambda^2-\lambda^3$
 En sortant un lambda on fini avec : $\lambda (\lambda^2+3\lambda-1.98) \equiv -\lambda(\lambda^2-3\lambda+1.98)$
 
-#### Que représentent-elles dans le contexte de l'ACP ? Quelles propriétés doivent-elles vérifier ?
+##### Que représentent-elles dans le contexte de l'ACP ? Quelles propriétés doivent-elles vérifier ?
+Dans le cadre d'une ACP, les valeurs propres mesurent la part d'inertie d'une variance. 
+Ainsi, $\frac{2.02*100}{3} = 67$% le premier axe factorielle permet d'extraire 67% des informations contenues dans le tableau de données initiales.
+Il est nécessaire d'avoir toujours une nombre de valeur propre égal au nombre de variables p. Ici, nous avons 3 variables et 3 valeurs propres donc c'est bien vérifié.
+
+#### Déterminer les vecteurs propres normés associés aux différentes valeurs propres. Que représentent-ils ?
+
+Pour rappel,la matrice $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix}$
+Ainsi ; $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \lambda_i \times \begin{pmatrix} x \\ y \\ z \end{pmatrix}$
+Pour $\lambda_i = \lambda_1 = 2.02$ on a : 
+$R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} 2,02x \\ 2,02y \\ 2,02z \end{pmatrix}$
+On peut voir que $x = -z$, chose déjà dite plus haut lorsque l'on a montré que dépendance linéaire au sens opposé lors de la question 3.
+On transforme donc $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} x \\ 2,02y \\ -x \end{pmatrix}$ en développant, on se rend compte que $y=-0.2x$ car la première ligne montre : $-0.1y=0.02x \equiv y=-0.2x$ donc on trouve le vecteur suivant $\vec{v_1} = \begin{pmatrix} 1x \\ 0.2x \\ -1x \end{pmatrix}$
+Le calcul de la norme se fait comme suit $\left\lVert v_1 \right\rVert = \frac{1}{\sqrt(1^2+0.2^2+(-1)^2)} = \frac{1}{\sqrt{2.04}}$ donc le vecteur normé est $\left\lVert \vec{v_1} \right\rVert =  \begin{pmatrix} 0.7 \\ -0.14 \\ -0.7 \end{pmatrix}$
+
+Pour finir, l'espace normé est ainsi $\begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix}$
+Ils représentent les vecteurs directeurs des axes factoriels et doivent être orthogonaux deux à deux (Le produit de deux vecteurs issue de l'espace normée doit être égal à 0)
+
+
+## Question 5 :
+#### Calculer la matrice de dispersion des individus V
+-
+
