@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9786c5e9b9b66729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Hygiene bank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "536e4f5702135c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md"
+                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md"
               }
             }
           }
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +182,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f448a49710f8227d",
+  "active": "536e4f5702135c63",
   "lastOpenFiles": [
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
+    "S6/6.6 Anglais/6.6 Travaux dirigé/Hygiene bank.md",
+    "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+    "S6/6.6 Anglais/6.6 Travaux dirigé",
+    "S6/6.6 Anglais/6.6 Cours/6.6 Sans titre",
+    "S6/6.6 Anglais/6.6 Cours",
+    "S6/6.6 Anglais",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
@@ -189,8 +220,6 @@
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3.1 Introduction.md",
-    "Excalidraw/Drawing 2023-03-07 17.41.04.excalidraw.md",
-    "Excalidraw",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
@@ -201,9 +230,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/9.Résultat courant avant impôts.png",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique cournot.png",
     "S5/5.1 Microéconomie/5.1 Notes/Graphique couts moyen.png",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.0 Introduction",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/Les Zooms. Analyse financière 2014-2015 - 18e édition (Béatrice GRANDGUILLOT, Francis GRANDGUILLOT).pdf",
-    "S5/Nouveau Document texte.txt",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas"
   ]
 }
