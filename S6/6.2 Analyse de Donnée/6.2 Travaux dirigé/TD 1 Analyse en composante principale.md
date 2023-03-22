@@ -78,7 +78,7 @@ Ainsi ; $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,
 Pour $\lambda_i = \lambda_1 = 2.02$ on a : 
 $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} 2,02x \\ 2,02y \\ 2,02z \end{pmatrix}$
 On peut voir que $x = -z$, chose déjà dite plus haut lorsque l'on a montré que dépendance linéaire au sens opposé lors de la question 3.
-On transforme donc $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} x \\ 2,02y \\ -x \end{pmatrix}$ en développant, on se rend compte que $y=-0.2x$ car la première ligne montre : $-0.1y=0.02x \equiv y=-0.2x$ donc on trouve le vecteur suivant $\vec{v_1} = \begin{pmatrix} 1x \\ 0.2x \\ -1x \end{pmatrix}$
+On transforme donc $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ -x \end{pmatrix} = \begin{pmatrix} 2x-0.1y \\ y-0.2x \\ 0.1y-2x \end{pmatrix}$ on se rend compte que $y=-0.2x$ donc on trouve le vecteur suivant $\vec{v_1} = \begin{pmatrix} 1x \\ 0.2x \\ -1x \end{pmatrix}$
 Le calcul de la norme se fait comme suit $\left\lVert v_1 \right\rVert = \frac{1}{\sqrt(1^2+0.2^2+(-1)^2)} = \frac{1}{\sqrt{2.04}}$ donc le vecteur normé est $\left\lVert \vec{v_1} \right\rVert =  \begin{pmatrix} 0.7 \\ -0.14 \\ -0.7 \end{pmatrix}$
 
 Pour finir, l'espace normé est ainsi $\begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix}$
