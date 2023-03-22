@@ -45,7 +45,10 @@ L'objectif de l'opération est d'identifier une corrélation entre plusieurs var
 
 ## Question 4 :
 ##### Calculer les valeurs propres $\lambda_j$ associées à la matrice R. Que représentent-elles dans le contexte de l'ACP ? Quelles propriétés doivent-elles vérifier ?
-
+###### Calcul valeur propre
+Cherchons le polynôme caractéristique : $p_R(\lambda) det(R-\lambda) = \begin{pmatrix} 1-\lambda    & -0,1 & -1  \\ -0,1 & Cherchons le polynôme caractéristique : $p_R(\lambda) = 0 \equiv det(R-\lambda) = \begin{pmatrix} 1-\lambda    & -0,1 & -1  \\ -0,1 & 1-\lambda    & 0,1 \\ -1   & 0,1  & 1-\lambda   \end{pmatrix}$ = 0
+En utilisant la règle de Sarrus, rappel de la règle de Sarrus
+Soit la matrice d'exemple A:$A = \begin{pmatrix} A & B & C & A & B \\ D & E & F & D & E \\ G & H & I & G & H \end{pmatrix}$ sont déterminant est la somme des produits des diagonales. Les diagonales "descendantes" sont positives (en vert) tandis que les "ascendantes" sont négatives (en orange), ce qui donne : $det(A) = AEI + BFG + CDH - GEC - HFA - IDB$ 
 
 
 
