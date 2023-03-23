@@ -113,4 +113,5 @@ Il y a en réalité une troisième colonne qui serait égal au vecteur colonne $
 
 #### Calculer les contributions absolues et contributions relatives des individus (CTA et CTR). Que représentent-elles ? En quoi sont-elles utiles ?
 Les contributions absolues (CTA) mesurent l'importance des individus dans l'apparition de l'axe factoriel considéré. Plus le CTA est élevée, plus il contribue à faire apparaitre l'axe. Elle se calcul comme suit : $$\text{CTA}_{i,r}=\frac{(c_i^r)^2}{n\lambda_r}$$
+  Ainsi la matrice des coordonnées des individus pour les axes factoriels reteunus ($F_1$ et $F_2$) élevé au carré est donc $C^2 = \left(   \begin{array}{}     3.54 &  0.96 \\ 1.19 & 032 \\ 0.04 & 1.96 \\ 1.41 & 1.59 \\ 3.94 & 0.08 \\    \hline   10.09  & 4.89 \\ 5\times2.02 & 5\times0.98   \end{array}  \right)$ 
 
