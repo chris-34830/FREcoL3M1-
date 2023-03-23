@@ -99,14 +99,18 @@ Correspond :
 
 
 
-#### A quoi correspond-elle ? Quelles sont ses propriétés ?
-$\lambda_{Ri} = \lambda_{Vi}$
+#### Sans calcul, déterminer les valeurs propres de la matrice V. 
+$\lambda_{Ri} = \lambda_{Vi}$ et $\lambda_4 = \lambda_5 = 0$ 
+
 
 
 ## Question 6 :
 #### Déterminer les coordonnées des individus dans le nouvel espace constitué par les deux premiers axes factoriels (F1 et F2).
 La matrice des coordonnés des individus n'est autre que le produit de la matrice des données centrées-réduites Z et l'espace normé du changement de base.
 $C = \begin{pmatrix} \sqrt(2) & \frac{\sqrt(2)}{2} & -\sqrt(2) \\ \frac{\sqrt(2)}{2} & \frac{- \sqrt(2)}{2} & \frac{-\sqrt(2)}{2} \\ 0 & -\sqrt(2) & 0 \\ \frac{-\sqrt(2)}{2} & \sqrt(2) & \frac{\sqrt(2)}{2} \\ -\sqrt(2) & 0 & \sqrt(2)\\ \end{pmatrix} \times \begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix} = \begin{pmatrix} 1.88 & 0.97  \\ 1.09 & -0.56 \\ 0.2 & -1.4 \\ -1.19 & 1.26 \\ -1.98 & -0.27 \end{pmatrix}$
+Il y a en réalité une troisième colonne qui serait égal au vecteur colonne $\vec{v_{F3}}= \vec{0}$ représentant l'axe factoriel $F_3$. Cependant, les colonnes composés de 0 doivent être supprimer lors de l'utilisation des matrices (notamment car une colonne de 0 donne un déterminant égal à 0).
+
 
 #### Calculer les contributions absolues et contributions relatives des individus (CTA et CTR). Que représentent-elles ? En quoi sont-elles utiles ?
-Les contributions absolues (CTA) mesurent l'importance des individus dans l'apparition de l'axe factoriel considéré. Plus le CTA est élevée, plus il contribue à faire apparaitre l'axe. Elle se calcul comme suit : CTA$_{i,r}\frac{(c_i^r)^2}{n\lambda_r}$. 
+Les contributions absolues (CTA) mesurent l'importance des individus dans l'apparition de l'axe factoriel considéré. Plus le CTA est élevée, plus il contribue à faire apparaitre l'axe. Elle se calcul comme suit : $$\text{CTA}_{i,r}=\frac{(c_i^r)^2}{n\lambda_r}$$
+
