@@ -81,7 +81,9 @@ On peut voir que $x = -z$, chose déjà dite plus haut lorsque l'on a montré qu
 On transforme donc $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1  & 1   \end{pmatrix} \times \begin{pmatrix} x \\ y \\ -x \end{pmatrix} = \begin{pmatrix} 2x-0.1y \\ y-0.2x \\ 0.1y-2x \end{pmatrix}$ on se rend compte que $y=-0.2x$ donc on trouve le vecteur suivant $\vec{v_1} = \begin{pmatrix} 1x \\ 0.2x \\ -1x \end{pmatrix}$
 Le calcul de la norme se fait comme suit $\left\lVert v_1 \right\rVert = \frac{1}{\sqrt(1^2+0.2^2+(-1)^2)} = \frac{1}{\sqrt{2.04}}$ donc le vecteur normé est $\left\lVert \vec{v_1} \right\rVert =  \begin{pmatrix} 0.7 \\ -0.14 \\ -0.7 \end{pmatrix}$
 Pour finir, l'espace normé est ainsi $\begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix}$
-Ils représentent les vecteurs directeurs des axes factoriels et doivent être orthogonaux deux à deux (Le produit de deux vecteurs issue de l'espace normée doit être égal à 0)
+Ils représentent les vecteurs directeurs des axes factoriels et doivent être orthogonaux deux à deux (Le produit **scalaire** des deux vecteurs issue de l'espace normée doit être égal à 0)
+
+
 
 
 ## Question 5 :
