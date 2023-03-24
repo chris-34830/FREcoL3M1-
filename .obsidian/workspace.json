@@ -35,11 +35,9 @@
             "id": "536e4f5702135c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-                "mode": "source",
-                "source": false
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md"
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf"
               }
             }
           }
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +181,9 @@
   },
   "active": "536e4f5702135c63",
   "lastOpenFiles": [
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "S6/6.6 Anglais/6.6 Travaux dirigé/Hygiene bank.md",
     "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
