@@ -84,8 +84,6 @@ Pour finir, l'espace normé est ainsi $\begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.
 Ils représentent les vecteurs directeurs des axes factoriels et doivent être orthogonaux deux à deux (Le produit **scalaire** des deux vecteurs issue de l'espace normée doit être égal à 0)
 
 
-
-
 ## Question 5 :
 #### Calculer la matrice de dispersion des individus V
 -
