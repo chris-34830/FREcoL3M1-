@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f448a49710f8227d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9786c5e9b9b66729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S6/6.6 Anglais/6.6 Travaux dirigé/Hygiene bank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "536e4f5702135c63",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,11 +75,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 241.01103591918945
+    "width": 241.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -162,11 +139,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +159,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45f612cc2b6563ce",
+  "active": "536e4f5702135c63",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
@@ -198,7 +178,6 @@
     "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
     "S6/6.6 Anglais/6.6 Travaux dirigé",
     "S6/6.6 Anglais/6.6 Cours/6.6 Sans titre",
