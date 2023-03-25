@@ -34,7 +34,7 @@
 				<td rowspan="1">
 					<span style="visibility: hidden;">***</span>+
 					<br>
-					<span style="visibility: hidden;">***</span>+
+					<span style="visibility: hidden;">***</span>-
 				</td>
 				<td rowspan="2"> Marge commerciale <br> Production de l'exercice <br> Consommation en provenance des tiers
 				</td>

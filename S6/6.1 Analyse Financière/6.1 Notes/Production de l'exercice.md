@@ -27,7 +27,7 @@
 				<tr>
 				<td rowspan="2">
 					<br>
-					<span style="visibility: hidden;">***</span>+
+					<span style="visibility: hidden;">***</span>+-
 					<br>
 					<span style="visibility: hidden;">***</span>+
 				</td>
