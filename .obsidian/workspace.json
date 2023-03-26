@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "723d24711dee4c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md"
               }
             }
           }
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,21 +170,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1bb9a8149f218a3",
+  "active": "723d24711dee4c4f",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
+    "Sans titre 1.md",
+    "Sans titre.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat exceptionnel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Résultat Net.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Résultat courant avant impôts.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
     "S6/6.6 Anglais/6.6 Travaux dirigé/Hygiene bank.md",
     "S6/6.6 Anglais/6.6 Travaux dirigé/Cashless society.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
@@ -190,8 +206,6 @@
     "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
     "Invisible",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
