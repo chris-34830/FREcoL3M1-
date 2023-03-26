@@ -6,5 +6,8 @@
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Arial Black",
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "SNippets"
+  ]
 }

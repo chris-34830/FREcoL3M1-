@@ -4,12 +4,19 @@
   "fileSortOrder": "byCreatedTime",
   "spellcheck": true,
   "vimMode": false,
-  "tabSize": 4,
+  "tabSize": 3,
   "spellcheckLanguages": [
     "fr",
     "en-GB"
   ],
   "attachmentFolderPath": "S6",
   "livePreview": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "autoConvertHtml": true,
+  "smartIndentList": true,
+  "showInlineTitle": true
 }

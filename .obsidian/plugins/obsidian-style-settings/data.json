@@ -37,5 +37,8 @@
   "blue-topaz-theme@@embed-hover": false,
   "blue-topaz-theme@@embed-hd": true,
   "blue-topaz-theme@@naked-embed": true,
-  "blue-topaz-theme@@justify-align": true
+  "blue-topaz-theme@@justify-align": true,
+  "blue-topaz-theme@@simple-p-kanban": true,
+  "blue-topaz-theme@@remove-shadow-p-kanban": true,
+  "blue-topaz-theme@@colorful-p-kanban": true
 }
