@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Notes/Résultat d'exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,18 +172,18 @@
   },
   "active": "5e645c9d47a88add",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Les ratios",
-    "S6/6.1 Analyse Financière/6.1 Notes/Excédent brut d'exploitation.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Valeur ajoutée.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Production de l'exercice.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/Marge commerciale.md",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
