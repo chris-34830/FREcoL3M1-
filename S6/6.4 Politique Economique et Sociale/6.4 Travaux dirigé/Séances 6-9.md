@@ -1,37 +1,35 @@
-
+  
 ## TD 6-7 L'impact d'une variation des taux d'intérêts 
 ### Introduction
-En mars 2020, la BCE a injecté 780mds d'euros dans le **programme d'achat d'urgence** permettant de réduire l'écart des taux d'intérêts des obligations gouvernementales des pays de la zone euros.
+En mars 2020, la BCE a injecté **780mds** d'euros dans le **programme d'achat d'urgence** permettant de r**éduire l'écart des taux d'intérêts des obligations gouvernementales des pays de la zone euros**.
 Quelles sont les impacts de cette injection massive de liquidité sur les inégalités entre les ménages, au sein de la zone euro?
 ###  Impact de la politique sur les ménages
 Il existe plusieurs effets :
-- Effet direct : Conséquence immédiate de la politique monétaire sur la distribution des revenus et des richesses entre ménages.
+- **Effet direct** : **Conséquence immédiate** de la politique monétaire sur la **distribution des revenus et des richesses entre ménages**.
 - Effet indirect :
-	- Macroéconomique : Résulte de l'équilibre général de politique monétaire, l'emploi et les revenus.
-	- Financier : Valeur financière.
+	- **Macroéconomique** : Résulte de l'équilibre général de politique monétaire, l'emploi et les revenus.
+	- **Financier** : Valeur financière.
 #### Dans le cas d'une baisse du taux d'intérêt
 - Effet direct : 
-	- Baisse des intérêts versés par les ménages : Dans le cas d'un contrat à taux variable, d'une renégociation de contrat ou d'un nouveau contrat le taux d'intérêt à payer est moindre
-	- Baisse des intérêts versés aux ménages : L'épargne rapporte moins.
+	- **Baisse des intérêts versés par les ménages** : Dans le cas d'un contrat à taux variable, d'une renégociation de contrat ou d'un nouveau contrat le taux d'intérêt à payer est moindre
+	- **Baisse des intérêts versés aux ménages** : L'épargne rapporte moins.
 - Effet indirect :
-	- (Macroéconomique) Augmentation du coût du capital physique : Encourage les entreprises à augmenter leur production pour satisfaire l'augmentation de la demande globale. Impact positif sur les salaires et l'emploi
-	- (Financier) : Hausse des prix des actifs augmentant la valeur nette des entreprises
+	- **(Macroéconomique) Augmentation du coût du capital physique** : Encourage les entreprises à augmenter leur production pour satisfaire l'augmentation de la demande globale. Impact positif sur les salaires et l'emploi
+	- **(Financier)** : Hausse des prix des actifs augmentant la **valeur nette des entreprises**
 - Conséquence :
-	- Les ménages les plus modestes semblent le plus profiter d'une baisse des taux d'intérêt. Ces derniers voient leur revenu brut disponible constitué quasi-uniquement de la rémunération du travail qui, dans le cas d'une baisse du taux d'intérêt, se voit revaloriser. La rémunération de l'épargne ne représente que 3,4% du revenu disponible des 4 premiers déciles (5.3% pour les 4suivants) contre 24.5% pour le dernier décile.
-	  A l'inverse, les ménages les plus aisés sont ceux qui semblent le moins profiter d'un taux d'intérêt faible. L'épargne étant majoritairement détenu par cette population, une rémunération moindre du capital induirait une baisse de revenu pour cette population.
-	  A contraster : Une baisse des taux d'intérêts permet aux ménages d'accéder à des conditions de crédit favorable pour financer l'achat d'un logement. Cependant, ce sursaut de demande impacte à la hausse le prix des logements. Le prix des logements augmentent donc lorsque les taux d'intérêt se voient faible, renforçant les inégalités patrimoniales entre les ménages. De plus, l'impact négatif sur la rémunération de l'épargne des ménages est qu'à lui contre-balancé par un effet positif sur les marchés financiers et immobiliers, ce qui bénéficie plus au ménages aisés que modestes (69,3% du patrimoine financier est concentré dans le dernier décile).
-	  
-Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniforme à l'échelle du territoire. Les actifs ayant le plus été revalorisés semblent être concentrés dans les ménages aisés (Logement en centre-ville par exemple)
-
-#### Les études citées :
-- Ampudia et al. (2018) : Les effets indirects (macroéconomique) sont quantitativement plus importants que les effets via flux financiers et les prix des actifs
-- Lenza et Slacalek (2018) : Etudie les 4 plus grands pays de la zone euro (Allemagne, Espagne, France et Italie) et montre une réduction des inégalités revenus venant de la baisse du taux de chomage des ménages situés dans le bas de la distribution des revenus.
-- Slacalek et al. (2020) : Montre l'importance des effets indirects de la politique monétaire via les revenus du travail et trouvent l'effet de richesse immobilière négligeable (à l'inverse de l'Espagne ou les taux variables sont plus fréquents)
-- Colciago et al (2019) : Résultat variable selon le contexte macroéconomique & la structure et la répartition du patrimoine 
+	- **Les ménages les plus modestes** semblent le plus **profiter d'une baisse des taux d'intérêt**. Ces derniers voient leur **revenu brut disponible** constitué quasi-uniquement de la **rémunération du travail** qui, dans le cas d'une baisse du taux d'intérêt, **se voit revaloriser**. La rémunération de l'épargne ne représente que **3,4% du revenu disponible des 4 premiers déciles** (5.3% pour les 4suivants) **contre 24.5% pour le dernier décile**.
+	  A l'inverse, les ménages **les plus aisés** sont ceux qui semblent le moins profiter d'un taux d'intérêt faible.**L'épargne étant majoritairement détenu par cette population**, une rémunération moindre du capital **induirait une baisse de revenu pour cette population**.
+	  **A contraster** : Une **baisse des taux d'intérêts permet** aux ménages d'accéder à des **conditions de crédit favorable** pour financer l'achat d'un logement. Cependant, ce sursaut de demande **impacte à la hausse le prix des logements**. Le prix des logements augmentent donc lorsque les taux d'intérêt se voient faible, **renforçant les inégalités patrimoniales entre les ménages**. De plus, l'**impact négatif sur la rémunération de l'épargne des ménages** est qu'à lui **contre-balancé par un effet positif sur les marchés financiers et immobiliers**, ce qui bénéficie plus au ménages aisés que modestes (**69,3% du patrimoine financier est concentré dans le dernier décile**).
+Nécessaire d'inclure dans l'analyse que l'**évolution des prix n'est pas uniforme à l'échelle du territoire**. Les actifs ayant le plus été revalorisés semblent être concentrés dans les ménages aisés (Logement en centre-ville par exemple)
+### Les études citées :
+- **Ampudia et al. (2018)** : **Les effets indirects quantitativement plus importants** que les effets via flux financiers et les prix des actifs
+- **Lenza et Slacalek (2018)** : Etudie les 4 plus grands pays de la zone euro (Allemagne, Espagne, France et Italie) et montre une **réduction des inégalités revenus venant de la baisse du taux de chomage** des ménages situés dans le **bas de la distribution des revenus**.
+- **Slacalek et al. (2020)** : Montre l'**importance des effets indirects** de la politique monétaire via les revenus du travail et trouvent l'**effet de richesse immobilière négligeabl**e (sauf pour l'Espagne ou les taux variables sont plus fréquents)
+- **Colciago et al (2019)** : **Résultat variable selon le contexte macroéconomique & la structure et la répartition du patrimoine** 
 	- Aux US et au japon, les mesures non conventionnelles auraient aggravés les inégalités
 	- En zone euro, l'inverse
-- Amberg et al (2021) : En Suède, les impacts les plus forts se trouvent chez les très modestes (principalement dus aux changements dans le revenu du travail) et les très aisés (causés par le revenu du capital). 
-- Tzamourani (2021) :  Variation de revenus net d'intérêt sont de moindre ampleur que les gains/pertes en capital découlant de l'augmentation/diminution du prix des actifs.
+- **Amberg et al (2021)** : En Suède, les **impacts les plus forts se trouvent chez les très modestes** (principalement dus aux changements dans le revenu du travail) et **les très aisés** (causés par le revenu du capital). 
+- **Tzamourani (2021)** :  **Variation de revenus net d'intérêt** sont de **moindre ampleur** que les **gains/pertes** en capital découlant de **l'augmentation/diminution du prix des actifs**.
 
 ## TD 8 Les dépenses de santé
 <table>
@@ -39,7 +37,7 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
     <tr>
       <th></th>
       <th>2017</th>
-      <th>2018</th>
+      <th>2020</th>
     </tr>
   </thead>
   <tbody>
@@ -101,66 +99,65 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
   </tbody>
 </table>
 
+**CSBM = La consommation de soins et de biens médicaux
+CMU-C = Couverture maladie universelle complémentaire
+C2S = Complémentaire santé solidaire**
 ### En 2017, les raisons
-- Les composantes de la CSBM progressent moins vite qu'en 2016 (sauf les médicaments qui sont stables)
-	Les soins de villes deviennent le premier facteur de croissance de la CSBM après un ralentissement marqué des soins hospitaliers.
-- Diminution de la part des organismes complémentaires causés par le plafonnement des soins de médecins et d'optique
+- Les **composantes de la CSBM progressent moins vite qu'en 2016** (sauf les médicaments qui sont stables)
+	Les **soins de villes premier facteur de croissanc**e de la CSBM après un ralentissement marqué des soins hospitaliers.
+- **Diminution de la part des organismes complémentaires** causés par le plafonnement des soins de médecins et d'optique
 - Baisse du reste à charge lié à la forte progression des effets de personnes exonérées de ticket modérateur.
 - En 2017, selon les dépense courante de santé au sens internationale, les Etats unis sont premières avec 17% de leur PIB. (12% pour la CH et FR)
 	En PPA, les USA dépensent 2x plus que la France.
-
-### En 2021, les raisons
-- Croissance la plus faible jamais observé causée par la crise sanitaire
+### En 2020, les raisons
+- **Croissance la plus faible** jamais observé causée par la crise sanitaire
 	La consommation de soins hospitaliers du secteur public augmente de 5.6% en 2020. (Majoritairement lié aux rémunération des personnels & primes exceptionnelles)
 - Les soins de ville :
-	- Augmentation de 37,4% des dépenses auprès des laboratoire d'analyse 
-	- Soins infirmiers +7,2% lié au test PCR
-	- +5,8% sage-femmes avec la libéralisation de la profession
+	-** Augmentation de 37,4%** des dépenses auprès des **laboratoire d'analyse **
+	- **Soins infirmiers +7,2%** lié au test PCR
+	- **+5,8% sage-femmes** avec la libéralisation de la profession
 - Baisse de tout les autres secteurs de consommations
-	- -15,4% ortophonistes
-	- -11,9% kiné
-	- -8,9% dentistes
-	- médecine spécialisée et générale -5,6% et -4,2%
-	- -2,4% hopital privé
+	- **-15,4% ortophonistes**
+	- **-11,9% kiné**
+	- **-8,9% dentistes**
+	- **médecine spécialisée et générale -5,6% et -4,2%**
+	- **-2,4% hopital privé**
 
 
 ## TD 9 L'immigration
 ### Résumé vidéo Le Monde
-- Pour l'INSEE, est un immigré une personne avec une nationalité étrangère née à l'étranger. (Reste immigré même si obtention de la nationalité FR)
+- Pour l'**INSEE**, immigré = une personne avec une **nationalité étrangère née à l'étranger**. (Reste **immigré même si obtention de la nationalité FR**)
 - Trois périodes d'immigration
 	- La première guerre mondiale
 	- Les Trente glorieuses
-	- Depuis les années 200 à aujourd'hui
-- Représente 10% de la population, soit 7m d'individus.
-	- 1% d'immigré en situation irrégulière (600-700k personnes)
-- Pour Eurostat, est un immigré une personne née à l'étranger. (Reste immigré même si née avec nationalité française)
-	- En prenant Eurostat on passe à 12,7% (12,2% pour la moyenne UE)
-- Selon l'INSEE
-	- La seconde génération = 21,4%
-	- La troisième génération = 30~35%
+	- Depuis les années 2000 à aujourd'hui
+- Représente **10% de la population**, soit **7m d'individus**.
+	- **1% d'immigré en situation irrégulière** (600-700k personnes)
+- **Pour Eurostat**, est un **immigré une personne née à l'étranger**. (Reste **immigré même si née avec nationalité française**)
+	- En prenant **Eurostat** on passe à **12,7% de la population** (12,2% pour la moyenne UE)
+- **Selon l'INSEE**
+	- **La seconde génération = 21,4%**
+	- **La troisième génération = 30~35%**
 - Flux migratoire 
-	- En 2017, 261 000entrées sur le territoire mais 122 000 sorties (mort ou départ du territoire) soit une augmentation de seulement +139 000 personnes en FR
+	- **En 2017, 261 000entrées sur le territoire mais 122 000 sorties** (mort ou départ du territoire) soit une augmentation de **seulement  +139 000 personnes en FR**
 - Origine des immigrées
-	- 47% d'Afrique 
-	- 32% Europe
-	- 14% Asie
-	- 6% Amérique et Océanie
+	- **47% d'Afrique** 
+	- **32% Europe**
+	- **14% Asie**
+	- **6% Amérique et Océanie**
 - Répartition des immigrés en France non homogène
-	- 40% des immigrés installés en IDF
-	- 3% d'immigré en Manche
-- Augmentation probable de la part des immigrés dans la population pour deux raisons
-	- Baisse de la croissance de la population non immigrée
+	- **40% des immigrés installés en IDF**
+	- **3% d'immigré en Manche**
+- **Augmentation** probable de **la part des immigrés dans la population** pour deux raisons
+	- **Baisse de la croissance de la population non immigrée**
 		Croissance de plus en plus faible de la population non immigrées. 
 		Fécondité des immigrés plus élevés que des non immigrés. (Représente 10% de la pop mais 19% des naissances)
-	- Croissance probable de l'immigration
+	- **Croissance probable de l'immigration**
 		La population d'Afrique augmente et le continent se développe économiquement
-- Seulement 15% des immigrés venant d'Afrique s'installe en Europe. 
-
-
-
+- Seulement **15% des immigrés venant d'Afrique s'installe en Europe**. 
 ### Résumé article IMF
-- 270m d'immigré en 2019
-- +120m d'immmigrés depuis 1990
+- **270m d'immigré en 2019**
+- **+120m d'immmigrés depuis 1990**
 - Proportion d'**immigré** :
 	- Dans la **population mondiale** : **stable à 3%** depuis 60ans
 	- Dans les **pays avancés** : **passé de 7 à 12%** de la population totale
@@ -191,9 +188,6 @@ Nécessaire d'inclure dans l'analyse que l'évolution des prix n'est pas uniform
 - **Nécessité d'aligner les politiques budgétaires & monétaire** pour **limiter les impacts négatifs** passagers sur **la répartition de revenu** des autochtones
 - Nécessité d'**intégrer les immigrés dans le marché du travail** (cours de langue, validation des qualifications perso)
 - **Coordination internationale** nécessaire sur **l'immigration des réfugiés** : partager les coûts liés à l'accueil et promouvoir l'intégration dans les pays émergent & en développement
-
-
-
 
 ### Résumé focus CAE
 Hypothèse aimant-social :
