@@ -1,8 +1,8 @@
 [
-  "table-editor-obsidian",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "table-extended"
+  "table-editor-obsidian",
+  "obsidian-latex-suite"
 ]

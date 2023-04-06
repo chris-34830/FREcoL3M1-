@@ -1,19 +1,38 @@
 # FacS6
-Nécessite l'utilisation de obsidian.md ou tout autre logiciel supportant les langages utilisés( LaTeX - Markdown - CSS - Html) https://obsidian.md/.
-Pour les cours de PES vous pouvez simplement copier-coller le cours sur word ou google docs tout en activant le support Markdown. 
-Pour analyse de donnée & Analyse financière, utilisez obsidian (ou se référer au capture d'écran)
+Pré-requis :
+Pour les cours de [6.1 Analyse Financière] un support : 
+- MultiMarkdown
+- LaTeX
+- HTML
+Pour les cours de [6.2 Analyse de Donnée] un support :
+- LaTeX
+- Markdown
+Pour les cours de [6.3 Base de Donnée] un support :
+- Markdown
+Pour les cours de [6.4 Politique économique et sociale] un support : 
+- Markdown
+Pour les cours de [6.5 Microéconomie appliquée] un support :
+- Markdown
+- LaTeX
+Pour les cours de [6.6 Anglais] un support :
+- Markdown 
 
-## Support overleaf / LaTeX   
-Exemple initialisation document LaTeX :  
+Logiciel conseillé qui permet le support (natif ou par traduction) :
+- Vim (Le mieux mais absence d'interface graphique)
+- Obsidian (Le plus simple, le repo github étant ma vault obsidian)
+- Notion 
+
+## Initialisation d'un support Markdown sur un document LaTeX
+Exemple expliqué d'initialisation d'un document LaTeX pour le support complet du Markdown :  
 \documentclass{article}  
 \usepackage{lmodern} %Permet d'avoir une police vectorielle qui, autrement, n'est pas conservé lors du chargement de fontenc.  
-\usepackage[francais]{babel} 
-\usepackage[utf8]{inputenc} %inputenc car utilisation d'accent et l'encodage se fait automatiquement    
+\usepackage[francais]{babel} %Pour écrire en français
+\usepackage[utf8]{inputenc} %inputenc car utilisation d'accent et encodage automatique  
 \usepackage[T1]{fontenc} %Permet de régler le problème de césure lié à l'utilisation d'accent et du package inputenc  
-\usepackage{amsmath,amsfonts,amssymb} %maths  
-\usepackage{ragged2e} %Sur overleaf, le texte est répartie uniformément entre les marges en tout temps ce qui empêche d'aligner avec la marge de gauche.   
-\usepackage{diffcoeff}  %equation différentielle  
-\usepackage{xcolor} %permet de passer outre les couleurs utilisés dans le plaintext  
+\usepackage{amsmath,amsfonts,amssymb} %maths  %Permet l'utilisation de diverses commandes
+\usepackage{ragged2e} %Si utilisation de Overleaf : le texte est répartie uniformément entre les marges en tout temps ce qui empêche d'aligner avec la marge de gauche.
+\usepackage{diffcoeff}  %équation différentielle
+\usepackage{xcolor} %Permet de passer outre les couleurs utilisés dans le plaintext
 \usepackage[hybrid]{markdown} %permet l'utilisation conjointe du Markdown et du LaTeX  
   
 \begin{document}  
@@ -21,16 +40,4 @@ Exemple initialisation document LaTeX :
 ^Cours copié collé  
 \end{markdown}  
 \end{document}  
- 
-## Utilisation avec Obsidian.md  
-Créer une vault   
-Télécharger le git   
-Mettre la git à la place de votre vault  
-Relancer Obsidian  
-Accepter les plug-ins  
-Normalement vous devez voir ceci :   
-![image](https://user-images.githubusercontent.com/115942285/218880631-6af1a44e-3e93-4492-8984-b8280f8873f9.png)
 
-
-## Mise à jour automatique
-Tout ce que j'écris sur le document originel est envoyé ici mais vous aurez besoin de retélécharger manuellement les changemenst - ou d'utiliser le plugin obsidian git -
