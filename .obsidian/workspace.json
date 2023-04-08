@@ -6,7 +6,7 @@
       {
         "id": "a16f02dd91902864",
         "type": "tabs",
-        "dimension": 34.93392070484582,
+        "dimension": 44.58149779735683,
         "children": [
           {
             "id": "e9e9b060154de074",
@@ -30,12 +30,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a466eec71ad267ee",
         "type": "tabs",
-        "dimension": 65.06607929515418,
+        "dimension": 55.41850220264317,
         "children": [
           {
             "id": "cb867da63b10a5d0",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
               }
             }
           }
@@ -109,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.01103591918945
+    "width": 241.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9e9b060154de074",
+  "active": "0dc583f4399cf817",
   "lastOpenFiles": [
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Notes/3. Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
@@ -215,7 +218,6 @@
     "S5/5.1 Microéconomie/5.1 Notes/Fusion note.md",
     "S5/5.1 Microéconomie/5.1 Notes/Cournot note.md",
     "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
-    "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
