@@ -68,7 +68,7 @@ Tout les économistes ne seront pas mit dans [[Séances 1-4 (partagé)#^ca2f92|T
 - Il faut créer un produit (donc une valeur) pour trouver des débouchés sur un marché. => Il faut de la valeur pour effectuer un échange commercial.
 
 
-#### Frédéric Bastien, le role de l'Etat dans la mutualisation des risques
+#### Frédéric Bastiat, le role de l'Etat dans la mutualisation des risques
 - Les sociétés de secours naturels sont localement positives
 - Leur généralisation au niveau de l'Etat n'est pas souhaitable
 	- Création d'une population qui ne subsiste que par la fraude des systèmes d'assurances
