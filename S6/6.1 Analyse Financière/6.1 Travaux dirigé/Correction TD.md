@@ -71,7 +71,7 @@ Ainsi que :
 | Charges financières | - 1 758 666 000 | - 2 271 003 000 |
 | Différences positives de change | 512 751 000 | 787 796 000 |
 | Différences négatives de change | 27 059 000 | 211 150 000 |
-| **Résultat financier** | - 1 088 622 000 | - 1 611 808 000 |
+| **Résultat financier** | **- 1 088 622 000** | **- 1 611 808 000** |
 | **Résultat courant avant impôts** | **6 629 725 000** | **4 656 625 000** |
 | Produits exceptionnels | 71 483 000 | 84 702 000 |
 | Charges exceptionnelles | - 264 097 000 | - 413 272 000 |
@@ -82,3 +82,39 @@ Ainsi que :
 | **Résultat net** | **6 103 264 000** | **4 114 367 000** |
 ### Calculer la CAF par les deux méthodes
 #### Méthode soustractive
+|  | 2020 | 2021 |
+|---|---|---|
+| Excédent brut d'exploitation | 8 347 416 000 | 10 122 813 000 |
+| Produits financiers | 184 352 000 | 82 549 000 |
+| Charges financières | - 1 758 666 000 | - 2 271 003 000 |
+| Différences positives de changes | 512 751 000 | 787 796 000 |
+| Différence négative de change | - 27 059 000 | - 211 150 000 |
+| Autres produits exceptionnels | 71 483 000 | 84 702 000 |
+| Autres charges exceptionnelles | - 264 097 000 | - 413 272 000 |
+| Impôts sur les bénéfices | - 333 847 000 | - 229 703 000 |
+| Capacité d'autofinancement | 6 732 333 | 7 952 732 |
+#### Méthode additive
+|                                                    | 2020          | 2021          |
+| -------------------------------------------------- | ------------- | ------------- |
+| Résultat net                                       | 6 103 264 000 | 4 114 367 000 |
+| Reprises sur provisions                            | - 0           | - 2 589 000   |
+| Dotations aux Amortissements                       | 286 569 000   | 3 480 446 000 |
+| Dotations aux Provisions                           | 342 500 000   | 376 523 000   |
+| Produits sur cessions d'immobilisations            | - 1 130 000   | - 26 599 000  |
+| Valeur nette comptable des éléments d'actifs cédés | 1 130 000     | 10 584 000    |
+| Capacité d'autofinancement                         | 6 732 333     | 7 952 732     |
+#### Analysez
+Commençons par calculer les ratios de rentabilité :
+| Ratio de rentabilité       | Formule                                                                                   | 2020      | 2021       | Variation                                                                                                                                           |
+| -------------------------- | ----------------------------------------------------------------------------------------- | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ratio de la valeur ajoutée | $\frac{\large{\text{Valeur ajoutée}}}{\text{Chiffre d'affaire}}\times 100$                | 20 %      | 20.96%     | Stabilité du niveau de production. Positif.                                                                                                         |
+| Ratio de l'EBE             | $\frac{\large{\text{Excédent brut d'exploitation}}}{\text{Chiffre d'affaire}}\times 100$  | 13.86 %   | 14.84 %    | Augmentation de la capacité générer une rentabilité indépendamment de ses politiques. Positif.<br>Regarder la variation des charges d'exploitations |
+| Ratio du RE                | $\frac{\large{\text{Résultat d'exploitation}}}{\text{Chiffre d'affaires}}\times 100$      | 12.82 %   | 9.19 %     | Baisse de la capacité à générer une rentabilité. Négatif<br>Baisse des revenus ou augmentation de ses charges d'exploitations.                      |
+| Ratio du RF                | $\frac{\large{\text{Résultat financier}}}{\text{Chiffre d'affaire}}\times 100$            | (-) 1.8 % | (-) 2.36 % | Augmentation des pertes financières. Négatif<br>Regarder les charges financières ou les variation en capital.                                       |
+| Ratio du RCAI              | $\frac{\large{\text{Résultat courant avant impots}}}{\text{Chiffre d'affaire}}\times 100$ | 11.01 %   | 6.83 %     | Forte baisse. Négatif.<br>Regarder le niveau d'endettement                                                                                          |
+| Ratio des CI               | $\frac{\large{\text{Consommations intermédiaires}}}{\text{Chiffre d'affaire}}\times 100$  | 88.1 %    | 80.24 %    | Forte baisse, positif.<br>Meilleur gestion des charges d'exploitations                                                                              |
+| Marge nette                | $\frac{\large{\text{Résultat net courant}}}{\text{Chiffre d'affaire}}\times 100$          | 10.14 %   | 6.35 %     | Forte baisse de la rentabilité nette, négatif.<br>Regarder les variations de charges.                                                               |
+Conclusion :
+- La stabilité de la VA est positive pour l'entreprise. Elle implique soit une meilleur gestion des ressources soit une augmentation de la capacité de production. En regardant le résultat fonctionnel on se rend compte d'une hausse de la production vendue et d'une baisse des CI justifiant cette variation.
+- L'augmentation du ratio de l'EBE s'explique par une augmentation de la valeur ajoutée plus importante que les charges d'exploitations.
+- Le ratio du RE a fortement baissé. Cette baisse s'explique par une hausse significative des charges 
