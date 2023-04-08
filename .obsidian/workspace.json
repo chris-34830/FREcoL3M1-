@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a466eec71ad267ee",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf"
               }
             }
           }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dc583f4399cf817",
+  "active": "e9e9b060154de074",
   "lastOpenFiles": [
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "S6/6.1 Analyse Financière/6.1 Notes/3. Excédent brut d'exploitation.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
