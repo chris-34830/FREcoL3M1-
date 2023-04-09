@@ -126,4 +126,5 @@ Globalement, il est nécessaire de se doter d'un meilleur système de gestion de
 Pour la CAF, nous ne disposons pas des informations nécessaires pour la comparer sur ces deux périodes. Il est simplement possible d'expliquer l'augmentation de la CAF par une augmentation des dotations aux amortissement. Se référer au point sur ligne 122
 
 
-## Exercice 4 
+## Exercice 4  Bilan
+
