@@ -117,4 +117,13 @@ Commençons par calculer les ratios de rentabilité :
 Conclusion :
 - La stabilité de la VA est positive pour l'entreprise. Elle implique soit une meilleur gestion des ressources soit une augmentation de la capacité de production. En regardant le résultat fonctionnel on se rend compte d'une hausse de la production vendue et d'une baisse des CI justifiant cette variation.
 - L'augmentation du ratio de l'EBE s'explique par une augmentation de la valeur ajoutée plus importante que les charges d'exploitations.
-- Le ratio du RE a fortement baissé. Cette baisse s'explique par une hausse significative des charges 
+- Le ratio du RE a fortement baissé. Cette baisse s'explique par une hausse significative des charges d'exploitation liés a la politique d'investissement et du mode de financement de l'entreprise.
+- Baisse du RF expliqué par une hausse des charges financières
+- Une hausse de l'EBE mais une baisse du RE et une augmentation du RF peut sous-entendre une augmentation des investissement de l'entreprise par l'endettement. 
+- La baisse du ratio RCAI est expliqué par les mêmes raisons que la baisse du RF.
+- La baisse de la marge nette est quant à elle expliqué par une augmentation des charges exceptionnelles, non compensés par le gain nette lié à la cession d'un actif. 
+Globalement, il est nécessaire de se doter d'un meilleur système de gestion des risques afin d'avoir une meilleure réaction fasse aux augmentations des charges exceptionnelles. Quant aux charges financières, il est nécessaire de regarder d'autre ratio ainsi que la politique d'investissement menés (et son mode de financement) pour déterminer s'il faut les baisser ou non.
+Pour la CAF, nous ne disposons pas des informations nécessaires pour la comparer sur ces deux périodes. Il est simplement possible d'expliquer l'augmentation de la CAF par une augmentation des dotations aux amortissement. Se référer au point sur ligne 122
+
+
+## Exercice 4 
