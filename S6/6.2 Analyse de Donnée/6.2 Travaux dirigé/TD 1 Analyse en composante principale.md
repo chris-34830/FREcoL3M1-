@@ -82,8 +82,6 @@ On transforme donc $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \
 Le calcul de la norme se fait comme suit $\left\lVert v_1 \right\rVert = \frac{1}{\sqrt(1^2+0.2^2+(-1)^2)} = \frac{1}{\sqrt{2.04}}$ donc le vecteur normé est $\left\lVert \vec{v_1} \right\rVert =  \begin{pmatrix} 0.7 \\ -0.14 \\ -0.7 \end{pmatrix}$
 Pour finir, l'espace normé est ainsi $\begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix}$
 Ils représentent les vecteurs directeurs des axes factoriels et doivent être orthogonaux deux à deux (Le produit **scalaire** des deux vecteurs issue de l'espace normée doit être égal à 0)
-
-
 ## Question 5 :
 #### Calculer la matrice de dispersion des individus V
 -
