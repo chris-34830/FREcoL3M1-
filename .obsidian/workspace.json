@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "408915751bedc206",
+        "id": "a6fe22792a248fd8",
         "type": "tabs",
-        "dimension": 42.52974878801234,
+        "dimension": 41.91985909291061,
         "children": [
           {
-            "id": "2ad2141c8b706310",
+            "id": "0dc583f4399cf817",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -21,12 +21,12 @@
         ]
       },
       {
-        "id": "a6fe22792a248fd8",
+        "id": "d634bd658c74bdbc",
         "type": "tabs",
-        "dimension": 57.47025121198766,
+        "dimension": 58.08014090708939,
         "children": [
           {
-            "id": "0dc583f4399cf817",
+            "id": "0437729008d9af8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6a5dcb4ef2c54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md"
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md"
               }
             }
           }
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,18 +188,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dc583f4399cf817",
+  "active": "9a6a5dcb4ef2c54f",
   "lastOpenFiles": [
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
-    "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Notes/5. Résultat courant avant impôts.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/6.1 Résultat exceptionnel.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
-    "Sans titre.md",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/1. Production de l'exercice.md",
+    "S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "Sans titre.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3.3 Le modèle relationnel.md",
+    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
+    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "README.md",
     "S6/6.1 Analyse Financière/6.1 Notes/3. Excédent brut d'exploitation.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
@@ -199,14 +218,9 @@
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
     "S5/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
     "S6/6.1 Analyse Financière/6.1 Notes/4. Résultat d'exploitation.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/5. Résultat courant avant impôts.md",
     "S6/6.1 Analyse Financière/6.1 Notes/6. Résultat Net.md",
-    "S6/6.1 Analyse Financière/6.1 Notes/6.1 Résultat exceptionnel.md",
-    "S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Fusion note.md",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
-    "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "Excalidraw",
     "S6/Pasted image 20230214235502.png",
     "S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Les ratios",

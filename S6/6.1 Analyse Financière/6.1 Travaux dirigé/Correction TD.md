@@ -180,7 +180,7 @@ Pour la CAF, nous ne disposons pas des informations nécessaires pour la compare
 | **Impôts, taxes et versements assimilés** | 75      | 79      | + 5.33%     |
 | **Charges de personnel**                  | 1 121   | 1 144   | + 2.05%         |
 | **Excédent brut d'exploitation**          | **111** | **915** | **+724.32%**  |  
-| **Capitaux engagée**                       | 5382 | 4230 | -21.41%    |
+| **Capitaux engagée**                       | 4230 |5382 | 21.41%    |
 
 	L'EBE connait un très forte augmentation lors de l'exercice en N. Avec une augmentation de 724.32%, majoritairement boosté par une augmentation du chiffre plus élevés que le coût d'achat des marchandises et une baisse des autres achat de marchandise. Bien que d'autre postes de charge soient en augmentation, leur variation n'impacte pas négativement la tendance de l'EBE.
 	Ainsi, on peut conclure que la politique de diversification mené en commercialisant cette nouvelle gamme de rosiers a été très positive pour l'EBE.
@@ -192,13 +192,10 @@ Pour la CAF, nous ne disposons pas des informations nécessaires pour la compare
 | Taux de marge brut d'exploitation | $\frac{\large{\text{EBE}}}{\text{Chiffre d'affaire}}$ | 1.15% | 8.14% | Part du chiffre d'affaire restant à la fin de l'activité courante, indépendamment de la politique de financement.<br>Une augmentation de ce ratio sous-entend une meilleur gestion des charges tout au long de l'activité courante |
 | Partage de la valeur ajoutée | $\frac{\large{\text{EBE}}}{\text{Valeur ajoutée}}$ | 8.5% | 42.80% | Part de la valeur ajoutée restant à la fin du cycle d'exploitation, indépendamment de la politique de financement.<br>Une augmentation inclue un meilleur contrôle des charges intervenant entre la VA et l'EBE sur le TSIG |
 | **Ratio de rentabilité économique** |  |  |  |  |
-| Taux de rentabilité économique | $\frac{\large{\text{EBE}}}{\text{Capital engagé}}$ | 2.06% | 21.63% | Témoigne de la capacité à générer des ressources à partir des ressources investies dans l'activité. |
+| Taux de rentabilité économique | $\frac{\large{\text{EBE}}}{\text{Capital engagé}}$ | 2.62% | 17% | Témoigne de la capacité à générer des ressources à partir des ressources investies dans l'activité. |
 
-L'entreprise a été en capacité d'augmenter sa profitabilité au cours de l'exercice N. Sa meilleure gestion des charges d'exploitations lui ont permit de voir ses charges augmenter moins rapidement que son chiffre d'affaire (Taux de marge brut d'exploitation passant de 1.15% à 8.14%). Conjointement, elle profite d'une distribution plus avantageuse de sa TVA ; la variation de son CA ne s'est pas accompagné d'une hausse notable de la part attribuée aux autres acteurs. Enfin, tout cela a été généré avec des investissements nécessaires moins importants démontrant une meilleure gestion de ses actifs.
+L'entreprise a été en capacité d'augmenter sa profitabilité au cours de l'exercice N. Sa meilleure gestion des charges d'exploitations lui ont permit de voir ses charges augmenter moins rapidement que son chiffre d'affaire (Taux de marge brut d'exploitation passant de 1.15% à 8.14%). Conjointement, elle profite d'une distribution plus avantageuse de sa TVA ; la variation de son CA ne s'est pas accompagné d'une hausse notable de la part attribuée aux autres acteurs. Enfin, bien que les investissements aient augmentés, il ont moins augmenté que l'EBE. Ainsi, l'entreprise a été capable de générer plus d'argent avec chaque euros investis initialement.
 Ainsi, il est clair qu'après des résultats peu satisfaisant en N-1, la politique de croissance de l'entreprise a été un franc succès en N.
-
-
-
 ## Exercice 7 Electro
 ### Ratio de structure
 | **Ratio** | **Formule** | **N-1** | **N** |**Interprétation** |
@@ -219,8 +216,147 @@ Ainsi, il est clair qu'après des résultats peu satisfaisant en N-1, la politiq
 Pré-Conclusion I :
 L'entreprise semble avoir une meilleur gestions de ces charges et dettes. Nécessaire d'utiliser les autres rations
 ### Ratio de trésorerie
+| **Ratio de trésorerie**      | **Formule** | **N-1** | **N** | **Interprétation**                                                                                                                                                                                      |
+| ---------------------------- | ----------- | ------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ratio de liquidité général   |             | 1.12    | 1.057 | La situation de liquidité de l'entreprise est moins favorable.<br>Entreprise toujours en capacité de couvrir ses dettes avec ses actifs courants mais analyser la raison de cette baisse                |
+| Ratio de liquidité réduite   |             | 0.60    | 0.58  | Baisse de la couverture des dettes à court termes sans compter sur les stocks<br>Toujours supérieur à 0.5 donc ça reste acceptable.                                                                     |
+| Ratio de liquidité immédiate |             | 0.21    | 0.06  | Baisse très importante.<br>Baisse importante de la trésorerie en simultanée d'une hausse des DCT. Nécessaire d'analyser d'autre indicateurs pour savoir si c'est inquiétant (BFR, endettement global..) |
+Pré-Conclusion II : 
+Détérioration de la liquidité au cours de l'exercice N. Nécessaire de regarder d'autre indicateurs pour ne pas être trop alarmiste. Est-ce dû à une augmentation des dettes à court terme ou à une diminution des actifs courants ? Une analyse approfondie est nécessaire pour déterminer la cause.
 ### Ratio de financement
+| **Ratio de financement**                 | **Formule** | **N-1** | **N** | **Interprétation**                                                                                                        |
+| ---------------------------------------- | ----------- | ------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
+| Ratio de financement des immobilisations |             | 1.58    | 1.26  | En capacité de financer ses immobilisations avec ses CP<br>La baisse indique une augmentation de la part de l'endettement |
+| Ratio d'endettement global               |             | 13.43   | 7.25  | Réduction de la dépendance à l'endettement mais l'entreprise est peut-être surendetté.                                     |
+Pré-Conclusion III : La structure financière s'est amélioré avec une nette diminution de la part de l'endettement de l'entreprise dans le financement de ses activités. Cependant, il y a une augmentation du recours à l'endettement pour le financement des immobilisations. On comparera au secteur pour conclure.
 ### Ratio de gestion et rotation
+| **Ratio de gestion et de rotation** | **Formule** | **N-1** | **N** | **Interprétation** |
+|---|---|---|---|---|
+| Delai de rotation des stocks de marchandises vendues |  | 152.22 | 80.03 | Renouvellement plus fréquent des stocks<br>Meilleur gestion gestion de ses stocks |
+| Délai de rotation des crédits fournisseurs |  | 29.46 | 46.04 | L'entreprise met plus de temps à payer ses fournisseurs |
+| Délai de rotations des créances clients |  | 30.11 | 46.29 | L'entreprise met plus de temps à être payé par ses clients |
+Pré-Conclusion IV : 
+L'entreprise a été en capacité de mieux gérer ses stocks comme le montre la baisse significative de son délai de rotation des stocks de marchandises. Dans un second temps, les délais de rotations des créances clients et les crédits fournisseurs ont augmentés. Est-ce dû à des problèmes de trésorerie ou à des conditions de marché spécifiques ?
 ### Ratio de rentabilité
+| **Ratio de rentabilité** | **Formule** | **N-1** | **N** | **Interprétation** |
+|---|---|---|---|---|
+| Ratio de la marge brute |  | 27.9% | 27.87% | La marge brute est restée stable. |
+| Ratio de la valeur ajoutée |  | 27.9% | 27.87% | La part de la VA au CA est restée stable |
+| Ratio de l'EBE |  | 8.61% | 10.11% | Augmentation de la part du CA restant à l'EBE.<br>L'entreprise a gagnée en capacité à générer de la valeur dans son cycle d'exploitation brut |
+| Ratio du RE |  | 8.14% | 9.54% | Augmentation de la part restant du CA dans le RE.<br>L'entreprise a gagnée en rentabilité dans son exploitation nette. |
+| Ratio des frais financiers |  | 5.3% | 5.28% | Frais financiers stables. |
+| Ratio des autres produits et charges |  | 0.008% | 0.04% | Augmentation des autres produits et charges dans une dimension toujours négligeable |
+| Ratio de la marge nette |  | 2.84% | 4.31% | Augmentation de la rentabilité de l'entreprise.<br>Augmentation de la part du CA qu'il reste à la fin de l'exercice. |
+Pré-Conclusion V :
+L'entreprise a gagné en rentabilité sur tout ses postes d'exploitation lors de l'exercice N.
+Elle a su augmenter sa capacité à générer des recettes tout en conservant une part de frais financiers stables. Nous pouvons conclure que la santé financière de l'entreprise s'est améliorée sur l'exercice N, malgré des copûts d'achat stable, le meilleur contrôle des charges d'exploitation et hors exploitation a permis a l'entreprise a gagnée en rentabilité.
 ### Bilan économique
+| **Actif** | **N-1** | **N** | **Pasif** | **N-1** | **N** |
+|---|---|---|---|---|---|
+| **Actif immobilisé** | 3 620 512 | 4 794 416 | **Capitaux permanents** | 5 715 276 | 6 033 136 |
+| **Besoins cycliques** | 15 194 544 | 21 231 224 | **Ressource cycliques** | 10 701 096 | 14 655 308 |
+| **Trésorerie active** | 5 887 092 | 1 391 044 | **Trésorerie passive** | 5 887 092 | 6 728 240 |
+	Qui devient :
+
+| **Actif**                    | **N-1**   | **N**      | **Pasif**                     | **N-1**   | **N**      |     
+| :------------------------------------- | :--------- | :---------- | :------------------------- | : --------- | :--------- |
+| **Actif immobilisé**         | 3 620 512 | 4 794 416  | **Capitaux propre**           | 1 545 468 | 2 863 328  |     |                                        |            |             |                            |             |            |     |
+| **BFR**                      | 4 493 448 | 6 575 916  | **Endettement net**           | 6 568 492 | 8 507 004  |     |                                        |            |             |                            |             |            |     |
+| Total (**Actif économique**) | 8 113 960 | 11 370 332 | Total (**Capitaux investis**) | 8 113 960 | 11 370 332 |     |                                        |            |             |                            |             |            |     |
+
+#### Ratio de rentabilité 
+| **Ratio**                  | **Formule**                                                     | **N-1** | **N**  | **Interprétation**                                                                                                                                                                                                        |
+| -------------------------- | --------------------------------------------------------------- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rentabilité évonomique** | $\frac{\large{\text{RNC}}}{\text{Capitaux investis}}\times 100$ | 14.79%  | 22.15% | Mesure la performance de l'entreprise dans l'utilisation de ses actifs pour générer des bénéfices.<br>Une augmentation implique que l'entreprise a amélioré son efficacité dans l'utilisation de ses actifs               |
+| **Rentabilité financière** | $\frac{\large{\text{RNC}}}{\text{Capitaux propres}}\times 100$  | 77.66%  | 87.94% | Mesure la capacité à générer des bénéfices pour ses actionnaires. <br>Une augmentation implique que l'entreprise a amélioré sa capacité a générer du bénéfice à l'aide des capitaux propres investis par les actionnaires |
+
 ### Analyse de la situation globale de l'entreprise
+L'entreprise a su générer une croissance entre l'exercice N-1 et N. Cependant, la hausse du BFR et de l'endettement est a surveillé. Globalement, l'entreprise gère efficacement ses ressources.
+
+
+## Exercice 8 Etablissement du compte de résultat différentie et calcul du seuil de rentabilité
+### Résultat différentiel
+|                     | Elements                                                                                                                                    | Montant                    | Pourcentage           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------  |
+| 1                   | Chiffre d'affaire                                                                                                                           | 16 000 * 79 =    1 264 000 | 100%                  |
+| 2<br><br>3<br><br>4 | Coût d'achat variable des marchandises vendues<br>+ Autre charges variables d'approvisionnement<BR>= Coût variable des marchandises vendues | <br><br><br><br>669 800    | <br><br><br><br>53% |  
+| 5                   | Marge sur coût variable d'achat (1-4)                                                                                                       | =594 200                   | 47%                 |
+| 6                   | Charges variables de distribution                                                                                                           | 101 120                    | 8%             |
+| 7                   | **Marge sur coût variable d'achat (5-6)**                                                                                                   | =493 080                   | 39%                     |
+| 8                   | Charges fixes                                                                                                                               | 341 400                    | 27%                 | 
+| 9                   | Résultat d'exploitation                                                                                                                     | =151 680                   | 12%                 |     
+### SR, point mort
+|                                   | **Formule**                                                                          | **N**       |
+| --------------------------------- | ------------------------------------------------------------------------------------ | ----------- |
+| **Seuil de rentabilité (valeur)** | $\frac{\large{\text{Charges fixes}}}{\text{Taux de marge sur coût variable}}$        | 875 385€    |
+| **Seuil de rentabilité (qt)**     | $\frac{\large{\text{Charges fixes}}}{\text{Marge sur coût variable}}\times quantité$ | 11 079      |
+| **Point mort(en jour)**           | $\frac{\large{\text{Seuil de rentabilité}}}{\text{chiffre d'affaire}}\times360$      | 249.3 jours |
+
+### Pour n+1
+|  | Montant | Pourcentage |
+|---|---|---|
+| Chiffre d'affaire | 1 320 880 |  |
+| Cout d'achat variable des marchandises vendues | 655 766 | 49.65% |
+| Marge sur cout variable | 665 114 | 50.35% |
+| Cout variables de distribution | 105 670.4 | 8% |
+| Marge sur cout variable | = 559 435.6 | 42.35% |
+| Charge fixe | 307 000 | 20.21% |
+| Résultat d'exploitation | = 252 435.6 | 22.14% |
+
+|                                      | Formule | N+1        |
+| ------------------------------------ | ------- | ---------- |
+| **Seuil de rentabilité (en valeur)** |  $\frac{\large{\text{Charge fixe}}}{\text{Taux de marge sur coût variable}}$       | 724 911.45 |
+| **Seuil de rentabilité (en qt)**     | $\frac{\large{\text{Charge fixe}}}{\text{Marge sur coût variable}}\times \text{quantité vendues}$        | 9 659      |
+| **Point mort (en jour)**             | $\frac{\large{\text{Seuil de rentabilité}}}{\text{Chiffre d'affaire}}\times 360$        | 197.57j     |
+
+## Exercice 9 Analyse du seuil de rentabilité et calcul du levier d'exploitation
+### Compte de résultat différentiel
+|  | **Montant** | **Pourcentage** |
+|---|---|---|
+| **Chiffre d'affaire** | 2 112 760 |  |
+| **Cout d'achat variables** | 1 098 635 |  |
+| **Marge sur cout variables** | = 1 014 125 |  |
+| **Cout variable de distribution** | 313 760  |  |
+| **Marge sur cout variable** | = 700 365 | **33.15%** |
+| **Charges fixe** | 408 600 |  |
+| **Résultat** | = 291 765 | 13.81% |
+### Seuil de rentabilité, marge de sécurité, indice de sécurité
+|  | **Formule** | **Montant** |
+|---|---|---|
+| **Seuil de rentabilité** | $\frac{\large{\text{Charges fixes}}}{\text{TMCV}}$ | 1 232 579.18 |
+| **Marge de sécurité** | $\text{CA-SR}$ | 880 180.82 |
+| **Indice de sécurité** | $\frac{\large{\text{Marge de sécurité}}}{CA}$ | 41.66% |
+### Levier d'exploitation, +15% du CA
+|  | **Montant base** | **Taux** | **Augmentation 15%** | **Taux** |
+|---|---|---|---|---|
+| **Chiffre d'affaire** | **2 112 760** |  | **2 429 674** |  |
+| **Cout d'achat variables** | 1 098 635 |  |  |  |
+| **Marge sur cout variables** | = 1 014 125 | 48% | = 1 166 243.52 | 48% |
+| **Cout variable de distribution** | 313 760 |  |  |  |
+| **Marge sur cout variable** | **= 700 365** | **33.14%** | **= 805 193.96** | **33.14%** |
+| **Charges fixe** | 408 600 |  |  |  |
+| **Charges fixe financières** | 81 720 |  |  |  |
+| **Charge fixe d'exploitation** | **= 326 880** |  | **= 326 800** |  |
+| **Résultat d'exploitation** | **373 485** | **17.68%** | **= 478 393.96** | **19.67%** |
+#### Calcul du levier d'exploitation
+Si CF & CV constant alors, il est possible de simplement faire $\frac{\text{MCV}}{\text{Résultat d'exploitation}}$
+Sinon $$\frac{\frac{\Delta\text{Résultat d'exploitation}}{\text{Résultat d'exploitation}}}{\frac{\Delta\text{Chiffre d'affaire}}{Chiffre d'affaire}}$$
+
+## Exercice 10 Analyse de l'exploitation
+
+## Exercice 11 Analyse de l'évolution de l'équilibre financier et de la structure financière
+### FRNG, BFR, Trésorerie
+| **Comptes** | **Formule** | **N-2** | **N-1** | **N** |
+|---|---|---|---|---|
+| **Fond de roulement net global** |  | 176 | 2 | -143 |
+| **Besoin en fond de roulement d'exploitation** |  | 693 | 802 | 860 |
+| **Besoin en fond de roulement hors exploita** |  | -1 | -108 | -132 |
+| **Besoin en fond de roulement** |  | 692 | 694 | 728 |
+| **Trésorerie nette** |  | -516 | -692 | -871 |
+### Calculer et interpréter les ratios suivants
+| Ratio                                | **Formule**                                                               | **N-2** | **N-1** | **N**   |
+| ------------------------------------ | ------------------------------------------------------------------------- | ------- | ------- | ------- |
+| **Couverture des capitaux investis** | $\frac{\large{\text{Ressources stables}}}{\text{Immobilisations + BFRE}}$ | 66.79%  | 60.04%  | 57.5%   |
+| **Financement des emplois stables**  | $\frac{\large{\text{Ressource stables}}}{\text{Emploi stables}}$          | 1.2     | 1       | 0.90    |
+| **Capacité de remboursement**        | $\frac{\large{\text{Dettes financières}}}{\text{CAF}}$                    | 6.97    | 7.74    | 12.9    |
+| **Poids du BFRE en j de CA**         | $\frac{\large{\text{BFRE}}}{\text{CA}}\times 3600$                        | 114.23j | 118j    | 116.22j |
