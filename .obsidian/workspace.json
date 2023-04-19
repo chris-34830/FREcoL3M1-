@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.3 Fraude fiscale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a819bc35d9ee590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.4.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.4.md"
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md"
               }
             }
           }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.4.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.4.md",
+                "file": "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,15 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a819bc35d9ee590",
+  "active": "cd6702f200789fdd",
   "lastOpenFiles": [
+    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.2 Structures actuelles.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
+    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.3 Fraude fiscale.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.4.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.2 Paradoxe du modèle d'utilité espérée.md",
     "S6/6.5 Microéconomie appliquée/6.5 Cours/6.5.1 La rationnalité des préférences.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.2 Structures actuelles.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.8 Immigration.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.9 Système de retraite.md",
     "Snippets LaTeX.md",
