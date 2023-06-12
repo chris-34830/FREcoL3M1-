@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a30c2bc9e3470b6",
+        "id": "c879cb2d475e45d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3bffec7662f621",
+            "id": "1e9b2f2afea7a82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippets LaTeX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0bbafa225fda38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets LaTeX.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets LaTeX.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets LaTeX.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets LaTeX.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,20 +154,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "canvas:Créer une nouvelle toile": false,
       "graph:Ouvrir la vue graphique": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "1e9b2f2afea7a82f",
   "lastOpenFiles": [
-    "S5/5.3 Econométrie/5.3 Cours/5.3.1 Les hypothèses du modèle.md",
+    "Sans titre.md",
+    "README.md",
     "Snippets LaTeX.md",
+    "S5/5.MOC.md",
+    "efczevzevze.md",
+    "S5/5.3 Econométrie/5.3 Cours/5.3.1 Les hypothèses du modèle.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
@@ -201,16 +193,12 @@
     "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
     "S5/5.3 Econométrie/Notation glossaire.md",
-    "README.md",
-    "S5/5.MOC.md",
     "S5/5.3 Econométrie/Sans titre/Sans titre",
     "S5/5.3 Econométrie/5.3 Annales",
     "S5/5.3 Econométrie/5.3 Travaux DIrigés",
     "S5/5.3 Econométrie/5.3 Cours",
     "Econométrie MOC .invisible.md",
     "S5/5.3 Econométrie",
-    "S5/Sans titre.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",

@@ -1,29 +1,8 @@
-# FacS6
-Pré-requis :
-Pour les cours de [6.1 Analyse Financière] un support : 
-- MultiMarkdown
-- LaTeX
-- HTML
-Pour les cours de [6.2 Analyse de Donnée] un support :
-- LaTeX
-- Markdown
-Pour les cours de [6.3 Base de Donnée] un support :
-- Markdown
-Pour les cours de [6.4 Politique économique et sociale] un support : 
-- Markdown
-Pour les cours de [6.5 Microéconomie appliquée] un support :
-- Markdown
-- LaTeX
-Pour les cours de [6.6 Anglais] un support :
-- Markdown 
-
-Logiciel conseillé qui permet le support (natif ou par traduction) :
-- Vim (Le mieux mais absence d'interface graphique)
-- Obsidian (Le plus simple, le repo github étant ma vault obsidian)
-- Notion 
+# Je supprime la vault le jeudi 13 juin
 
 ## Initialisation d'un support Markdown sur un document LaTeX
-Exemple expliqué d'initialisation d'un document LaTeX pour le support complet du Markdown :  
+Template pour LaTeX via Overleaf - vIM sans plugins : 
+
 \documentclass{article}  
 \usepackage{lmodern} %Permet d'avoir une police vectorielle qui, autrement, n'est pas conservé lors du chargement de fontenc.  
 \usepackage[francais]{babel} %Pour écrire en français

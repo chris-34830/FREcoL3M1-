@@ -1,9 +1,8 @@
-   
     // Math mode
-     {trigger: "mk", replacement: "$$0$", options: "tA"}, %Inline math mode$$ 
-	  {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"}, %Display math mode
-	 {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"}, %Raccourci pour \begin{Ecris ici}
-
+     {trigger: "mk", replacement: "$$0$", options: "tA"},
+	  {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
+	 {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
+	
     // Dashes
     // {trigger: "--", replacement: "–", options: "tA"},
     // {trigger: "–-", replacement: "—", options: "tA"},
@@ -11,12 +10,12 @@
 
 
     // Greek letters
-    {trigger: "@a", replacement: "\\alpha", options: "mA"}, %alpha miniscule
-    {trigger: "@A", replacement: "\\alpha", options: "mA"}, %alpha majuscule
-    {trigger: "@b", replacement: "\\beta", options: "mA"}, %beta miniscule
-    {trigger: "@B", replacement: "\\beta", options: "mA"}, %beta majuscule
-    {trigger: "@c", replacement: "\\chi", options: "mA"}, %chi miniscule
-    {trigger: "@C", replacement: "\\chi", options: "mA"}, %chi majuscule
+    {trigger: "@a", replacement: "\\alpha", options: "mA"},
+    {trigger: "@A", replacement: "\\alpha", options: "mA"},
+    {trigger: "@b", replacement: "\\beta", options: "mA"},
+    {trigger: "@B", replacement: "\\beta", options: "mA"},
+    {trigger: "@c", replacement: "\\chi", options: "mA"},
+    {trigger: "@C", replacement: "\\chi", options: "mA"},
     {trigger: "@g", replacement: "\\gamma", options: "mA"},
     {trigger: "@G", replacement: "\\Gamma", options: "mA"},
     {trigger: "@d", replacement: "\\delta", options: "mA"},
@@ -63,6 +62,8 @@
     // Operations
     {trigger: "te", replacement: "\\text{$0}", options: "m"},
     {trigger: "text", replacement: "\\text{$0}", options: "mA"},
+    {trigger: "la", replacement: "\\large{$0}", options: "m"},
+    {trigger: "large", replacement: "\\large{$0}", options: "m"},
     {trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
     {trigger: "orange", replacement: "\\textcolor{Orange}{$0}", options: "mA"},
     {trigger: "sr", replacement: "^{2}", options: "mA"},
@@ -154,10 +155,12 @@
     {trigger: "prop", replacement: "\\propto", options: "mA"},
     {trigger: "nabl", replacement: "\\nabla", options: "mA"},
     {trigger: "del", replacement: "\\nabla", options: "mA"},
-    {trigger: "fois", replacement: "\\times", options: "mA"},
+    {trigger: "times", replacement: "\\times ", options: "mA"},
+    {trigger: "t\\mathrm{Im}es", replacement: "\\times ", options: "mA"},
     {trigger: "**", replacement: "\\cdot", options: "mA"},
     {trigger: "para", replacement: "\\parallel", options: "mA"},
-    {trigger: "fora\ll", replacement: "\\forall", options: "mA"},
+    {trigger: "pourtout", replacement: "\\forall", options: "mA"},
+
 
 
     {trigger: "xnn", replacement: "x_{n}", options: "mA"},
@@ -221,9 +224,6 @@
 
 
 
-    // Microeconomie
-
-
 
 
     // Environments
@@ -236,6 +236,16 @@
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
     {trigger: "matrix", replacement: "\\begin{matrix}\n$0\n\\end{matrix}", options: "mA"},
+
+    // Microéconomie
+    {trigger: "prefaible", replacement: "\\succeq", options: "mA"},
+    {trigger: "p\\mathrm{Re}faible", replacement: "\\succeq", options: "mA"},
+    {trigger: "p\\mathrm{Re}fstrict", replacement: "\\succ", options: "mA"},
+    {trigger: "prefstrict", replacement: "\\succ", options: "mA"},
+    {trigger: "indif", replacement: "\\sim", options: "mA"},
+
+    
+
 
 
 
@@ -259,3 +269,4 @@
 
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
+]
