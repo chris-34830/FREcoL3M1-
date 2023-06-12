@@ -1,17 +1,8 @@
- 
-
-## Question 1 :
+ ## Question 1 :
 ##### Justifier le choix de réaliser une analyse en composantes principales sur le tableau des données brutes.
 L'analyse en composante principale permet de révéler des interrelations entre caractères quantitatifs. Dans le tableau de l'exercice, les variables sont quantitatives et multidimensionnels rendant le traitement opportun à l'ACP.
 ##### Présenter les différentes étapes de réalisation de l'ACP
 Se référer au cours de CM
-
-
-
-
-
-
-
 ## Question 2 :
 #### Transformer la matrice des donnes brutes X en matrice des données centrées-réduites Z
 La matrice des données brutes $X = \begin{pmatrix} 50 & 4 & 15 \\ 40 & 2 & 25 \\ 30 & 1 & 35 \\ 20 & 5 & 45 \\ 10 & 3 & 55 \\ \end{pmatrix}$
@@ -25,7 +16,6 @@ Cette opération permet de standardiser les variables, soit :
 - Faire fi des unités de mesures
 #### En quoi consiste-t-elle au plan géométrique ?
 Graphiquement, c'est un changement d'origine dans notre espace euclidien à n-dimensions. L'origine n'est plus 0 mais devient le centre du nuage de point lui-même.
-
 ## Question 3 :
 #### Calculer la matrice R des coefficients de corrélation linéaire entre les variables.
 Soit la matrice des coefficients de corrélation linéaire donnée par $R = \frac{1}{n}Z^TZ$.
@@ -38,7 +28,7 @@ Ainsi, $R = \begin{pmatrix} 1    & -0,1 & -1  \\ -0,1 & 1    & 0,1 \\ -1   & 0,1
 La matrice R contient les variances-covariances, permettant ainsi de résumer la structure de dépendance linéaire.
 Les propriétés en découlant est :
 - la présence unique de 1 sur la diagonale. La covariance d'une variable envers elle-même étant égale à sa variance. La variance étant cependant standardisé, elle est égal à 1
-- Symétrie des valeurs, la covariance est commutatitve. Cov(A,B) = Cov(B,A)
+- Symétrie des valeurs, la covariance est commutative. Cov(A,B) = Cov(B,A)
 
  #### Quel est l'objectif de cette opération ? L'ACP est-elle réalisable ?
 L'objectif de l'opération est d'identifier une corrélation entre plusieurs variables afin de réduire nos axes a étudier. Dans l'exercice, nous observons très clairement une dépendance entre $\large{\vec{x_1}}$ et $\large{\vec{x_3}}$. Les deux vecteurs sont linéairement dépendantes au sens opposé. Nous pourrons donc en supprimer l'un des deux pour notre étude en ACP.
@@ -105,9 +95,8 @@ $\lambda_{Ri} = \lambda_{Vi}$ et $\lambda_4 = \lambda_5 = 0$
 La matrice des coordonnés des individus n'est autre que le produit de la matrice des données centrées-réduites Z et l'espace normé du changement de base.
 $C = \begin{pmatrix} \sqrt(2) & \frac{\sqrt(2)}{2} & -\sqrt(2) \\ \frac{\sqrt(2)}{2} & \frac{- \sqrt(2)}{2} & \frac{-\sqrt(2)}{2} \\ 0 & -\sqrt(2) & 0 \\ \frac{-\sqrt(2)}{2} & \sqrt(2) & \frac{\sqrt(2)}{2} \\ -\sqrt(2) & 0 & \sqrt(2)\\ \end{pmatrix} \times \begin{pmatrix} 0.7 & 0.097 & 0.707\\ -0.14 & 0.989 & 0 \\ -0.7 &-0.097 & 0.707 \end{pmatrix} = \begin{pmatrix} 1.88 & 0.97  \\ 1.09 & -0.56 \\ 0.2 & -1.4 \\ -1.19 & 1.26 \\ -1.98 & -0.27 \end{pmatrix}$
 Il y a en réalité une troisième colonne qui serait égal au vecteur colonne $\vec{v_{F3}}= \vec{0}$ représentant l'axe factoriel $F_3$. Cependant, les colonnes composés de 0 doivent être supprimer lors de l'utilisation des matrices (notamment car une colonne de 0 donne un déterminant égal à 0).
-
-
 #### Calculer les contributions absolues et contributions relatives des individus (CTA et CTR). Que représentent-elles ? En quoi sont-elles utiles ?
 Les contributions absolues (CTA) mesurent l'importance des individus dans l'apparition de l'axe factoriel considéré. Plus le CTA est élevée, plus il contribue à faire apparaitre l'axe. Elle se calcul comme suit : $$\text{CTA}_{i,r}=\frac{(c_i^r)^2}{n\lambda_r}$$
-  Ainsi la matrice des coordonnées des individus pour les axes factoriels reteunus ($F_1$ et $F_2$) élevé au carré est donc $C^2 = \left(   \begin{array}{}     3.54 &  0.96 \\ 1.19 & 032 \\ 0.04 & 1.96 \\ 1.41 & 1.59 \\ 3.94 & 0.08 \\    \hline   10.09  & 4.89 \\ 5\times2.02 & 5\times0.98   \end{array}  \right)$ 
-
+  Ainsi la matrice des coordonnées des individus pour les axes factoriels retenus ($F_1$ et $F_2$) élevé au carré est donc $C^2 = \left(   \begin{array}{}     3.54 &  0.96 \\ 1.19 & 032 \\ 0.04 & 1.96 \\ 1.41 & 1.59 \\ 3.94 & 0.08 \\    \hline   10.09  & 4.89 \\ 5\times2.02 & 5\times0.98   \end{array}  \right)$ 
+**CTA = SOMME DES COLONNES**
+**CTR = SOMME DES LIGNES**

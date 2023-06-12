@@ -1,8 +1,8 @@
    
     // Math mode
-    {trigger: "mk", replacement: "$$0$", options: "tA"}, %Inline math mode$$ 
-    {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"}, %Display math mode
-    {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"}, %Raccourci pour \begin{Ecris ici}
+     {trigger: "mk", replacement: "$$0$", options: "tA"}, %Inline math mode$$ 
+	  {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"}, %Display math mode
+	 {trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"}, %Raccourci pour \begin{Ecris ici}
 
     // Dashes
     // {trigger: "--", replacement: "–", options: "tA"},
@@ -64,6 +64,7 @@
     {trigger: "te", replacement: "\\text{$0}", options: "m"},
     {trigger: "text", replacement: "\\text{$0}", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
+    {trigger: "orange", replacement: "\\textcolor{Orange}{$0}", options: "mA"},
     {trigger: "sr", replacement: "^{2}", options: "mA"},
     {trigger: "cb", replacement: "^{3}", options: "mA"},
     {trigger: "rd", replacement: "^{$0}$1", options: "mA"},
