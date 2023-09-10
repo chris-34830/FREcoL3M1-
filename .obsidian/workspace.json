@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,9 +70,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,14 +160,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e9b2f2afea7a82f",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
-    "Sans titre.md",
-    "README.md",
-    "Snippets LaTeX.md",
-    "S5/5.MOC.md",
-    "efczevzevze.md",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
+    "Excalidraw/Drawing 2023-06-12 10.25.56.excalidraw.md",
+    "Excalidraw",
+    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
+    "S5/5.1 Microéconomie/Microéconomie MOC.md",
     "S5/5.3 Econométrie/5.3 Cours/5.3.1 Les hypothèses du modèle.md",
+    "Exemple dans le cas d'une absence de constante.md",
+    "S5/5.3 Econométrie/Notation glossaire.md",
+    "README.md",
+    "S5/5.4 Economie de la croissance/Economie de la croissance MOC.md",
+    "S5/5.MOC.md",
+    "Snippets LaTeX.md",
+    "Sans titre.md",
+    "efczevzevze.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
     "S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
@@ -184,26 +190,16 @@
     "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD modèle Hierarchique.md",
     "S6/6.3 Base de Donnée/6.3 Dessin/Dessin BDD Modèle réseau.md",
     "S5/5.1 Microéconomie/5.1 Notes/Le principe d'optimisation.md",
-    "S5/5.1 Microéconomie/5.1 Notes/Fusion note.md",
-    "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
-    "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
     "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
     "S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.8 Immigration.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
-    "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
-    "S5/5.3 Econométrie/Notation glossaire.md",
     "S5/5.3 Econométrie/Sans titre/Sans titre",
     "S5/5.3 Econométrie/5.3 Annales",
     "S5/5.3 Econométrie/5.3 Travaux DIrigés",
     "S5/5.3 Econométrie/5.3 Cours",
-    "Econométrie MOC .invisible.md",
     "S5/5.3 Econométrie",
     "S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
-    "S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
-    "S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "S6/Pasted image 20230214235502.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",

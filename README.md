@@ -1,4 +1,4 @@
-# Je supprime la vault le jeudi 13 juin
+# Je supprime la vault le jeudi 13 juin 
 
 ## Initialisation d'un support Markdown sur un document LaTeX
 Template pour LaTeX via Overleaf - vIM sans plugins : 

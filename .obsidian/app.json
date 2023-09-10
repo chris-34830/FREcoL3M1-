@@ -5,10 +5,7 @@
   "spellcheck": true,
   "vimMode": false,
   "tabSize": 3,
-  "spellcheckLanguages": [
-    "fr",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "S6",
   "livePreview": true,
   "defaultViewMode": "source",
