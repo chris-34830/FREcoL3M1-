@@ -18,19 +18,24 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "62654e3b58f4d4d0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bed1f8ba6753e5cb",
+            "id": "564edceec52c3120",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf"
               }
             }
           },
@@ -98,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945,
-    "collapsed": true
+    "width": 239.51103591918945
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -115,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "564edceec52c3120",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
     "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
     "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",

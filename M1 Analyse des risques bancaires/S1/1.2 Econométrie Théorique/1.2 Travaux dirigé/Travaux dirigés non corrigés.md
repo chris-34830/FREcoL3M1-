@@ -17,6 +17,18 @@
 
 ###### Vrai ou faux
 - Le critère des moindres carrés consiste à minimiser la somme des carrés des résidus
+- L’estimation d’une constante est nécessaire pour que la moyenne des résidus soit nulle.
+- La covariance de l'échantillon entre un régresseur et les résidus des moindres carrés ordinaires (MCO) dépend du signe du paramètre estimé pour ce régresseur
+- Les résidus sont distribués symétriquement autour de zéro.
+- Dans une régression multiple, il y a 𝑁 − 𝐾 degrés de liberté dans les résidus de moindres carrés ordinaires.
+- 
+- Le $R^2$ est le rapport de la variation expliquée par rapport à la variation totale.
+Vrai. Le $R^2$ représente la fraction de la variation de $y$ qui est expliquée par $x$ au sein de l'échantillon. 
+- Le $\bar{𝑅}^2$ est toujours supérieur au $R^2$.
+Faux, le  $\bar{𝑅}^2$ ne peut pas être supérieur à $R^2$. Le $\bar{𝑅}^2$ peut-être au mieux égal à $R^2$ quand le modèle ne comprend qu'une unique variable prédictive, cependant en ajoutant des variables prédictives on ajoute une pénalité qui ajuste l'estimation de la variance de l'erreur en fonction du nombre de degré de liberté. (Augmentant avant le nombre de variable prédictive)
+- Le  $\bar{𝑅}^2$ peut être négatif.
+Vrai
+- 
 
 ##### Exercices théoriques
 - En supposant deux matrices carrées A et B de même dimension, démontrez la propriété de circularité de la trace : tr(AB) = tr(BA)
