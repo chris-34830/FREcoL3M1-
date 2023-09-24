@@ -7,5 +7,7 @@
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Arial Black",
   "theme": "system",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "SNippets"
+  ]
 }

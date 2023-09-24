@@ -245,10 +245,6 @@
     {trigger: "prefstrict", replacement: "\\succ", options: "mA"},
     {trigger: "indif", replacement: "\\sim", options: "mA"},
 
-    
-
-
-
 
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
