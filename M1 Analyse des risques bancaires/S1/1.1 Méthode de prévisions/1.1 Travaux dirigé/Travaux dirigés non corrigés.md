@@ -10,7 +10,7 @@ type: line
 labels: [T1, T2, T3, T4, T1, T2, T3, T4,T1, T2, T3, T4,T1, T2, T3, T4]
 series:
   - title: 
-    data: [22, 13, 10, 29, 22,14,12,31,23,15,13,33,25,15,16,34]
+    data: [22, 13, 10, 29, 22,14,12,31,23,15,13,33,25,16,15,34]
 tension: 0.2
 width: 50%
 labelColors: false
