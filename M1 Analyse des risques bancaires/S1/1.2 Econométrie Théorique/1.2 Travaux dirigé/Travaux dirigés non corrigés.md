@@ -60,8 +60,8 @@ $(A+C)B = \sum^n_{k=1}(a+c)_{kj}b_{ik}$
 $=\sum^n_{k=1}a_{kj}b_{ik}+c_{kj}b_{ik}$ 
 $=(AB)_{ij}+(CB)_{ij}=(AB+CB)_{ij}$ 
 Le produit matriciel est distributif.
--$tr(B^tB)=tr(BB^t)$ 
+- $tr(B^tB)=tr(BB^t)$ 
 Même démonstration que pour la question 1 cependant dans notre cas $A=B^t$ 
 
--Traquenard sur Obsidian, faites à l'écrit, démonstration trop longue pour l'écrire ici
+- Traquenard sur Obsidian, faites à l'écrit, démonstration trop longue pour l'écrire ici
 -Vérifiez chaque proposition avec : A = $\begin{pmatrix} -1 & 2\\ 7 & 3  \end{pmatrix}$, B = $\begin{pmatrix} 6 & 8 &-1 &0 \\ 2 & 3&1&4 \end{pmatrix}$ et $x^t=\begin{pmatrix} 1 &1&2&3\end{pmatrix}$

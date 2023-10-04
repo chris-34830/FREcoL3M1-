@@ -238,13 +238,10 @@
     {trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
     {trigger: "matrix", replacement: "\\begin{matrix}\n$0\n\\end{matrix}", options: "mA"},
 
-    // Microéconomie
-    {trigger: "prefaible", replacement: "\\succeq", options: "mA"},
-    {trigger: "p\\mathrm{Re}faible", replacement: "\\succeq", options: "mA"},
-    {trigger: "p\\mathrm{Re}fstrict", replacement: "\\succ", options: "mA"},
-    {trigger: "prefstrict", replacement: "\\succ", options: "mA"},
-    {trigger: "indif", replacement: "\\sim", options: "mA"},
 
+	// Econométrie théorique
+ 
+	// Méthode de prévision
 
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
