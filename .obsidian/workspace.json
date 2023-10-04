@@ -156,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21530fcf1e04b9e1",
+  "active": "d383c56f8136e512",
   "lastOpenFiles": [
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Sans titre.md",
