@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86c9aef2734a7045",
+        "id": "abaa069941573bbd",
         "type": "tabs",
         "children": [
           {
-            "id": "21530fcf1e04b9e1",
+            "id": "01eb770e7db4884d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9744c1314ab99dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aadb60601b3a374b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
+              }
             }
           }
         ]
@@ -66,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
+              }
             }
           },
           {
@@ -81,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 239.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -97,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21530fcf1e04b9e1",
+  "active": "aadb60601b3a374b",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Sans titre.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
@@ -177,8 +204,6 @@
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Financial market.md",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.2 Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",

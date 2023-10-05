@@ -49,8 +49,8 @@ $$x_{i}=(x_{1,i},x_{2,i},\dots,x_{k,i},\dots,x_{K,i})$$
 	- Elle prend en compte les erreurs de mesure sur la variable dépendante.
 	- L'erreur est une variable aléatoire avec des moments (espérance, variance,...) et une distribution à déterminer
 
-	Hypothèse 1 : Linéarité du modèle
-$y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}+\epsilon_{i}$ pour i=1,2,...,N
+**Hypothèse 1 : Linéarité du modèle**
+	$y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}+\epsilon_{i}$ pour i=1,2,...,N
 	La relation entre les variables explicatives et la variable dépendante est **linéaire**
 	L'erreur est **additive**
 	Il n'y a pas d'erreurs de mesure sur les variables explicatives x.
@@ -65,4 +65,8 @@ $y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}+\epsil
 	Forme linéaire comme approximation locale d'une forme non-linéaire inconnue, ou comme projection linéaire
 	Modèle linéaire dans les paramètres, pas nécessairement dans les variables.
 
-	Hypothèse 2 : Stricte exogénéité des régresseurs
+Hypothèse 2 : Stricte exogénéité des régresseurs
+	L'erreur doit être exogène par rapport à toutes les observations de toutes les variables explicatives.
+	$E(\epsilon i|X)=0$ pour tout i = 1,2,..,N
+	$E(\epsilon i|x_{1},x_{2},\dots,x_{N})=0$ pour tout i = 1,2,..,N
+	$E(\epsilon i|x_{j})=0$ pour tout i,j= 1,2,..,N
