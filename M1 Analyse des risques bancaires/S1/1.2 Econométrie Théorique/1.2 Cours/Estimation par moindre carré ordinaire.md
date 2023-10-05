@@ -40,4 +40,29 @@ $$x_{i}=(x_{1,i},x_{2,i},\dots,x_{k,i},\dots,x_{K,i})$$
 - Un **modèle économétrique** est un ensemble de restrictions sur la distribution conjointe des variables dépendante et explicatives
 - C'est un ensemble de distributions conjointes qui satisfont un ensemble d'hypothèses
 - Comme la relation n'est pas parfaite, on introduit une variable supplémentaire pour tenir compte d'autres éléments $\rightarrow$**l'erreur** : $\epsilon$
-- 
+	Commentaire sur l'erreur
+	- L'erreur est aussi appelée aléas ou perturbation
+	- Elle correspond à des éléments imprédictibles des aléas, des comportements économiques, humains ou sociaux...
+	- Elle mesure les incertitudes du modèle
+	- Elle incorpore des effets inobservables
+	- Elle capture les effets d'un grand nombre de variables omises (* Voir hypothèse, MISE EN PAGE NECESSAIRE)
+	- Elle prend en compte les erreurs de mesure sur la variable dépendante.
+	- L'erreur est une variable aléatoire avec des moments (espérance, variance,...) et une distribution à déterminer
+
+	Hypothèse 1 : Linéarité du modèle
+$y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}+\epsilon_{i}$ pour i=1,2,...,N
+	La relation entre les variables explicatives et la variable dépendante est **linéaire**
+	L'erreur est **additive**
+	Il n'y a pas d'erreurs de mesure sur les variables explicatives x.
+	-> Le modèle est correctement spécifié
+	$y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}+\epsilon_{i} = \sum_{k=1}^K\beta_{k}x_{K,i}+\epsilon_{i}$
+	$\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}$ est la **fonction de régression**
+	Les paramètres (ou coefficients) $\beta_{k}$ sont les coefficients de régression.
+	Ils représentent l'effet marginal, toutes choses égales par ailleurs, d'une variation de la variable $x_{k,i}$ sur la variable dépendante $y_{i}$ : $\beta_{k}=\frac{\nabla y_{i}}{\nabla x_{k,i}}$
+	La linéarité implique que les effets marginaux sont constants pour toutes les observations (individus)
+	_Commentaire sur la forme linéaire_ 
+	$y_{i}=\beta_{1}+\beta_{2}x_{2,i}+\beta_{3}x_{3,i}+\dots+\beta_{K}x_{K,i}$ 
+	Forme linéaire comme approximation locale d'une forme non-linéaire inconnue, ou comme projection linéaire
+	Modèle linéaire dans les paramètres, pas nécessairement dans les variables.
+
+	Hypothèse 2 : Stricte exogénéité des régresseurs
