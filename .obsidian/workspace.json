@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "8f8c2e90e7706d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08002bb7cf2fd623",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
               }
             }
           },
@@ -104,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cba2a25622d6b411",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
     "Sans titre.canvas",
     "Sans titre.md",
