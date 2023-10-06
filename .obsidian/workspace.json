@@ -4,27 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "abaa069941573bbd",
+        "id": "eb6ee10b3b097254",
         "type": "tabs",
         "children": [
           {
-            "id": "01eb770e7db4884d",
+            "id": "cba2a25622d6b411",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "c608cb5e39cfca01",
+        "id": "8f8c2e90e7706d95",
         "type": "tabs",
         "children": [
           {
-            "id": "6cee32a2aed77d99",
+            "id": "08002bb7cf2fd623",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,47 +190,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01eb770e7db4884d",
+  "active": "08002bb7cf2fd623",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1 1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 2 (2022).pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Sans titre.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Financial market.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.2 Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
-    "Sans titre.md",
-    "conflict-files-obsidian-git.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours.md",
-    "Rappels WIP/Statistiques/Modèle probabiliste.md",
-    "Rappels WIP/Mathématique/Fonction.md",
-    "Snippets LaTeX WIP.md",
-    "Newcommand LaTeX.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
-    "Sans titre 2.canvas",
-    "2023-09-17.md",
-    "Sans titre 1.canvas",
     "Sans titre.canvas",
-    "Licence 3/S5/5.3 Econométrie/5.3 Cours/5.3.1 Les hypothèses du modèle.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
+    "Sans titre.md",
+    "2023-10-04.md",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Cours",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/5. Résultat courant avant impôts.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/6. Résultat Net.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/Les méthodes de calcul de la CAF.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Sans titre",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.2 Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "Snippets LaTeX WIP.md",
+    "Sans titre 1.md",
+    "Rappels WIP/Statistiques/Modèle probabiliste.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.2 Le modèle de Solow.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
+    "Sans titre 2.canvas",
+    "Sans titre 1.canvas",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
     "S6/Pasted image 20230214235502.png",
