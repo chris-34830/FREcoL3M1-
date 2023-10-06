@@ -22,7 +22,7 @@
 - Le critère des moindres carrés consiste à minimiser la somme des carrés des résidus
 **Vrai**
 - L’estimation d’une constante est nécessaire pour que la moyenne des résidus soit nulle.
-**Vrai**? Il semble que $E[\epsilon]=0$ définit la constante?
+Faux
 - La covariance de l'échantillon entre un régresseur et les résidus des moindres carrés ordinaires (MCO) dépend du signe du paramètre estimé pour ce régresseur
 ?
 - Les résidus sont distribués symétriquement autour de zéro.
