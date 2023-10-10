@@ -88,7 +88,8 @@ Hypothèse 3 : Absence de multicolinéarité parfaite
 	Si H3 n'est pas validé, alors les régresseurs sont parfaitement colinéaires.
 
 Hypothèse 4 : Les erreurs ont une matrice de variance-covariance sphérique
-	Homoscédasticité conditionnelle : Les termes d'erreur $\epsilon_{i}$ de toutes les observations ont la même variance conditionelle
+	Homoscédasticité conditionnelle : Les termes d'erreur $\epsilon_{i}$ de toutes les observations ont la même variance conditionnelle
+
 
  Hypothèse 5 : Normalité des erreurs
 	 Cette hypothèse n'est pas fondamentale pour l'obtention d'un bon estimateur, mais elle est nécessaire pour obtenir des propriétés en petits échantillons.

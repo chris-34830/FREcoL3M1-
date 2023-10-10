@@ -243,10 +243,17 @@
  
 	// Méthode de prévision
 
+
+	// Finance de marché
+	 
+
+
+
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
     {trigger: "norm", replacement: "\\lvert $0 \\rvert $1", options: "mA", priority: 1},
     {trigger: "mod", replacement: "|$0|$1", options: "mA"},
+    {trigger: "bckb", replacement: "{", options: "mA"},
     {trigger: "(", replacement: "(${VISUAL})", options: "mA"},
     {trigger: "[", replacement: "[${VISUAL}]", options: "mA"},
     {trigger: "{", replacement: "{${VISUAL}}", options: "mA"},
@@ -263,4 +270,3 @@
 
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
-]

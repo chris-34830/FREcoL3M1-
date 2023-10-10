@@ -123,7 +123,6 @@
       "key": "4"
     }
   ],
-  "workspace:close": [],
   "editor:focus-left": [
     {
       "modifiers": [
@@ -140,5 +139,6 @@
       "key": "ArrowRight"
     }
   ],
-  "table-editor-obsidian:center-align-column": []
+  "table-editor-obsidian:center-align-column": [],
+  "workspace:close": []
 }
