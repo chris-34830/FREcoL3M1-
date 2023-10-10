@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md"
               }
             }
           },
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945,
-    "collapsed": true
+    "width": 239.51103591918945
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "3992b0e9bb5dd625",
   "lastOpenFiles": [
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/4. Résultat d'exploitation.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
@@ -214,8 +215,6 @@
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/modèles.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
