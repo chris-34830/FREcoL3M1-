@@ -6,32 +6,16 @@
       {
         "id": "ef190d9a75451d54",
         "type": "tabs",
-        "dimension": 50.359281437125745,
         "children": [
           {
             "id": "3992b0e9bb5dd625",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c768957aa9e000c5",
-        "type": "tabs",
-        "dimension": 49.640718562874255,
-        "children": [
-          {
-            "id": "086a65f77e19427b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -87,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md"
               }
             }
           },
@@ -103,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 239.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -119,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,13 +176,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "086a65f77e19427b",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 1.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés",
+    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "Excalidraw/Drawing 2023-10-10 15.22.04.excalidraw.md",
     "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
     "Excalidraw",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "Sans titre.canvas",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1) 1.docx",
@@ -209,7 +197,6 @@
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
@@ -229,7 +216,6 @@
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/modèles.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Le principe d'équilibre.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
