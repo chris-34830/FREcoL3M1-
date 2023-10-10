@@ -26,12 +26,12 @@
         "dimension": 49.640718562874255,
         "children": [
           {
-            "id": "d5af482398e9d750",
+            "id": "086a65f77e19427b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png"
               }
             }
           },
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945,
-    "collapsed": true
+    "width": 239.51103591918945
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,12 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5af482398e9d750",
+  "active": "086a65f77e19427b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+    "Excalidraw/Drawing 2023-10-10 15.22.04.excalidraw.md",
     "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
     "Excalidraw",
+    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "Sans titre.canvas",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1) 1.docx",
@@ -231,7 +231,6 @@
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/modèles.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Le principe d'équilibre.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
-    "Snippets LaTeX WIP.md",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
@@ -242,7 +241,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas"
   ]
 }
