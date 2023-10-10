@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c768957aa9e000c5",
+        "id": "ef190d9a75451d54",
         "type": "tabs",
+        "dimension": 50.359281437125745,
         "children": [
           {
             "id": "3992b0e9bb5dd625",
@@ -14,6 +15,23 @@
               "type": "pdf",
               "state": {
                 "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c768957aa9e000c5",
+        "type": "tabs",
+        "dimension": 49.640718562874255,
+        "children": [
+          {
+            "id": "d5af482398e9d750",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md"
               }
             }
           }
@@ -69,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf"
+                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md"
               }
             }
           },
@@ -102,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+                "file": "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,13 +188,18 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "d5af482398e9d750",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
+    "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+    "Excalidraw/Drawing 2023-10-10 14.45.09.excalidraw.md",
+    "Excalidraw",
+    "Sans titre.canvas",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1) 1.docx",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/1.1.? Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/TD EDD 2023(1).xlsx",
@@ -187,7 +210,6 @@
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
@@ -210,8 +232,6 @@
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Le principe d'équilibre.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "Snippets LaTeX WIP.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
-    "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
