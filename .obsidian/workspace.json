@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 239.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3992b0e9bb5dd625",
+  "active": "30b0c6652c49bcbd",
   "lastOpenFiles": [
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
