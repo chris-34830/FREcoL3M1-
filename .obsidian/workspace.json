@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +177,12 @@
   },
   "active": "3992b0e9bb5dd625",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/4. Résultat d'exploitation.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés",
@@ -195,11 +198,8 @@
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1).docx",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
@@ -214,7 +214,6 @@
     "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Note comptabilité du développement.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
