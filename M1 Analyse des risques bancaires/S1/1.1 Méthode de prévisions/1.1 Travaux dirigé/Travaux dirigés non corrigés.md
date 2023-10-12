@@ -55,4 +55,3 @@ $S_{p}=N\times \sum(x_{.i}-x_{..})^2$
 $S_{A}=P\times \sum(x_{i.}-x_{..})^2$
 $S_{R}=\sum_{i} \sum_{j}(x_{ij}-x_{i.}-x_{.j}+x_{..})^2$
 $S_{T}=\sum_{i} \sum_{j}(x_{ij}-x_{..})$
-pushhhhh h s hs h
