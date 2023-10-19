@@ -6,7 +6,6 @@
       {
         "id": "abaa069941573bbd",
         "type": "tabs",
-        "dimension": 70.40816326530613,
         "children": [
           {
             "id": "01eb770e7db4884d",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c608cb5e39cfca01",
-        "type": "tabs",
-        "dimension": 29.591836734693878,
-        "children": [
-          {
-            "id": "6cee32a2aed77d99",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
               }
             }
           }
@@ -89,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md"
               }
             }
           },
@@ -121,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cee32a2aed77d99",
+  "active": "01eb770e7db4884d",
   "lastOpenFiles": [
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1).docx",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
@@ -207,9 +191,7 @@
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/1.1._ Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Analyse de donnée.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
