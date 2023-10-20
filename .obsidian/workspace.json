@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +160,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -176,16 +176,19 @@
   },
   "active": "01eb770e7db4884d",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
+    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
+    "Snippets LaTeX WIP.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1).docx",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/TD EDD 2023(1).xlsx",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés",
@@ -195,7 +198,6 @@
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Analyse de donnée.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Sans titre.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Sans titre.md",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Financial market.md",
@@ -206,10 +208,8 @@
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours.md",
     "Rappels WIP/Statistiques/Modèle probabiliste.md",
     "Rappels WIP/Mathématique/Fonction.md",
-    "Snippets LaTeX WIP.md",
     "Newcommand LaTeX.md",
     "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
     "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",
     "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
     "Sans titre 2.canvas",
