@@ -1,10 +1,10 @@
 
 ## Prévision d'une série chronologique avec les méthodes de prévision traditionnelles
 
-#### Exercice 1
+#### **Exercice 1**
 Série : 22,13,10,29,22,14,12,31,23,15,13,33,25,16,15,34
 Par trimestre
-##### Donner la représentation graphique de la chronique. Analyser.
+##### **Donner la représentation graphique de la chronique. Analyser**.
 ```chart
 type: line
 labels: [T1, T2, T3, T4, T1, T2, T3, T4,T1, T2, T3, T4,T1, T2, T3, T4]
@@ -25,9 +25,9 @@ L'analyse graphique nous permet de voir :
 - La prévision est rigide.
 - Le modèle est additive : l'amplitude est constante autour de la tendance.
 
-##### Constituer les tableaux de Buys-Ballot et Buys-Ballot classé.
+##### **Constituer les tableaux de Buys-Ballot et Buys-Ballot classé**.
 
-- Tableau de buys-Ballot : 
+- Tableau de Buys-Ballot : 
 
 | Date                | T1    | T2    | T3    | T4    | $x_{i.}$ | $\hat{\sigma}_{i.}$ |
 | ------------------- | ----- | ----- | ----- | ----- | -------- | ------------------- |
@@ -36,9 +36,9 @@ L'analyse graphique nous permet de voir :
 | Année 3      | 23    | 15    | 13    | 33    | 21       | 9,092         |
 | Année 4      | 25    | 15    | 16    | 34    | 22,5     | 8,888         |
 | $x_{.j}$            | 23    | 14,5  | 12,75 | 31,75 | $x_{..}$ | $\hat{\sigma}_{..}$ |
-| $\hat{\sigma}_{.j}$ | 1,414 | 1,291 | 2n082 | 2,217 | 20,4375  | 8,0412              |
-Attention, l'écart-type est à exprimer sans biais autrement, le test de buys-ballot ne sera pas juste.
-Ainsi, $\hat{\sigma}=\frac{n}{n-1}\sigma^{2}$
+| $\hat{\sigma}_{.j}$ | 1,414 | 1,291 | 2,082 | 2,217 | 20,4375  | 8,0412              |
+Attention, l'écart type est à exprimer sans biais autrement, le test de Buys-Ballot ne sera pas juste.
+Ainsi, $\hat{\sigma}^2=\frac{n}{n-1}\sigma^{2} = \frac{\left( \frac{\sum x_{i}^2}{n} \right)-\bar{x}^2}{n-1}$
 
 - Tableau de Buys-Ballot classé : 
 
