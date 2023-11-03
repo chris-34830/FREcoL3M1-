@@ -1,0 +1,131 @@
+##### **La valeur d'un actif et la loi du Prix Unique**
+- **Économie & Valeur :**
+    - La valeur d'un bien/service est censée se refléter par le prix établi sur un marché en CPP (concurrence pure et parfaite). Un bien/service possède une valeur pour son utilité directe tandis qu'un actif financier est valorisé pour son "utilité à la consommation" car il n'est pas consommé.
+    - Dans le secteur financier, il existe de la concurrence entre les banques.
+- **Échange de valeurs :**
+    - On considère le transfert de valeurs dans le temps, d'où l'importance de se baser sur différents revenus et risques pour évaluer.
+- **Principe de la CPP :**
+    - On raisonne dans un contexte financier proche de la CPP, c'est-à-dire avec différents agents ayant des préférences et objectifs variés. Cependant, ils opèrent sur le même marché, imposant un prix unique.
+- **Prix du marché :**
+    - Le prix du marché est le résultat de toutes les décisions financières de tous les agents qui ne sont pas concurrents. Cela reflète le concept de la main invisible transféré au domaine financier.
+    - Dans une perspective purement théorique, le prix représente la valeur intrinsèque ou fondamentale de l'actif.
+- **Valeur Fondamentale :**
+    - Elle est définie comme provenant des agents ayant une certaine quantité d'information individuelle sur l'actif. Les agents sont en concurrence pour acheter l'actif au prix le plus bas possible et le vendre au plus haut.
+- **Loi du Prix Unique :**
+    - Cette loi, fondamentale en finance, stipule que deux actifs identiques (en termes d'opportunités d'investissement) devraient avoir le même prix sur un marché concurrentiel.
+    - Les opportunités d'arbitrage peuvent faire converger les prix rapidement même s'ils sont initialement différents.
+- **Arbitrage :**
+    - C'est une stratégie d'action à court terme exploitant des incohérences de prix pour réaliser un profit. L'arbitrage tend à aligner les prix sur le marché.
+    - Dans une situation idéale, un arbitragiste avec des ressources suffisantes peut aligner instantanément le prix d'un actif avec sa valeur intrinsèque.
+- **Points importants à retenir :**
+    - L'arbitrage est spéculatif mais nécessaire.
+    - La rapidité d'exécution et la qualité de l'information déterminent directement le succès sur le marché.
+    - L'arbitrage comporte des risques, en particulier lorsqu'il nécessite d'importantes ressources en peu de temps.
+    - Ce mécanisme s'applique bien aux marchés financiers, aux marchés des taux d'intérêt et même aux marchés des changes.
+- **Cas de l'or :**
+    - Si on connaît le taux de change entre l'or et l'euro, on peut déduire le taux de change entre l'or et le dollar. Cette relation doit être cohérente, sinon des opportunités d'arbitrage peuvent surgir.
+- **Le mécanisme de la loi du prix unique :**
+    - Il repose sur une quantité d'information disponible pour les agents. L'efficacité du marché découle de cette loi.
+
+##### **Théorie de L'Effcience des Marchés de FAMA (EMH)**
+- **Hypothèse d'Effcience des Marché (EMH)** : 
+	  Cette hypothèse soutient que le **prix actuel d'un actif reflète** toutes les **informations** sur ses fondamentaux. Le prix dépend de facteurs internes et externes, et est déterminé par la confrontation des acheteurs et vendeurs sur un marché concurrentiel.
+- **Sources d'information** :
+	  Ces informations comprennent des données comptables d'entreprises, des événements macroéconomiques (crises, guerres, tensions) et d'autres événements extraordinaires.
+- **Rationalité des agents** :
+	  Chaque agent doit avoir un ensemble d'informations lui permettant d'anticiper la direction future des prix. Cependant, en fonction de son niveau d'information, il ne pourra jamais prédire parfaitement le prix du marché.
+- **Comportement des agents** :
+	  Pour éviter des anticipations non-rationnelles, les agents doivent observer le prix actuel comme incorporant toute l'information présente et passée. Ils doivent également baser leurs décisions sur des données réelles et non nominales, et **éviter l'illusion monétaire**.
+- **Marché Imbattable** :
+	  Puisque tous les agents ont des anticipations basées sur l'information disponible, le marché élimine naturellement ceux qui commettent des erreurs irrationnelles. Ainsi, le marché est considéré comme étant imbattable.
+- **Formulation mathématique de l'EMH** :
+	L'EMH s'interprète comme une **Marche Aléatoire (random walk)** et suggère que les anticipations rationnelles $P^*_{t+1}$ du prix d'un actif à un moment donné dépendent de $I_t$, qui représente la quantité d'information passée.  $P^*_{t+1} = E\left(\frac{P_{t+1}}{I_t}\right)$ $I_t$ est incorporé dans $P_t$, donc : $P^*_{t+1} = P_t + \epsilon_{t+1}$ $\epsilon_{t+1}$ suit une distribution Bernoulli Binaire $BB(0,1)$ et représente les innovations futures (nouvelles informations du lendemain). Ces innovations sont considérées comme aléatoires, inconnues et imprévisibles, c'est-à-dire **stochastiques**.
+- **Implications** :
+	  L'EMH implique que le marché est imprévisible et intègre rapidement toutes les nouvelles informations, le rendant informationnellement efficient.
+
+##### **Les 3 formes de l’Efficience**
+ Quelles sont les informations contenues dans $I_t$?
+- **Information passée** ($I_{\omega}$): 
+	Reflète la dynamique des cours passés.
+	Inclut des éléments comme les dividendes ou le détachement de coupons.
+- **Information Publique** ($I_{SS}$):
+	Comprend un ensemble d'informations publiques.
+	Exemples: rapports macroéconomiques, rapports sectoriels, bilans annuels, etc.
+- **Information Privée** ($I_S$):
+	Correspond à des informations privilégiées.
+	Typiquement détenues par des "insiders".
+	
+###### **Formes d'efficience définies par Fama**
+1. **Efficience faible** (weak efficiency) : Si $I_t = I_{\omega}$
+2. **Efficience semi-forte** (semi-strong) : Si $I_t = I_{SS}$
+3. **Efficience forte** (strong) : Si $I_t = I_S$
+> Remarque : $e_t$ est le seul élément résiduel influençant le prix d'un actif, le rendant risqué.
+- **Points à retenir**
+	Les marchés efficaces réagissent rapidement et correctement aux nouvelles informations.
+	Les marchés ne réagissent pas aux anciennes nouvelles ou aux nouvelles attendues.
+	Il est impossible de réaliser des profits en se basant uniquement sur des informations connues tout en ayant le même niveau de risque.
+	Sur un marché efficace et rationnel, il ne se crée pas de bulle.
+![[Pasted image 20231103201337.png]]
+- **Points clés de l'analyse graphique**
+	**Jour t où l’information arrive sur le marché** : 
+		C'est le jour où une nouvelle information est rendue publique et impacte potentiellement le marché.
+	**Ajustement immédiat** : 
+		Après la diffusion de l'information, le cours de l'action s'ajuste rapidement à sa nouvelle valeur. Cette ligne montre une réponse rapide et proportionnelle à l'information reçue.
+	**Sur-réaction** : 
+		Après l'ajustement immédiat, le cours de l'action monte (ou descend) plus que nécessaire, indiquant une sur-réaction du marché à l'information.
+	**Sous-réaction** : 
+		Après l'ajustement initial, le cours de l'action ne réagit pas autant qu'il le devrait à l'information, suggérant une sous-réaction du marché.
+
+##### **Les Anomalies de Marché et les tests d'efficience**:
+
+- Robert Schiller a étudié les performances des marchés US depuis 1920, supposant que le marché est efficace. 
+- Il distingue la volatilité empirique des actions de la volatilité calculée à partir d'un modèle constructif, suggérant que le marché n'est pas totalement efficient.
+- Les comportements non rationnels des agents mènent à des anomalies de marché et à l'émergence de bulles.
+- Schiller suggère qu'une multitude de facteurs peuvent rendre un agent non rationnel.
+
+**Volatilité des titres**:
+- Schiller a étudié la volatilité des titres via une modélisation AR, suggérant que sur un marché efficient, le prix $P^{*}_t$ découle de son actualisation.
+- Il propose de mesurer les erreurs observées entre $P^{*}_t$ et $P_t$ avec $e_t = P^{*}_t - P_t$.
+	Pour un marché efficient, il suggère les équations: $V(P^{*}_t) = V(P_t) + V(e_t) \implies V(P^{*}_t) \geq V(P_t)$ car $\epsilon_{t}  \sim  B(0,\sigma^{2}_{\epsilon})$ 
+Il faut donc que :
+> $E(e_t , e_t) = \sigma^2_{\epsilon} \quad \forall t =t'$ (Homoscédasticité)
+$E(e_t , P_t ) = 0$(Exogénéité)
+$E(e_t) = 0$ (Nulité de la moyenne des erreurs)
+L'efficacité du marché suggère aussi que les prix soient autocorrélés: $E(P_t, P_{t-q}) \neq 0 = \rho_{t-q}, \forall t \neq t -q$
+>Où $\rho_{t-q}$ est le coefficient d'autocorrélation entre $P_t$ et $P_{t-q}$.
+
+**Test pour vérifier l'EMH**:
+- À partir de l'EHM, des modèles d'évaluation des prix ont été élaborés pour calculer la valeur fondamentale. Il suffit d'employer ces modèles pour modéliser l'évolution des cours et comparer cela avec l'empirie.
+	**Analyse fondamentale**
+- Calculer directement les $p_t$ à partir des rendements puis tester leurs nullités.
+		  - **Test d'autocorrélation** : Pour tester des formes plus complexes, il faudra recourir à des tests économétriques plus avancées (Racines unitaires, break tests, etc.)
+		- **Analyse statistique de l'efficience**
+- Il existe une méthode rapide pour calculer différentes variances sur une période T. Les rendements $R_t$ enregistrés sur la période T sont supposés être identiquement et indépendamment distribués. En échantillonnant N fois T, on peut aussi calculer $R_n$ où n = 1...N (nombre de sous-période).
+- Sous l'EHM, on a : $V(R_T) = V(R_1) + V(R_2) + ... + V(R_N)=N \cdot V(R_{n})$. Si pas d'autocorrélation de $R_n$.
+- $V(R_T)$ est la variance calculée sur l'ensemble des observations T réparties "homoscédastiquement" dans le temps.
+- Si le rapport de variance $\frac{N \times V(R_t^n)}{V(R_t^T)}$ est 1, cela indique une efficience de marché au sens faible, bien que cela nécessite une confirmation par des tests économétriques.
+
+- Schiller a utilisé le Price-earning-Ratio (PER) pour évaluer les prix d'action avec l'équation : $PER = \frac{Cours\ de\ l'action}{BPA}$
+	En comparant le PER d'une entreprise à celui des entreprises similaires :
+	- Un PER élevé indique une surévaluation.
+	- Un PER faible indique une sous-évaluation.
+- D'autres méthodes d'évaluation existent, et Fama a développé le modèle Fama-French après avoir intégré les critiques de Schiller.
+- Interprétation du PER : 
+	- **PER 0** : Pas de bénéfice par action (BPA) ni de dividendes.
+	- **PER de 0 à 10** : L'action pourrait être sous-évaluée ou les bénéfices attendus diminueront.
+	- **PER de 10 à 17** : La plupart des sociétés ayant ce ratio sont bien évaluées.
+	- **PER de 17 à 25** : L'action pourrait être surévaluée ou une augmentation des bénéfices est attendue.
+	- **PER supérieur à 25** : Une forte croissance des bénéfices est prévue ou l'action est dans une bulle spéculative.
+- Anomalies saisonnières de Schiller sur les marchés financiers, suggérant des comportements prévisibles :
+	- **Effet Week-End/Lundi** : Les vendredis connaissent souvent des baisses, probablement car les traders ferment leurs positions pour le week-end.
+	- **Effet Janvier** : Les cours ont tendance à baisser en décembre puis à augmenter en janvier, possiblement lié à des considérations fiscales.
+	- **Effet Halloween / "sell in May and Go away"** : Les rendements sont généralement plus élevés en hiver qu'en été, ce qui pourrait être lié à des vacances d'été réduisant l'activité de trading.
+D'autres auteurs, comme Bantz, ont identifié d'autres anomalies, comme l'effet Size ou le Momentum. Malgré ces anomalies, Fama considère que le marché reste efficient et a même intégré ces anomalies à sa définition de l'efficience.
+
+- Schiller a utilisé la théorie de Fama pour étudier les rendements anormaux des titres : $AR_t = R_t - E(R_t)$
+- Cumul des Rendements Anormaux (CAR) est défini comme : $CAR_t = \sum_{i=1}^{T} AR_t = \sum_{i=1}^{T}(R_t - E(R_t))$
+	Des CAR élevés peuvent indiquer l'émergence d'une bulle financière.
+- En raison de comportements passés irrationnels, une prise de conscience peut conduire à une vente massive, provoquant un krach.
+	Les bulles financières résultent souvent d'exubérances irrationnelles.
+	Les agents peuvent être attirés par des gains rapides et négliger les risques, menant à un krach.
+- Olivier Blanchard a introduit la notion de bulle rationnelle, suggérant que les comportements peuvent rester irrationnels jusqu'à un "**MOMENT MINSKY**", où ils ne peuvent plus maintenir leurs positions.

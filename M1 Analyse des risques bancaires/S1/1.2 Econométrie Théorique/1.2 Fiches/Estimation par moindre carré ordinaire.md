@@ -80,18 +80,18 @@ $$x_{i}=(x_{1,i},x_{2,i},\dots,x_{k,i},\dots,x_{K,i})$$
 	C'est la condition d'orthogonalité. $E(X'\epsilon)=0_{k}$
 	Par construction, si la condition d'orthogonalité est validé, la corrélation est nulle. 
 
-Hypothèse 3 : Absence de multicolinéarité parfaite
+**Hypothèse 3 : Absence de multicolinéarité parfaite**
 	Le rang de la matrice X de dimension $N \times K$ est K avec une probabilité 1, se traduit comme : $rang(X)=K$ 
 	Ainsi, aucune colonne de X n'est une combinaison linéaire parfaite des autres colonnes de X. 
 	Cette hypothèse rend possible l'utilisation des MCO et permet l'identification des paramètres du modèle. 
 	Cependant, pour que cette hypothèse soit vraie, il faut au moins que $N \geq K$
 	Si H3 n'est pas validé, alors les régresseurs sont parfaitement colinéaires.
 
-Hypothèse 4 : Les erreurs ont une matrice de variance-covariance sphérique
+**Hypothèse 4 : Les erreurs ont une matrice de variance-covariance sphérique**
 	Homoscédasticité conditionnelle : Les termes d'erreur $\epsilon_{i}$ de toutes les observations ont la même variance conditionnelle
 
 
- Hypothèse 5 : Normalité des erreurs
+**Hypothèse 5 : Normalité des erreurs**
 	 Cette hypothèse n'est pas fondamentale pour l'obtention d'un bon estimateur, mais elle est nécessaire pour obtenir des propriétés en petits échantillons.
 	 Si on suppose les observations indépendantes, la fonction de densité conjointe des erreurs est le produit des fonctions de densité marginale de chaque erreur : $f(\epsilon | X) = f(\epsilon_1 | X) \cdot f(\epsilon_2 | X) \cdots f(\epsilon_n | X) = \prod_{i=1}^n f(\epsilon_i | X)$
 	Avec $f(.)$ la fonction de densité de la loi normale univariée : $\epsilon_i \sim \mathcal{N}(0, \sigma^2) \rightarrow f(\epsilon_i | X) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp \left( - \frac{\epsilon_i^2}{2 \sigma^2} \right)$

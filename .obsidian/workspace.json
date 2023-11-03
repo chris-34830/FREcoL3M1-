@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4e33b2fdf85638",
+        "id": "1db62fc229a67f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "17c61d89e4daeea7",
+            "id": "ffed36175fc9629e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "68f9cca891b3cb58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md"
               }
             }
           },
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,44 +175,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68f9cca891b3cb58",
+  "active": "ffed36175fc9629e",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/1.1._ Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/LIVRE_qui_lui_sert_de_support.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
-    "Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 2 (2022).pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
-    "Rappels WIP/Statistiques/Modèle probabiliste.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2 Théorie de l’efficience des Marchés.md",
+    "Sans titre 2.md",
     "Sans titre 1.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
-    "Snippets LaTeX WIP.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/Méthode de prévision 2023 2024.pdf",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/2024 TD1(1).docx",
+    "Sans titre.md",
+    "Pasted image 20231103203702.png",
+    "Pasted image 20231103201337.png",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.2 Structures actuelles.md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/Chapitre 4.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet d'économétrie binôme",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
-    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/TD 1 Analyse en composante principale.md",
-    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Analyse de donnée.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Cours/Financial market.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.2 Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
-    "conflict-files-obsidian-git.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours.md",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
+    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Financial market.md",
+    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Sans titre.md",
+    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Résumé article.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
     "Rappels WIP/Mathématique/Fonction.md",
-    "Newcommand LaTeX.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",
+    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre",
+    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Travaux dirigés",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
+    "Rappels WIP/Statistiques/Modèle probabiliste.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
+    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "Snippets LaTeX WIP.md",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
     "Sans titre.canvas",
@@ -234,8 +226,6 @@
     "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
     "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/5.Production de l'exercice.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/4.Marge commerciale.png",
     "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas"
   ]
 }

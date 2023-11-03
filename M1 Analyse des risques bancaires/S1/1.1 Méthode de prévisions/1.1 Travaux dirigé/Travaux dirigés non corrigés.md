@@ -85,3 +85,6 @@ $t_{c}=\frac{\hat{\beta}}{s_{\beta}} \equiv T(n-2)$
 Pour calculer $\hat{\beta}=\frac{\operatorname{Cov}(s_{i.},x_{i.})}{\mathbb{V}(x_{i.})} \equiv \frac{\sum s_{i}x_{i}-\bar{s_{i}}x_{..}}{\sum x_{i.}^2-x_{..}^2}$
 Pour calculer $\hat{\alpha}=\bar{s}-\hat{\beta}x_{..}$, du coup on se retrouve avec désormais : $\hat{s_{i}}=\hat{\alpha}+\hat{\beta}x_{i}$
 Pour calculer $\hat{s_{\beta}}=\sqrt{ \frac{1}{\sum(x_{i.}-x_{..})^2}}\hat{s_{\epsilon}}$, cependant on cherche $\hat{s_{\epsilon}}=\frac{\sum(e_{t}^2)}{n-2} \equiv \frac{\sum(\hat{s_{i}}-\hat{\bar{s_{i}}})}{n-2}$
+
+
+# Suite tablette

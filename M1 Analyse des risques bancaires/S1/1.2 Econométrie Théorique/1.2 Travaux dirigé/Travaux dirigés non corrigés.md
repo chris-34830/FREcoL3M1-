@@ -65,3 +65,4 @@ Même démonstration que pour la question 1 cependant dans notre cas $A=B^t$
 
 - Traquenard sur Obsidian, faites à l'écrit, démonstration trop longue pour l'écrire ici
 -Vérifiez chaque proposition avec : A = $\begin{pmatrix} -1 & 2\\ 7 & 3  \end{pmatrix}$, B = $\begin{pmatrix} 6 & 8 &-1 &0 \\ 2 & 3&1&4 \end{pmatrix}$ et $x^t=\begin{pmatrix} 1 &1&2&3\end{pmatrix}$
+# Suite sur iPad
