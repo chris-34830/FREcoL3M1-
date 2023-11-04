@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1db62fc229a67f0b",
+        "id": "1d1304c0d9902a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffed36175fc9629e",
+            "id": "aea3686c63c744b0",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231103201337.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -68,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20231103201337.png"
-              }
+              "state": {}
             }
           },
           {
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231103201337.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231103201337.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,59 +157,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffed36175fc9629e",
+  "active": "aea3686c63c744b0",
   "lastOpenFiles": [
-    "Pasted image 20231103203702.png",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Estimation par moindre carré ordinaire.md",
     "Pasted image 20231103201337.png",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2 Théorie de l’efficience des Marchés.md",
-    "Sans titre 2.md",
-    "Sans titre 1.md",
-    "Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.2 Structures actuelles.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/Chapitre 4.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet d'économétrie binôme",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Financial market.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Sans titre.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2 Théorie de l’efficience des Marchés.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Résumé article.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
-    "Rappels WIP/Mathématique/Fonction.md",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Travaux dirigés",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
-    "Rappels WIP/Statistiques/Modèle probabiliste.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Econométrie Théorique (M1) - Chapitre 1 (2023-2024).pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/ET - Chapitre 3.pdf",
+    "Excalidraw/Drawing 2023-10-10 15.22.04.excalidraw.md",
+    "Excalidraw",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.5 Fusion & Concentration.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Cours/(Chapitre 4) WIP.md",
+    "Snippets LaTeX WIP.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Cours/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Cours/1.1._ Prévisions des processus aléatoires selon la méthodologie de Box et Jenkins.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
+    "Sans titre.canvas",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
-    "Sans titre.canvas",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
     "S6/Pasted image 20230214235502.png",
