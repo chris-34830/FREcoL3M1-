@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1db62fc229a67f0b",
+        "id": "72870dde160253e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ffed36175fc9629e",
+            "id": "83539c3d988d945e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -66,17 +66,7 @@
             }
           },
           {
-            "id": "c7b919424b10363e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md"
-              }
-            }
-          },
-          {
-            "id": "c7704d83d7c3f119",
+            "id": "8f359e2f0c8ce8dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 300
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -103,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +128,17 @@
             }
           },
           {
-            "id": "13750f0ee902250c",
+            "id": "c7b919424b10363e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md"
+              }
             }
           },
           {
-            "id": "d383c56f8136e512",
+            "id": "86fe991d417a5baf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,76 +147,53 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ffed36175fc9629e",
+  "active": "83539c3d988d945e",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.3 Les propriétés asymptotiques de l'estimateur MCO.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2 Théorie de l’efficience des Marchés.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/Chapitre 4.md",
-    "Pasted image 20231103201337.png",
-    "Pasted image 20231103203702.png",
-    "Sans titre 2.md",
-    "Sans titre 1.md",
-    "Sans titre.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.2 Structures actuelles.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
-    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.7 Pauvreté et inégalités en France.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet d'économétrie binôme",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2. Théorie de l’efficience des Marchés.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Financial market.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Fiches/Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Résumé article.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Travaux dirigés non corrigés.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
-    "Rappels WIP/Mathématique/Fonction.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Travaux dirigés",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.3.1 Le modèle de malthus.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.3.2 Les causes de la croissance.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.3 Population et croissance économique.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.1 Le capital physique.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.4.1 Les modèles de l'accumulation du capital humain.md",
+    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.4 Le capital humain.md",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Econométrie Théorique (M1) - Chapitre 2 (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
-    "Rappels WIP/Statistiques/Modèle probabiliste.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/1.1 Travaux dirigés corrigés.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "Sans titre 2.canvas",
-    "Sans titre 1.canvas",
-    "Sans titre.canvas",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
-    "S6/Pasted image 20230214235502.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/1 Analyse de l'activité.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/2.Tableau SIG.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/7.Excédent brut d'exploitation.png",
-    "S6/6.1 Analyse Financière/6.1 Poubelle/6.Valeur ajoutée.png",
-    "S6/6.2 Analyse de Donnée/6.2 Cours/Sans titre.canvas"
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/TD1 non corrigé.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/TD2 non corrigé.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Sans titre",
+    "En économie.md",
+    "Trois types de modèles.md",
+    "Hypothèses.md",
+    "MCO.md",
+    "Variable endogène.md",
+    "Modèle des moindres carrés ordinaires.md",
+    "Variables exogènes.md",
+    "[Variables exogènes.md",
+    "Econométrie.md",
+    "Cours.md"
   ]
 }
