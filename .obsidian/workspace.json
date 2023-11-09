@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md"
               }
             }
           },
@@ -168,8 +168,17 @@
   },
   "active": "83539c3d988d945e",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Brouillon.md",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
+    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/td2-smart_contract.pdf",
+    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
+    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/description-des-bases-de-donnees-annuelles-2021-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5. La théorie moderne du portefeuille de Markowitz, le MEDAF et ses extensions.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/4. Comment évaluer le prix des actions.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/3. Comment évaluer le prix des obligations.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.4 L’estimateur de la Méthode des Moments Généralisée.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 3.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Brouillon.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Econométroe1.xlsx",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/Chapitre 4.md",
@@ -192,11 +201,6 @@
     "Trois types de modèles.md",
     "Hypothèses.md",
     "MCO.md",
-    "Variable endogène.md",
-    "Modèle des moindres carrés ordinaires.md",
-    "Variables exogènes.md",
-    "[Variables exogènes.md",
-    "Econométrie.md",
-    "Cours.md"
+    "Variable endogène.md"
   ]
 }
