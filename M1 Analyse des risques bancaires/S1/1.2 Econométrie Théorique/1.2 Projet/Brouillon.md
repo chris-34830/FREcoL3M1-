@@ -11,18 +11,18 @@ Variable explicative :
 ***Salut***
 
 
-J'ai trouve trois indicators qui peuvent etre utile pour la variable educations qu'on pas trouve hier.
+J'ai trouve trois indicators qui peuvent etre utilew pour la variable educations/development qu'on pas trouve hier.
 
 	1. Humain Development index https://hdr.undp.org/.
  
 	2. average years of schooling  de globaldatalab.orgje pense c'est le best pour notre analyse.
  
-	3.Educational indix (globaldatalab.org)j'ai trouve cette explication pour cette variable .
+	3.Educational indix (globaldatalab.org)
  
- the education index has been measured by combining average adult years of schooling with expected years of schooling for student under the age of 25,
- 
- each receiving 50% weighting. Before 2010, the education index was measured by the adult literacy rate (with two-thirds weighting) and the combined primary,
- 
-	secondary, and tertiary gross enrollment ratio (with one-third weighting
- 
+ j'ai trouve cette explication pour cette variable
+ the education index has been measured by combining average adult years of schooling with expected years of schooling for student under the age of 25, 
+ each receiving 50% weighting. Before 2010, the education index was measured by the adult literacy rate (with two-thirds weighting) and the combined primary, 
+secondary, and tertiary gross enrollment ratio (with one-third weighting
+
+ Je te les upload en format excel pour voir les integrer dans notre base des donnees si t'es d'accord.
 
