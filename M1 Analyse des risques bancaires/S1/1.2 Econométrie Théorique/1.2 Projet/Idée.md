@@ -9,3 +9,6 @@ Variable explicative :
 	??
 	??
 
+Objectif pour Lundi : 
+	Lire des études en rapport avec nos variables (4-5)
+	
