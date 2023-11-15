@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1497714a2fd6702",
@@ -168,9 +169,9 @@
   },
   "active": "83539c3d988d945e",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Brouillon.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Dissertation.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Résumé d'études.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Idée.md",
     "Stata_Projet_test.numbers",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/Estimation par moindre carré ordinaire.md",
