@@ -29,4 +29,6 @@ secondary, and tertiary gross enrollment ratio (with one-third weighting
 
  Je te les upload en format excel pour voir les integrer dans notre base des donnees si t'es d'accord.
 
->>>>>>> dabdb109a8bf6614b2403ed1985d0bfc3b36bbf5
+
+
+# VARIABLE INTENSITE C'EST LA CONSOMMATIO
