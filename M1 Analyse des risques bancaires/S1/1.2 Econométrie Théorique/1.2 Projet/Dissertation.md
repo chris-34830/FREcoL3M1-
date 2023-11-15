@@ -26,3 +26,4 @@
 -> Création de la base de donnée, les sources des différentes bases
 -> Justification date 2019
 -> Arbitrage donnée ; comment ? Pourquoi certains pays n'y sont pas... (ex : Taiwan, Israël) Israël => Problème de cohérence sur sa densité 
+
