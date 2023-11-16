@@ -7,7 +7,7 @@
 -> Amorce (Accroche du choix du sujet) 
 
 -> On reformule le titre en posant des questions 
--> Explication du problème de date (post 2020)**
+-> Explication du problème de date (post 2020)
 -> On dit sur quoi on a décidé de se concentrer comme variable -> L'arbitrage variable => Pourquoi certaines variables et pas d'autre (Ex : **Expliquer que le problème d'émission de CO2 est pluridisciplinaire et l'impossibilité de se contenter à une étude uniquement économique sur le sujet**)
 -> On explique les résultats qu'on aurait attendu (On imaginait densité élevé = Emission CO2 élevé)
 
