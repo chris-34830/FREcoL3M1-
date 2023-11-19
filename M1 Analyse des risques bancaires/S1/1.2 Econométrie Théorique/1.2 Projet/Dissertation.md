@@ -9,8 +9,8 @@
 -> Explication du problème de date (post 2020)
 -> On dit sur quoi on a décidé de se concentrer comme variable -> L'arbitrage variable => Pourquoi certaines variables et pas d'autre (Ex : **Expliquer que le problème d'émission de CO2 est pluridisciplinaire et l'impossibilité de se contenter à une étude uniquement économique sur le sujet**)
 -> On explique les résultats qu'on aurait attendu (On imaginait densité élevé = Emission CO2 élevé)
-
-#### Définition des données (Expliquer les variables, leur échelle etc)  (3-4lignes max par variables)
+#### Définition des données (Expliquer les variables, leur échelle etc)  (2-3lignes max par variables)
+-> Source de la base de donnée (Base de donnée faite par nous-même en scrappant les données, en combinant des bases de données et en corrigeant certaines bases de données pour avoir des résultats cohérents avec l'ensemble du dataset)
 ###### Variable expliquée 
 -> Listing des variables, leur nom, échelle
 -> Les définir
@@ -32,14 +32,15 @@
 -> Moyenne
 ###### Variable indicatrices
 -> GNI 
-######  Matrice variance-cov
+###### Matrice variance-cov
 
 ## Modèle test 1  (Ajouter GNI en variable explicative)
 -  Nuages de points
+$Y_t =\beta_{0}+\beta_{1}x_{1}\dots$
 ### Présentation
 ![[Pasted image 20231116191757.png]]
 #### Test explication
-- Test linéarité (Non linéaire, transformation non-linéaire augmente la fiabilité du modèle) B EXPLICATION DU TEST RESET
+- Test linéarité (Non linéaire, transformation non-linéaire augmente la fiabilité du modèle) B
 - Significativité ( 4 valeurs non significatives (income etc) B 
 - Colinéarité (Non colinéarité, VIF>10 pour HDI & Income) G
 - Homoscédasticité (hétéroscédasticité) B
@@ -49,6 +50,7 @@
 - Il aurait été possible de s'arrêter dès lors que nous avions vu que notre modèle ne présentait pas de linéarité pour le changer. 
 - Cependant, en continuant de tester les autres hypothèses, il a été possible de déterminer la cause du problème. 
 > En faisant la même transformation que le PIB a subit, alors le modèle prend son sens : Le modèle n'a du sens que lorsqu'il est rapporté à l'échelle d'un membre de la population d'un pays.
+- La forme "$Y_t =\beta_{0}+\beta_{1}x_{1}\dots$" ne s'adapte à notre modèle 1 car l'hypothèse de linéarité n'est pas respectée. Ainsi, il est nécessaire de trouver un modèle alternative.
 ## Modèle test 2 
 - Nuages de points
 - Le modèle test 2 va avoir la variable Yt transformé en Yt/capita, CO2_emission => CO2_emission_capita
@@ -58,7 +60,6 @@
 - Même modèle que le second modèle, composé des mêmes variables
 - Correction des erreurs du modèle test 2 (cf, significativité, colinéarité)
 - Ajout des variables indicatrices
-
 ![[Pasted image 20231118230435.png]]
 ![[Pasted image 20231118234054.png]]
 #### Test
@@ -99,4 +100,3 @@
 ### Pensée finale
 - Il serait intéressant de prolonger le modèle en observant si le niveau d'urbanisme et les pays a forte densité urbaine sont synonyme d'impact positif ou négatif sur l'émission de CO2
 - La relation entre les impacts sociologiques (éducations, E(Life), etc.) et émissions de CO2 n'a pas pu être mise en lumière par notre modèle. Un nouveau modèle se concentrant principalement sur ses variables pourraient montrer leur impact sur les émissions de CO2. 
-- 
