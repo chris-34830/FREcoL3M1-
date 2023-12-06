@@ -1,4 +1,3 @@
-
 ## Prévision d'une série chronologique avec les méthodes de prévision traditionnelles
 
 #### **Exercice 1**
@@ -26,7 +25,6 @@ L'analyse graphique nous permet de voir :
 - Le modèle est additive : l'amplitude est constante autour de la tendance.
 
 ##### **Constituer les tableaux de Buys-Ballot et Buys-Ballot classé**.
-
 - Tableau de Buys-Ballot : 
 
 | Date                | T1    | T2    | T3    | T4    | $x_{i.}$ | $s_{i.}$ |
@@ -38,7 +36,7 @@ L'analyse graphique nous permet de voir :
 | $x_{.j}$            | 23    | 14,5  | 12,75 | 31,75 | $x_{..}$ | $s_{..}$ |
 | $s_{.j}$ | 1,414 | 1,291 | 2,082 | 2,217 | 20,4375  | 8,0412              |
 Attention, l'écart type est à exprimer sans biais autrement, le test de Buys-Ballot ne sera pas juste.
-Ainsi, ${s}^2=\frac{n}{n-1}\sigma^{2} = \frac{\left( \frac{\sum x_{i}^2}{n} \right)-\bar{x}^2}{n-1}$
+Ainsi, ${s}^2=\frac{n}{n-1}\sigma^{2} = \frac{n \left (\frac{\sum x_{i}^2}{n} \right)-\bar{x}^2}{n-1}$
 
 - Tableau de Buys-Ballot classé : 
 
@@ -85,6 +83,5 @@ $t_{c}=\frac{\hat{\beta}}{s_{\beta}} \equiv T(n-2)$
 Pour calculer $\hat{\beta}=\frac{\operatorname{Cov}(s_{i.},x_{i.})}{\mathbb{V}(x_{i.})} \equiv \frac{\sum s_{i}x_{i}-\bar{s_{i}}x_{..}}{\sum x_{i.}^2-x_{..}^2}$
 Pour calculer $\hat{\alpha}=\bar{s}-\hat{\beta}x_{..}$, du coup on se retrouve avec désormais : $\hat{s_{i}}=\hat{\alpha}+\hat{\beta}x_{i}$
 Pour calculer $\hat{s_{\beta}}=\sqrt{ \frac{1}{\sum(x_{i.}-x_{..})^2}}\hat{s_{\epsilon}}$, cependant on cherche $\hat{s_{\epsilon}}=\frac{\sum(e_{t}^2)}{n-2} \equiv \frac{\sum(\hat{s_{i}}-\hat{\bar{s_{i}}})}{n-2}$
-
 
 # Suite tablette
