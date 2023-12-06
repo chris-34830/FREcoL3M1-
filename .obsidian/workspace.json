@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md"
               }
             }
           },
@@ -170,9 +170,11 @@
   "lastOpenFiles": [
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5. La théorie moderne du portefeuille de Markowitz.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
-    "Sans titre.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/3. Comment évaluer le prix des obligations.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2. Théorie de l’efficience des Marchés.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/4. Comment évaluer le prix des actions.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/3. Comment évaluer le prix des obligations.md",
+    "Sans titre.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
@@ -211,8 +213,6 @@
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/857E6400",
     "Pasted image 20231116184248.png",
     "Pasted image 20231116184535.png",
-    "Pasted image 20231103201337.png",
-    "M1 Analyse des risques bancaires/S1/1.4 Fouille de données et base de données/1.4 Travaux dirigés/TD 2.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/4. Comment évaluer le prix des actions.md"
+    "Pasted image 20231103201337.png"
   ]
 }
