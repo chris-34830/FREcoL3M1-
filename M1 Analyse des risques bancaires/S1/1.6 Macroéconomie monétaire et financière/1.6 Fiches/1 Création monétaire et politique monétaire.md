@@ -1,4 +1,3 @@
-
 ##### Création Monétaire
 - Décomposition du Bilan d'une Banque Centrale
 
@@ -7,8 +6,7 @@
 | Titres d'Etats | Billets<br>Réserves des BCOM |
 >**Actif**: Composé principalement de titres d'État, qui sont des instruments financiers avec des rendements.
 >**Passif**: Représenté par la base monétaire, incluant les billets et les réserves des banques commerciales (BCOM).
-
-##### Expansion Monétaire
+##### **Expansion Monétaire**
 Pour augmenter la base monétaire (MBC), on utilise l'opération d'achat de titres ou open market (AOM). 
 - La banque centrale (BC) effectue ces achats sur le marché obligataire des banques commerciales.
 - Bilan de la Banque Centrale avant l'Opération
@@ -28,7 +26,7 @@ Pour augmenter la base monétaire (MBC), on utilise l'opération d'achat de titr
 | Titres d'État -100<br>RO +100 |        |
 
 La Banque Centrale (BC) réalise des achats de titres auprès d'agents non bancaires, impactant ainsi les secteurs privés non bancaires et le système bancaire.
-- Impact sur le Secteur Privé Non-Bancaire :
+- Impact sur le Secteur Privé None-Bancaire :
 
 | Actifs               | Passif               |
 |----------------------|----------------------|
@@ -125,8 +123,6 @@ La BC établit un taux de RO de 10% et effectue un AOM de 100 unités avec la Ba
 |----------------------|---------------------|
 | RO: +9<br>Crédit: +81| Dépôts: +90         |
 >Les banques prêtent les dépôts tout en respectant le taux de réserves obligatoires, ce qui démontre le multiplicateur monétaire où les fonds de la BC sont amplifiés dans l'économie par des crédits et dépôts successifs.
-
-
 - Une banque commerciale ne peut prêter plus que ce que ses réserves obligatoires lui permettent sans impacter la base monétaire centrale (MBC). 
 - Cependant, collectivement, le système bancaire peut entraîner une multiplication des dépôts. La formule pour cette relation est :
 $$ \Delta D = \frac{1}{r} \Delta RO $$

@@ -6,6 +6,26 @@
       {
         "id": "72870dde160253e7",
         "type": "tabs",
+        "dimension": 75.06259389083625,
+        "children": [
+          {
+            "id": "c617e0bdaad8de2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "91333292c95b5ff2",
+        "type": "tabs",
+        "dimension": 24.937406109163746,
         "children": [
           {
             "id": "83539c3d988d945e",
@@ -13,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Révision partiel CM/Sujet 2021.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Notes/Glossaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Révision partiel CM/Sujet 2021.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Révision partiel CM/Sujet 2021.md",
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Révision partiel CM/Sujet 2021.md"
+                "file": "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md"
               }
             }
           },
@@ -166,27 +186,32 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "83539c3d988d945e",
+  "active": "c617e0bdaad8de2e",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/3 Les politiques monétaires NC.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/2 Politique monétaire ; Mandats des BC et Inflation.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
+    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1.2 Instruments de Politique Monétaire.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Notes/Glossaire.md",
+    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Notes",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/TD1 non corrigé.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Révision partiel CM/Sujet 2021.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 1 (2022).pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 2 (2022).pdf",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2. Théorie de l’efficience des Marchés.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/2 Politique monétaire ; Mandats des BC et Inflation.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1.2 Instruments de Politique Monétaire.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/3 Les politiques monétaires NC.md",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/TD1 non corrigé.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1.2.5 La méthode du maximum de vraisemblance.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Dossier Gretl.gdt",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/Chapitre 4.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/4. Comment évaluer le prix des actions.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/3. Comment évaluer le prix des obligations.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5. La théorie moderne du portefeuille de Markowitz.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/5.2 Le MEDAF et ses extensions.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 2.md",
     "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Travaux dirigés/TD 3.md",
     "Snippets LaTeX WIP.md",
@@ -195,15 +220,10 @@
     "Rappels WIP/Mathématique/Fonction.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1 Estimation par moindre carré ordinaire.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/3 Les propriétés asymptotiques de l'estimateur MCO.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/4 L’estimateur de la Méthode des Moments Généralisée.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Résumé article.md",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2023 2024.pdf",
     "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2 2023 2024.pdf",
-    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/LIVRE_qui_lui_sert_de_support.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Econométrie_Théorique.pdf",
     "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/Sans titre",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière",
     "Pasted image 20231116191757.png",
     "Pasted image 20231123135259.png",
     "Pasted image 20231123181005.png",

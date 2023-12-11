@@ -1,0 +1,18 @@
+- **BCOM** - banques commerciales 
+- **BC** - Banque centrale
+- **RO** - Réserves Obligatoires
+- **MBC** - Monnaie de Base Centrale 
+- **OMO** - Opérations de Marché Ouvert
+- **MO** - Masse Monétaire
+- **APU** - Administrations Publiques
+- **SPNB** - Secteur Public Non Bancaire 
+- **RE** - Réserves Excédentaires 
+- **AOM** - Achat open market
+- **IMM** -  Marché Interbancaire
+- **TAJJ** - Taux d'intérêt
+- **r** - taux de réserves obligatoires
+- **e** - taux de réserves excédentaires
+- **b** - conversion des dépôts en billets 
+- **M** - masse monétaire étroite
+- **m** - multiplicateur monétaire
+- 
