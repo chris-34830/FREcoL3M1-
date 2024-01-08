@@ -14,3 +14,6 @@ My personal viewpoint is that, despite the upcoming changes the banking sector m
 Nonetheless, looking further ahead, I anticipate that traditional banks will have a more limited role in the future compared to their present scope. I foresee payment systems evolving to the point where they are no longer exclusively the domain of banks, with private enterprises entering the market, as mentioned in the article. However, I don't believe we'll find a complete replacement for the conventional deposit system.
 Consider the case of Lydia, a French unicorn specializing in mobile payment services, which has recently sought accreditation to become a full-fledged banking institution. Could it be that, barring significant political disruptions, the new technologies and companies aiming to revolutionize the banking sector will eventually evolve into full-fledged banking institutions regardless?
 Furthermore, the 2008 financial crisis serves as a compelling example of the adverse outcomes that can result from the deregulation of the banking system. This crisis, partly instigated by the elimination of the Glass-Steagall Act in 1999, a move that dissolved the longstanding divide between commercial and investment banks, stands as a clear indication of the risks tied to banking deregulation.
+
+
+# 16/20

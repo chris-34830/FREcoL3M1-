@@ -1,0 +1,5 @@
+- Troisième modèle mal formulé, il aurait été mieux de faire la transformation inverse sur la seconde variable income
+- R² élevé car structurellement gonflé (Normalisation par habitant sur plusieurs variables)
+- Manque tableau récapitulatif
+- Quelques remarques sur les modèles mais les réponses étaient en annexe (cf sur les variables indicatrices et la variable de référence)
+- Note finale : 17/20

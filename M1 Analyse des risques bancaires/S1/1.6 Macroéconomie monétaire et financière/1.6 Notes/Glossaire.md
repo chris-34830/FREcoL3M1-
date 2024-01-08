@@ -15,4 +15,3 @@
 - **b** - conversion des dépôts en billets 
 - **M** - masse monétaire étroite
 - **m** - multiplicateur monétaire
-- 
