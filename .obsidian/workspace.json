@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f5a08134fcc218d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gitignore.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gitignore.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gitignore.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md"
               }
             }
           },
@@ -143,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -174,39 +189,41 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "8f5a08134fcc218d",
   "lastOpenFiles": [
     "README.md",
-    "Rappels WIP/Statistiques/Modèle prédictifs.md",
-    "Rappels WIP/Statistiques/Statistique inférentielle.md",
-    "Rappels WIP/Statistiques/Statistique exploratoire.md",
-    "Rappels WIP/Statistiques/Outils probabilistes.md",
-    "Rappels WIP/Mathématique/Lycée.md",
-    "Rappels WIP/Mathématique/L2.md",
-    "Rappels WIP/Mathématique/L1.md",
-    "Rappels WIP/Mathématique/L3.md",
-    "Rappels WIP/Mathématique/Godement I II III (hors riemann).md",
-    "Rappels WIP/Mathématique/Fonction.md",
-    "Gitignore.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.3 Optimisation sous contrainte.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
-    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
-    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/5.4.2 Le modèle de Solow.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1 Introduction & rappel.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.1 Introduction marché.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.2 La demande du marché.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.3 L'élasticité.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.4 Les coûts.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.1.5 Bien être et surplus.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.1 Introduction organisation industrielle.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2 Organisation industrielle.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.2 le monopole.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.4 Collusion.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.5 Fusion & Concentration.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Cournot note.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Fusion note.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Le principe d'optimisation.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/modèles.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Paradigme SCP.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.1 Partiel OI 2020-2021.md",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
+    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/1.4.2 Partiel OI 2018-2019.md",
     "Licence 3/S5/5.3 Econométrie/5.3 Cours/5.3.1 Les hypothèses du modèle.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
-    "Snippets LaTeX WIP.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Template LaTeX à conserver pour PEA.md",
+    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1 Optimisation statique.md",
+    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.1 Fonction, élèment de base.md",
+    "Licence 3/S5/5.5 Optimisation/5.5 Cours/5.5.1.2 Optimisation libre.md",
+    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
+    "Licence 3/S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Dossier final.pdf",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Observations soutenance.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/Partiel Econométrie théorique.pdf",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Insurance sector new challenge.md",
-    "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Résumé article.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/1. Organisation et fonctionnement des marchés financiers.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/2. Théorie de l’efficience des Marchés.md",
-    "Licence 3/S6/6.3 Base de Donnée/6.3 Cours/6.3 Cours complet.pdf",
-    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Travaux dirigé/6.1 Sujet.pdf",
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Sans titre",
@@ -219,8 +236,6 @@
     "Pasted image 20231118234054.png",
     "Pasted image 20231118230435.png",
     "Pasted image 20231119000756.png",
-    "Pasted image 20231116184248.png",
-    "Pasted image 20231116184535.png",
-    "Pasted image 20231103201337.png"
+    "Pasted image 20231116184248.png"
   ]
 }
