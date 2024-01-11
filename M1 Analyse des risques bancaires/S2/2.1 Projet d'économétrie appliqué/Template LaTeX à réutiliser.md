@@ -1,4 +1,5 @@
 ## Template 
+
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -23,22 +24,22 @@
   round-mode=places, % Arrondit les nombres
   round-precision=2, % Arrondit à 2 chiffres après la virgule
   table-align-text-post=false, % Assure que l'alignement tient compte des textes après les nombres
-}
+} % Permet de normaliser les tables
 \setcounter{secnumdepth}{4}
-% Ajouter le niveau de subsubsubsection, non numéroté
+% Ajouter le niveau de subsubsubsection, non numéroté cf 1.1.1.1
 \titleclass{\subsubsubsection}{straight}[\subsection]
 \newcounter{subsubsubsection}
 \renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
 \titleformat{\subsubsubsection}
 {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
 \titlespacing*{\subsubsubsection}
-{0pt}{1.ex plus 1ex minus .2ex}{0,5ex plus .2ex}
+{0pt}{1.ex plus 1ex minus .2ex}{0,5ex plus .2ex} % Parametre de mise en page 
 
-% Vérifier que ces niveaux apparaissent dans la table des matières
+% Vérifier que ces niveaux apparaissent dans la table des matières et pas dans le sommaire
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
 
-% Ajouter la prise en charge pour la table des matières
+% Ajouter la prise en charge pour la table des matières uniquement 
 \makeatletter
 \let\toclevel@subsubsubsection\toclevel@subsection
 \let\l@subsubsubsection\l@subsection
@@ -47,12 +48,12 @@
 
 \linespread{1.10}
 
-% Personnalisation des titres de sections
+% Personnalisation des titres de sections, inutile pour subsubsubsection 
 \titleformat{\section}{\fontsize{15}{16}\selectfont\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\fontsize{12}{14}\selectfont\bfseries}{\thesubsection}{1em}{}
 \titlespacing*{\subsection}{0pt}{1.75ex plus 1ex minus .2ex}{0,75ex plus .2ex}
 \titleformat{\subsubsection}{\fontsize{12}{13}\selectfont\bfseries}{\thesubsubsection}{1em}{}
-\titlespacing*{\subsubsection}{0pt}{1.5ex plus 1ex minus .2ex}{0,5ex plus .2ex}
+\titlespacing*{\subsubsection}{0pt}{1.5ex plus 1ex minus .2ex}{0,5ex plus .2ex} 
 
 % Configuration de l'en-tête
 \fancyhf{} % Vide l'en-tête et le pied de page
@@ -61,7 +62,7 @@
 \renewcommand{\headrulewidth}{0,4pt} % Ligne sous l'en-tête
 \fancyfoot[C]{\thepage} % Numéro de page au centre du pied de page
 
-% Applique le style fancy aux pages qui ne sont pas la première
+% Applique le fancystyle aux pages autre que la premiere page
 \pagestyle{fancy} 
 
 \title{**TITRE**}
