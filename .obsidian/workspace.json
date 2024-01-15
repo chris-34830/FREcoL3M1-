@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +192,7 @@
   },
   "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
     "Rappels WIP/Statistiques/Statistique inférentielle.md",
     "Rappels WIP/Statistiques/Statistique exploratoire.md",
@@ -203,7 +204,6 @@
     "Rappels WIP/Mathématique/L1.md",
     "Rappels WIP/Mathématique/Godement I II III (hors riemann).md",
     "README.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Résumé étude Mo",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Brouillon Mo",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué",
