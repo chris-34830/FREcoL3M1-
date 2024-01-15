@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +192,7 @@
   },
   "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
     "Rappels WIP/Statistiques/Statistique inférentielle.md",
     "Rappels WIP/Statistiques/Statistique exploratoire.md",
     "Rappels WIP/Statistiques/Outils probabilistes.md",
@@ -225,7 +226,6 @@
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/1 Estimation par moindre carré ordinaire.md",
     "Gitignore.md",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours/Introduction.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliquée/2.1 Cours",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
