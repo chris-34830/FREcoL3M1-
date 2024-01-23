@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gitignore.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md"
               }
             }
           },
@@ -189,15 +188,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "f427058bc25c7b71",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
+    "Gitignore.md",
+    "Sans titre 1.md",
+    "Sans titre.md",
+    "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Cours/6.4.1 Construction de l'état moderne.md",
     "Pasted image 20231206161223.png",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours",
@@ -205,7 +209,6 @@
     "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 1-4 (partagé).md",
     "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/PES_SyntheseSerie3.pdf",
     "Licence 3/S6/6.4 Politique Economique et Sociale/6.4 Travaux dirigé/Séances 6-9.md",
-    "Gitignore.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Template LaTeX à réutiliser.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Résumé étude Mo",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Brouillon Mo",
@@ -222,9 +225,6 @@
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3 Oligopole.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.1 Bertrand Model.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.3.2 Bertrand vs Cournot.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.4 Collusion.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Cours/5.1.2.5 Fusion & Concentration.md",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Cournot note.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
@@ -235,7 +235,6 @@
     "Pasted image 20231119000224.png",
     "Pasted image 20231118234054.png",
     "Pasted image 20231118230435.png",
-    "Pasted image 20231119000756.png",
-    "Pasted image 20231116184248.png"
+    "Pasted image 20231119000756.png"
   ]
 }
