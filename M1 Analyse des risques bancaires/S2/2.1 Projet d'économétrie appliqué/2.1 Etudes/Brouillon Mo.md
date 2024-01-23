@@ -1,0 +1,72 @@
+EXEMPLE avec projet semestre dernier :
+### Ener_Intens
+ La consommation d’énergie par tête peut révéler l’efficacité avec laquelle un pays utilise l’énergie pour répondre aux besoins de sa population
+### Définition 
+ La quantité d’énergie consommée par habitant, mesurée en quadrillions d’unités thermiques britanniques (BTU).
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
+Lien / source
+### [Insérer nom variable]
+[Insérer justificatif + information complémentaire choix variables]
+### Définition (Inclus sa temporalité)
+[Définir la variable & sa temporalité]
+
