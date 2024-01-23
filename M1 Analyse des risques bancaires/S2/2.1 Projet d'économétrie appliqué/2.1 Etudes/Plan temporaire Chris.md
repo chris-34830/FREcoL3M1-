@@ -2,20 +2,20 @@
 ## Introduction
 #### Contexte macroéconomique :
 **Faire le tour des objectifs mondiaux et des réglementations internationales**
-- L'accord de Paris ENCORE ET TOUJOURS
-- Normes d'émissions mondiales
+- L'accord de Paris ENCORE ET TOUJOURS *Compiler des déclarations
+- Normes d'émissions mondiales  *Compiler des déclarations
 **Faire le tour des politiques environnementales et réglementation en Europe**
-- Expliquer l'augmentation de réglementation strictes sur les émissions de CO2
-- Expliquer les différentes politiques fiscales/incitatives en Europe
-- Quantifier les investissements hors incitations dans les infrastructures pour EV
+- Expliquer l'augmentation de réglementation strictes sur les émissions de CO2 *Compiler des déclarations
+- Expliquer les différentes politiques fiscales/incitatives en Europe *Voir dosser ACEA
+- Quantifier les investissements hors incitations dans les infrastructures pour EV *Se référer aux données gouvernementales
 **Supposer un lien avec la hausse des prix de l'énergie fossile / thermique**
-- Peut-être poser modèle économétrique, à voir
-- Importance grandissante de l'indépendance énergétique
+- Peut-être poser un modèle économétrique, à voir 
+- Importance grandissante de l'indépendance énergétique  *Compiler des déclarations
 **Déterminer un changement de moeurs en Europe**
-- Se renseigner sur la conscience écologique en Europe
-- Se renseigner sur les raisons qui poussent à l'achat d'une BEV
+- Se renseigner sur la conscience écologique en Europe *Recherche étude
+- Se renseigner sur les raisons qui poussent à l'achat d'une BEV *Recherche étude
 #### Statistique exploratoires :
-
+- Comme Econométrie Théorique
 ## Partie 1 : A déterminer selon options suivantes
 - Modèle économétrique cherchant à expliquer la vente de véhicule en Europe
 - On rentre directement dans la prévision (Nul)
