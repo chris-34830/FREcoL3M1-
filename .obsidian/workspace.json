@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,11 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30b0c6652c49bcbd",
+  "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
     "Rappels WIP/Statistiques/Statistique inférentielle.md",

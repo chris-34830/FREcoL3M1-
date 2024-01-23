@@ -1,7 +1,7 @@
 {
   "cssTheme": "ITS Theme",
   "accentColor": "#bd4ce6",
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "nativeMenus": true,
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Arial",
