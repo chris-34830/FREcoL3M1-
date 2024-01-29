@@ -30,6 +30,15 @@
 #### Détails
 - Présentation macroéconomique OBLIGATOIRE
 - Représentation GRAPHIQUE OBLIGATOIRE
-- 
 
-## Cours 2
+#### Cours 2
+Commencer le dossier avec une représentation graphique et une présentation macroéconomique long terme du sujet.  Insérer ensuite les statistiques descriptives de notre valeur expliquée. 
+Si base de donnée incomplète, faire une extrapolation linéaire. 
+Si valeur aberrante, la supprimé de la base de donnée pour ne pas fausser le résultat. 
+Faire un test de Arch sur la série de départ pour vérifier l'hétéroscédasticité (Hypothèse HO : la série présente de l'hétéroscédasticité et non les résidus). Pour se faire, on fait une régression "factice", on régresse la variable Y en fonction de la constante uniquement. 
+Faire une transformation logarithmique. Ne pas oublier qu'à ce point nous travaillons sur la série.
+Tester la saisonnalité et la tendance de la série.
+
+Pour le test unitaire, faire la stratégie donnée en cours. 
+
+
