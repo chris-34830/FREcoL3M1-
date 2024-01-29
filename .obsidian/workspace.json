@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,26 +180,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Question à poser en TD Chris.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+    "README.md",
+    "Sans titre.md",
+    "Pasted image 20231206161223.png",
+    "Gitignore.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BDD_BED_Chris_PEA_Test1.xlsx",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/TD Econométrie théorique.pdf",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
     "Rappels WIP/Statistiques/Statistique inférentielle.md",
     "Rappels WIP/Statistiques/Statistique exploratoire.md",
     "Rappels WIP/Statistiques/Outils probabilistes.md",
@@ -209,7 +215,6 @@
     "Rappels WIP/Mathématique/L2.md",
     "Rappels WIP/Mathématique/L1.md",
     "Rappels WIP/Mathématique/Godement I II III (hors riemann).md",
-    "README.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Résumé étude Mo",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Brouillon Mo",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué",
@@ -224,16 +229,11 @@
     "M1 Analyse des risques bancaires/S1/1.3 Anglais/1.3 Devoir à rendre/Insurance sector new challenge.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/Partiel Econométrie théorique.pdf",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Template LaTeX à conserver pour PEA.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Observations soutenance.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/5 La méthode du maximum de vraisemblance.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/4 L’estimateur de la Méthode des Moments Généralisée.md",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Fiches/3 Les propriétés asymptotiques de l'estimateur MCO.md",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
-    "Pasted image 20231206161223.png",
     "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
     "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Malthus augmenter y.png",
     "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Baisse productivité globale SS.png",
