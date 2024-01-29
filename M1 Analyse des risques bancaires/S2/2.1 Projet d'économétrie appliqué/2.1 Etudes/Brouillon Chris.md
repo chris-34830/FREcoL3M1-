@@ -16,6 +16,7 @@
 - Calcul : Quantité total vendus par le % de part de marchés de BEV
 - Commentaire : Acea jugé plus fiable
 #### Variable voiture thermique
+- Source : Croisée des deux sources
 - Calcul : Différence voiture total - voiture BEV
 - Raison : On se concentre sur les voitures FULL ELECTRIQUES
 - Commentaire : Perte de pertinence mais absence de données cohérentes sur les plug-in cars

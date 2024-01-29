@@ -1,4 +1,6 @@
-#### Résumé
+## Résumé
+## Sommaire
+[Insérer Sommaire]
 ## Introduction
 #### Contexte macroéconomique :
 **Faire le tour des objectifs mondiaux et des réglementations internationales**
@@ -32,6 +34,5 @@
 ## Annexe
 - On refait comme pour économétrie théorique, modèles complémentaires en Annexe
 - Pas de capture d'écran
-- 
 
 
