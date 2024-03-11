@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Dossier à rendre/Ryan Air.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9c2674f57d6fd06",
+            "id": "83897dd5a25dc366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,54 +190,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c2674f57d6fd06",
+  "active": "83897dd5a25dc366",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Question Chris.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Danone/Untitled.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
+    "Pasted image 20240311075000.png",
+    "Pasted image 20240311075020.png",
+    "Pasted image 20240311075016.png",
+    "Pasted image 20240311075013.png",
+    "Pasted image 20240311075008.png",
+    "Pasted image 20240311075005.png",
+    "Pasted image 20240311075002.png",
+    "Pasted image 20240311074951.png",
+    "Pasted image 20240311074938.png",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Danone",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
+    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Dossier à rendre/Ryan Air.md",
+    "Gitignore.md",
     "Untitled 1.md",
     "Untitled.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
     "README.md",
-    "Sans titre.md",
-    "Pasted image 20231206161223.png",
-    "Gitignore.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BDD_BED_Chris_PEA_Test1.xlsx",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/TD1 non corrigé.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Fiches/1.1._ Fiche.md",
+    "M1 Analyse des risques bancaires/S1/1.1 Méthode de prévisions/1.1 Travaux dirigé/Méthode de prévision 2 2023 2024.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Template LaTeX à conserver pour PEA.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.2 Analyse fonctionnelle.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.3 Analyse patrimoniale.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Travaux dirigés non corrigés.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/Rappel.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/6.1 Résultat exceptionnel.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/4. Résultat d'exploitation.md",
+    "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/6. Résultat Net.md",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Dossier final.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Exercices théoriques (2023-2024)-1.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Observations soutenance.md",
+    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/TD Econométrie théorique.pdf",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Travaux dirigé/Corrigé QCM - VF - Chapitre 2 (2022).pdf",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
+    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Dossier à rendre",
+    "Pasted image 20231206161223.png",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BDD_BED_Chris_PEA_Test1.xlsx",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes",
-    "Rappels WIP/Statistiques/Statistique inférentielle.md",
-    "Rappels WIP/Statistiques/Statistique exploratoire.md",
-    "Rappels WIP/Statistiques/Outils probabilistes.md",
-    "Rappels WIP/Statistiques/Modèle prédictifs.md",
-    "Rappels WIP/Mathématique/Lycée.md",
-    "Rappels WIP/Mathématique/L3.md",
-    "Rappels WIP/Mathématique/L2.md",
-    "Rappels WIP/Mathématique/L1.md",
-    "Rappels WIP/Mathématique/Godement I II III (hors riemann).md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Résumé étude Mo",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Brouillon Mo",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Notes/Glossaire.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/3 Les politiques monétaires NC.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/2 Politique monétaire ; Mandats des BC et Inflation.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1.2 Instruments de Politique Monétaire.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches/1 Création monétaire et politique monétaire.md",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Notes",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière/1.6 Fiches",
-    "M1 Analyse des risques bancaires/S1/1.6 Macroéconomie monétaire et financière",
-    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/Partiel Econométrie théorique.pdf",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P2.png",
-    "Licence 3/S5/5.1 Microéconomie/5.1 Notes/Graphique élasticité.png",
-    "M1 Analyse des risques bancaires/S1/1.6 Entrepôt de donnée/1.6 Travaux dirigé/Modèle en étoiles, accidentologie.png",
-    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Malthus augmenter y.png",
-    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Baisse productivité globale SS.png",
-    "Licence 3/S5/5.4 Economie de la croissance/5.4 Cours/Malthus augmentation prod.png",
     "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
