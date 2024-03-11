@@ -1,4 +1,5 @@
 ## Résumé
+
 ## Sommaire
 [Insérer Sommaire]
 ## Introduction
@@ -18,13 +19,11 @@
 - Se renseigner sur les raisons qui poussent à l'achat d'une BEV *Recherche étude
 #### Statistique exploratoires :
 - Comme Econométrie Théorique
-## Partie 1 : A déterminer selon options suivantes
-- Modèle économétrique cherchant à expliquer la vente de véhicule en Europe
-- On rentre directement dans la prévision (Nul)
-## Partie 2 : A déterminer selon options suivantes
-- Si choix 2 pour partie 1, Focus sur la France ?
-- Si choix 1 pour partie 1, prévision Europe + France ici ? 
-- Autre ?
+## Partie 1 :
+- On rentre directement dans la prévision en Europe
+- Détermination du TP et de la meilleur façon de prévoir
+## Partie 2 :
+- On se concentre sur UK, France, Norvège en appliquant la méthode déterminée par la partie 1
 ## Partie 3 : Partie d'analyse financière?
 - Quel impact pour les entreprises du secteurs ?
 - Focus sur une entreprise ? Liant ses performances avec les résultats trouvés précédemment ?
@@ -32,7 +31,10 @@
 ## Conclusion 
 
 ## Annexe
-- On refait comme pour économétrie théorique, modèles complémentaires en Annexe
+- On refait comme pour économétrie théorique, modèles complémentaires / préambule en Annexe
 - Pas de capture d'écran
 
+
+Essayer de trouver les données de 2019, sinon commencer la prévision à partir de 6mois
+Prévoir la tendance, vérifier hétéro, si saisonnière.
 

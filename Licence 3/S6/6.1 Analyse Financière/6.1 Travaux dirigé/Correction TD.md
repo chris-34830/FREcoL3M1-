@@ -94,16 +94,16 @@ Ainsi que :
 | Impôts sur les bénéfices | - 333 847 000 | - 229 703 000 |
 | Capacité d'autofinancement | 6 732 333 | 7 952 732 |
 #### Méthode additive
-|                                                    | 2020          | 2021          |
-| -------------------------------------------------- | ------------- | ------------- |
-| Résultat net                                       | 6 103 264 000 | 4 114 367 000 |
-| Reprises sur provisions                            | - 0           | - 2 589 000   |
-| Dotations aux Amortissements                       | 286 569 000   | 3 480 446 000 |
-| Dotations aux Provisions                           | 342 500 000   | 376 523 000   |
-| Produits sur cessions d'immobilisations            | - 1 130 000   | - 26 599 000  |
-| Valeur nette comptable des éléments d'actifs cédés | 1 130 000     | 10 584 000    |
-| Capacité d'autofinancement                         | 6 732 333     | 7 952 732     |
-#### Analysez
+|  | 2020 | 2021 |  |
+| ---- | ---- | ---- | ---- |
+| Résultat net | 6 103 264 000 | 4 114 367 000 |  |
+| Reprises sur provisions | - 0 | - 2 589 000 |  |
+| Dotations aux Amortissements | 286 569 000 | 3 480 446 000 |  |
+| Dotations aux Provisions | 342 500 000 | 376 523 000 |  |
+| Produits sur cessions d'immobilisations | - 1 130 000 | - 26 599 000 |  |
+| Valeur nette comptable des éléments d'actifs cédés | 1 130 000 | 10 584 000 |  |
+| Capacité d'autofinancement | 6 732 333 | 7 952 732 |  |
+## Analyse
 Commençons par calculer les ratios de rentabilité :
 | Ratio de rentabilité       | Formule                                                                                   | 2020      | 2021       | Variation                                                                                                                                           |
 | -------------------------- | ----------------------------------------------------------------------------------------- | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -360,3 +360,5 @@ Sinon $$\frac{\frac{\Delta\text{Résultat d'exploitation}}{\text{Résultat d'exp
 | **Financement des emplois stables**  | $\frac{\large{\text{Ressource stables}}}{\text{Emploi stables}}$          | 1.2     | 1       | 0.90    |
 | **Capacité de remboursement**        | $\frac{\large{\text{Dettes financières}}}{\text{CAF}}$                    | 6.97    | 7.74    | 12.9    |
 | **Poids du BFRE en j de CA**         | $\frac{\large{\text{BFRE}}}{\text{CA}}\times 3600$                        | 114.23j | 118j    | 116.22j |
+
+
