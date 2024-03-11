@@ -23,11 +23,9 @@
             "id": "b9c2674f57d6fd06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
-                "mode": "source",
-                "source": false
+                "file": "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf"
               }
             }
           }
@@ -84,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md"
+                "file": "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+                "file": "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
+                "file": "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +190,7 @@
   },
   "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
     "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md",
@@ -209,7 +208,6 @@
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Template LaTeX à réutiliser.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Chris.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Brouillon Mo.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Travaux dirigé/Correction TD.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.1 Analyse de l'Activité.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Cours/6.1.4 Ratio.md",
@@ -224,7 +222,6 @@
     "Gitignore.md",
     "Untitled.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BBD_PEA_Chris_V2.xlsx",
-    "M1 Analyse des risques bancaires/S2/Technique bancaire/Cours",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/2. Valeur ajoutée.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Production de l'exercice.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
