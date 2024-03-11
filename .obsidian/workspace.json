@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md"
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md",
+                "file": "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Plan temporaire Chris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +192,17 @@
   },
   "active": "b9c2674f57d6fd06",
   "lastOpenFiles": [
-    "M1 Analyse des risques bancaires/S2/Technique bancaire/Cours/Technique bancaire.md",
+    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 1 - ACP - Méthode Calculs-7.pdf",
+    "Licence 3/S6/6.2 Analyse de Donnée/6.2 Travaux dirigé/Thème 2 - ACP - Aspects interprétatifs-1.pdf",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé/Sans titre.md",
+    "M1 Analyse des risques bancaires/S2/Technique bancaire/Cours/Technique bancaire.md",
+    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Dossier à rendre/Ryan Air.md",
+    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Dossier à rendre",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Danone/Untitled.md",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Danone/PEA1.xlsx",
+    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Danone",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Danone.xlsx",
+    "M1 Analyse des risques bancaires/S1/1.2 Econométrie Théorique/1.2 Projet/Danone.gdt",
     "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/2.2 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Cours/Introduction.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/Résumé étude Mo.md",
@@ -216,18 +225,9 @@
     "Untitled.md",
     "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BBD_PEA_Chris_V2.xlsx",
     "M1 Analyse des risques bancaires/S2/Technique bancaire/Cours",
-    "M1 Analyse des risques bancaires/S2/Technique bancaire",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/2. Valeur ajoutée.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Production de l'exercice.md",
     "Licence 3/S6/6.1 Analyse Financière/6.1 Notes/1. Marge commerciale.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/3. Comment évaluer le prix des obligations.md",
-    "M1 Analyse des risques bancaires/S1/1.5 Finance de marché/1.5 Fiche/6. Introduction aux Produits Dérivés Vanilles.md",
-    "M1 Analyse des risques bancaires/S2/2.2 Finance d'entreprise/Travaux dirigé",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes/BDD_BED_Chris_PEA_Test1.xlsx",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/2.1 Etudes",
-    "Rappels WIP/Statistiques/Statistique inférentielle.md",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Résumé étude Mo",
-    "M1 Analyse des risques bancaires/S2/2.1 Projet d'économétrie appliqué/Brouillon Mo",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Orga_Indu_2018-2019-1.jpg",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P1.png",
     "Licence 3/S5/5.1 Microéconomie/5.1 Partiel fait non corrigé/Partiel OI 2020--2021 P3.png",
